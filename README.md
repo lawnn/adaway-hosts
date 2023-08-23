@@ -26,4 +26,13 @@ Thank you!
 でご支援いただくことで、このプロジェクトをより良いものにすることができます。ありがとうございます！
 
 ---
-* [@logroid](https://twitter.com/logroid)
+* [@logroid](https://twitter.com/logroid)       
+
+# remove_hosts.py
+名前解決ができなくなった domain をこのコマンド一つで削除します(hosts.txtのみ)
+# update_git.py
+hosts.txt内の日付とdomain数に変更を加えてcommitしてpushします.        
+
+android private DNS の設定方法は下記noteをご覧ください     
+※ 無料部分で大体のやり方は書いてます.        
+[Pi-hole + nginx + android private dns(DoT) 家でも外出先でも広告カット](https://note.com/shiba_memo_note/n/ncb76466a5e55)        
