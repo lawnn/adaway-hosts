@@ -1,12 +1,9 @@
 # AdAway Blocking Hosts File for Japan - Block List
 #
 # author: logroid
-#         https://github.com/logroid/adaway-hosts
-#         https://logroid.blogspot.com/
-#         https://twitter.com/logroid
 #
-# last updated: 2023/08/14
-# block hosts: 15388 entry
+# last updated: 2023/08/23
+# block hosts: 15355 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -2126,8 +2123,6 @@
 127.0.0.1 gtp16.acecounter.com
 127.0.0.1 wgc1.acecounter.com
 
-# acestats.com
-127.0.0.1 acestats.com
 
 # aceweb.net
 127.0.0.1 ads.aceweb.net
@@ -2411,7 +2406,6 @@
 
 # ad20.net
 127.0.0.1 content.ad20.net
-127.0.0.1 core.ad20.net
 
 # ad2000.org
 127.0.0.1 ad2000.org
@@ -2472,8 +2466,6 @@
 # adapf.com
 127.0.0.1 adapf.com
 
-# adapt.tv
-127.0.0.1 adapt.tv
 
 # adbard.net
 127.0.0.1 adbard.net
@@ -2681,8 +2673,6 @@
 # addded.com
 127.0.0.1 addded.com
 
-# addfreestats.com
-127.0.0.1 top.addfreestats.com
 
 # addme.com
 127.0.0.1 addme.com
@@ -6093,7 +6083,6 @@
 127.0.0.1 adin.bigpoint.com
 
 # bigrebelads.com
-127.0.0.1 ads.bigrebelads.com
 
 # bigredcoupon.com
 127.0.0.1 bigredcoupon.com
@@ -6295,8 +6284,6 @@
 # blogtoplist.se
 127.0.0.1 blogtoplist.se
 
-# blogtopsites.com
-127.0.0.1 blogtopsites.com
 
 # blokan.jp
 127.0.0.1 my.blokan.jp
@@ -7271,7 +7258,6 @@
 127.0.0.1 minyanville.checkm8.com
 127.0.0.1 ny.checkm8.com
 127.0.0.1 q1.checkm8.com
-127.0.0.1 q1digital.checkm8.com
 127.0.0.1 rmm1u.checkm8.com
 127.0.0.1 web2.checkm8.com
 
@@ -7293,7 +7279,6 @@
 127.0.0.1 ads.chickclick.com
 
 # chie8oo.com
-127.0.0.1 i.chie8oo.com
 
 # china.cn
 127.0.0.1 log.china.cn
@@ -8906,8 +8891,6 @@
 127.0.0.1 trafficneeds.directtrack.com
 127.0.0.1 varsityads.directtrack.com
 
-# directvalue.nl
-127.0.0.1 directvalue.nl
 
 # discountclick.com
 127.0.0.1 discountclick.com
@@ -10379,8 +10362,6 @@
 127.0.0.1 prof.estat.com
 127.0.0.1 w.estat.com
 
-# estats.com
-127.0.0.1 estats.com
 
 # etahub.com
 127.0.0.1 etahub.com
@@ -11466,10 +11447,6 @@
 # freestat.pl
 127.0.0.1 freestat.pl
 
-# freestats.com
-127.0.0.1 abbyssh.freestats.com
-127.0.0.1 freestats.com
-127.0.0.1 insurancejournal.freestats.com
 
 # freestats.tv
 127.0.0.1 freestats.tv
@@ -13450,15 +13427,7 @@
 # htmlcounter.com
 127.0.0.1 htmlcounter.com
 
-# httpool.com
-127.0.0.1 httpool.com
-127.0.0.1 relay-ba.ads.httpool.com
-127.0.0.1 relay-bg.ads.httpool.com
-127.0.0.1 relay-mk.ads.httpool.com
-127.0.0.1 relay-rs.ads.httpool.com
 
-# httpool.com.mk
-127.0.0.1 static.httpool.com.mk
 
 # hub.com.pl
 127.0.0.1 hub.com.pl
@@ -14653,7 +14622,6 @@
 127.0.0.1 pagerank.jklir.net
 
 # jo-games.com
-127.0.0.1 ads.jo-games.com
 
 # jobclicks.net
 127.0.0.1 ads.jobclicks.net
@@ -16465,7 +16433,6 @@
 # medi-8.net
 127.0.0.1 ad.medi-8.net
 127.0.0.1 ads.medi-8.net
-127.0.0.1 http ads.medi-8.net
 127.0.0.1 js.medi-8.net
 127.0.0.1 ww1.js.medi-8.net
 127.0.0.1 ww17.ads.medi-8.net
@@ -16726,10 +16693,6 @@
 127.0.0.1 methodcash.com
 
 # metriweb.be
-127.0.0.1 line01.metriweb.be
-127.0.0.1 line10.metriweb.be
-127.0.0.1 line12.metriweb.be
-127.0.0.1 startpagina.metriweb.be
 
 # metromanager.com
 127.0.0.1 ads.metromanager.com
@@ -17074,7 +17037,6 @@
 127.0.0.1 mojobucks.com
 
 # mokono.com
-127.0.0.1 adserver1.mokono.com
 
 # mondespersistants.com
 127.0.0.1 stats.mondespersistants.com
@@ -17730,8 +17692,6 @@
 # mypagerank.ru
 127.0.0.1 mypagerank.ru
 
-# mypersonalhttp.com
-127.0.0.1 mypersonalhttp.com
 
 # myplay.com
 127.0.0.1 metrics.myplay.com
@@ -17982,7 +17942,6 @@
 127.0.0.1 mbadv.nan.co.jp
 
 # narrowcastmedia.com
-127.0.0.1 liquidad.narrowcastmedia.com
 
 # nascar.com
 127.0.0.1 analytics.nascar.com
@@ -18735,12 +18694,6 @@
 127.0.0.1 staging-synthetics-horde.nr-data.net
 127.0.0.1 synthetics-horde-gpc.nr-data.net
 127.0.0.1 synthetics-horde.nr-data.net
-127.0.0.1 vortex-alb-http2-fed-stg-purple-price.nr-data.net
-127.0.0.1 vortex-alb-http2-fed-us-hungry-menu.nr-data.net
-127.0.0.1 vortex-alb-http2-fed-us-taut-purple.nr-data.net
-127.0.0.1 vortex-nlb-http2-fed-stg-purple-price.nr-data.net
-127.0.0.1 vortex-nlb-http2-fed-us-hungry-menu.nr-data.net
-127.0.0.1 vortex-nlb-http2-fed-us-taut-purple.nr-data.net
 
 # nscash.com
 127.0.0.1 creative.nscash.com
@@ -19194,7 +19147,6 @@
 127.0.0.1 cdn.orbengine.com
 
 # orbitcycle.com
-127.0.0.1 banners.orbitcycle.com
 127.0.0.1 orbitcycle.com
 127.0.0.1 usbytecom.orbitcycle.com
 
@@ -20449,11 +20401,6 @@
 
 # qq.com
 127.0.0.1 3gsoftfile.tc.qq.com
-127.0.0.1 adping.qq.com
-127.0.0.1 adpm.app.qq.com
-127.0.0.1 adsrich.qq.com
-127.0.0.1 adsview.qq.com
-127.0.0.1 adsview2.qq.com
 127.0.0.1 mw.app.qq.com
 127.0.0.1 pingjs.qq.com
 127.0.0.1 softfile.3g.qq.com
@@ -22152,18 +22099,6 @@
 # sitesense.com
 127.0.0.1 adserver.sitesense.com
 
-# sitestats.com
-127.0.0.1 db0.sitestats.com
-127.0.0.1 db1.sitestats.com
-127.0.0.1 db2.sitestats.com
-127.0.0.1 db3.sitestats.com
-127.0.0.1 db4.sitestats.com
-127.0.0.1 db5.sitestats.com
-127.0.0.1 db6.sitestats.com
-127.0.0.1 db7.sitestats.com
-127.0.0.1 db8.sitestats.com
-127.0.0.1 db9.sitestats.com
-127.0.0.1 sitestats.com
 
 # sitetracker.com
 127.0.0.1 sitetracker.com
@@ -23269,7 +23204,6 @@
 127.0.0.1 surfaccuracy.com
 
 # surfcounters.com
-127.0.0.1 counter.surfcounters.com
 
 # surfernetwork.com
 127.0.0.1 rd1.surfernetwork.com
@@ -23418,14 +23352,6 @@
 # tailsweep.se
 127.0.0.1 tailsweep.se
 
-# takru.com
-127.0.0.1 b100.takru.com
-127.0.0.1 b120.takru.com
-127.0.0.1 b130.takru.com
-127.0.0.1 b140.takru.com
-127.0.0.1 b180.takru.com
-127.0.0.1 banners.takru.com
-127.0.0.1 takru.com
 
 # tanganrss.com
 127.0.0.1 tanganrss.com
@@ -24363,7 +24289,6 @@
 127.0.0.1 trafficzap.com
 
 # traffiq.com
-127.0.0.1 ads.traffiq.com
 127.0.0.1 traffiq.com
 
 # trafflow.com
@@ -25212,9 +25137,6 @@
 # visualnetworks.com
 127.0.0.1 visualnetworks.com
 
-# visualrevenue.com
-127.0.0.1 a.visualrevenue.com
-127.0.0.1 visualrevenue.com
 
 # visualware.com
 127.0.0.1 lm.visualware.com
