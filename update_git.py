@@ -38,15 +38,40 @@ def update_block_hosts(read_file, hosts_filename):
         for line in updated_lines:
             file.write(line)
 
+
+def update_readme_block_count(file_name, new_count):
+    with open(file_name, 'r', encoding='utf-8') as file:
+        lines = file.readlines()
+
+    updated_lines = []
+    for line in lines:
+        if "![ブロック数](" in line:
+            count_string = f"![ブロック数](https://img.shields.io/badge/block-{new_count}-red)"
+            replaced_line = line.replace(line, count_string)
+            updated_lines.append(replaced_line)
+        else:
+            updated_lines.append(line)
+
+    with open(file_name, 'w', encoding='utf-8') as file:
+        for line in updated_lines:
+            file.write(line)
+
 def git_command():
     comment = datetime.datetime.now().strftime("%Y/%m/%d")
     os.system(f'git commit -a -m "Update {comment}"')
     os.system('git push')
 
 if __name__ == "__main__":
+    # ドメインの生存確認
     filename = 'hosts.txt'
     update_block_hosts('resolved_hosts.txt', filename)
     print(f"'block hosts' line in '{filename}' has been updated.")
+    # ドメイン数のカウント
     update_last_updated(filename)
     print(f"'last updated' line in '{filename}' has been updated.")
+    # readmeのドメイン数カウント
+    readme_filename = 'readme.md'
+    new_count = count_lines('resolved_hosts.txt')
+    update_readme_block_count(readme_filename, new_count)
+    print(f"'ブロック数' line in '{readme_filename}' has been updated.")
     git_command()
