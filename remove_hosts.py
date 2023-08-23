@@ -4,12 +4,14 @@ import socket
 import time
 import shutil
 
+
 async def resolve_domain(domain):
     try:
         ip_address = await asyncio.to_thread(socket.gethostbyname, domain)
         return domain, ip_address
     except socket.gaierror:
         return None
+
 
 async def process_line(line):
     if "127.0.0.1" in line:
@@ -19,9 +21,11 @@ async def process_line(line):
             return f"127.0.0.1 {domain}\n"
     return None
 
+
 async def main():
-    input_filename = 'hosts.txt'
-    output_filename = 'resolved_hosts.txt'
+    script_directly = os.path.dirname(os.path.abspath(__file__))
+    input_filename = os.path.join(script_directly, 'hosts.txt')
+    output_filename = os.path.join(script_directly, 'resolved_hosts.txt')
 
     processed_lines = []
 
@@ -38,6 +42,7 @@ async def main():
 
     print(f"Processed and resolved domains have been saved to '{output_filename}'.")
 
+
 def read_hosts_file(filename):
     domains = set()
     with open(filename, 'r') as file:
@@ -47,6 +52,7 @@ def read_hosts_file(filename):
                 domain = cleaned_line.split()[1]
                 domains.add(domain)
     return domains
+
 
 def update_hosts_file(existing_hosts_filename, resolved_hosts_file_name):
     existing_domains = read_hosts_file(existing_hosts_filename)
@@ -78,13 +84,19 @@ def update_hosts_file(existing_hosts_filename, resolved_hosts_file_name):
     else:
         print("No domains removed.")
 
+
 if __name__ == "__main__":
     if os.name == 'nt':
         asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
-    shutil.copyfile('hosts.txt', 'hosts_old.txt')  # バックアップ
+
     st = time.time()
     asyncio.run(main())
-    hosts_filename = 'hosts.txt'
-    resolved_hosts_filename = 'resolved_hosts.txt'
+
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    hosts_filename = os.path.join(script_dir, 'hosts.txt')
+    hosts_old_filename = os.path.join(script_dir, 'hosts_old.txt')
+    resolved_hosts_filename = os.path.join(script_dir, 'resolved_hosts.txt')
+    shutil.copyfile(hosts_filename, hosts_old_filename)  # バックアップ
+
     update_hosts_file(hosts_filename, resolved_hosts_filename)
     print("Total execution time:", time.time() - st)
