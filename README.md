@@ -32,6 +32,17 @@ Thank you!
 # update_git.py
 hosts.txt内の日付とdomain数に変更を加えてcommitしてpushします.        
 
-android private DNS の設定方法は下記noteをご覧ください     
+# android private DNS の設定方法       
+下記noteをご覧ください     
 ※ 無料部分で大体のやり方は書いてます.        
 [Pi-hole + nginx + android private dns(DoT) 家でも外出先でも広告カット](https://note.com/shiba_memo_note/n/ncb76466a5e55)        
+        
+# ubuntuを使い定期的にアップデート      
+ - ssh接続ができるようにする       
+ - レポジトリをクローンする   
+ ```git clone git@github.com:lawnn/adaway-hosts.git hosts```
+ - cronの設定例(毎月1日1時0分にアップデートする)
+ ```
+ 00 00 01 * * /usr/bin/python3 /home/pi/hosts/remove_hosts.py
+ 00 01 01 * * /usr/bin/python3 /home/pi/hosts/update_git.py
+ ```
