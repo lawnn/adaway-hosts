@@ -6,11 +6,16 @@ import shutil
 
 
 async def resolve_domain(domain):
-    try:
-        ip_address = await asyncio.to_thread(socket.gethostbyname, domain)
-        return domain, ip_address
-    except socket.gaierror:
-        return None
+    count = 0
+    while True:
+        try:
+            ip_address = await asyncio.to_thread(socket.gethostbyname, domain)
+            return domain, ip_address
+        except socket.gaierror:
+            count += 1
+            if count > 5:
+                return None
+            await asyncio.sleep(1)
 
 
 async def process_line(line):
