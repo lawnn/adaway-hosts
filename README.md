@@ -43,6 +43,7 @@ hosts.txt内の日付とdomain数に変更を加えてcommitしてpushします.
  ```git clone git@github.com:lawnn/adaway-hosts.git hosts```
  - cronの設定例(毎月1日1時0分にアップデートする)
  ```
- 00 00 01 * * /usr/bin/python3 /home/pi/hosts/remove_hosts.py
- 00 01 01 * * /usr/bin/python3 /home/pi/hosts/update_git.py
+# your_name = usernameに置き換えてください
+ 00 00 01 * * /usr/bin/python3 /home/"your_name"/hosts/remove_hosts.py
+ 00 01 01 * * /usr/bin/python3 /home/"your_name"/hosts/update_git.py
  ```
