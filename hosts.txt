@@ -2,8 +2,8 @@
 #
 # author: logroid
 #
-# last updated: 2023/08/23
-# block hosts: 15355 entry
+# last updated: 2023/08/24
+# block hosts: 15356 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -5374,7 +5374,6 @@
 
 # atown.jp
 127.0.0.1 ad.atown.jp
-127.0.0.1 tad.atown.jp
 
 # atspace.com
 127.0.0.1 classifieds.atspace.com
@@ -6081,8 +6080,6 @@
 
 # bigpoint.com
 127.0.0.1 adin.bigpoint.com
-
-# bigrebelads.com
 
 # bigredcoupon.com
 127.0.0.1 bigredcoupon.com
@@ -6808,7 +6805,6 @@
 127.0.0.1 ads.buysell.com
 
 # buysellads.com
-127.0.0.1 buysellads.com
 127.0.0.1 s3.buysellads.com
 127.0.0.1 stats.buysellads.com
 
@@ -7278,8 +7274,6 @@
 # chickclick.com
 127.0.0.1 ads.chickclick.com
 
-# chie8oo.com
-
 # china.cn
 127.0.0.1 log.china.cn
 
@@ -7639,7 +7633,6 @@
 127.0.0.1 clixpy.com
 
 # clksite.com
-127.0.0.1 clksite.com
 127.0.0.1 p236404.clksite.com
 
 # clock-desktop.com
@@ -9732,9 +9725,6 @@
 127.0.0.1 adv1.eblocs.com
 127.0.0.1 adv2.eblocs.com
 
-# ebnvideo.com
-127.0.0.1 ebnvideo.com
-
 # ebonyempire.com
 127.0.0.1 galleries.ebonyempire.com
 
@@ -9903,7 +9893,6 @@
 # elmundo.es
 127.0.0.1 anapixel.elmundo.es
 127.0.0.1 pixelcounter.elmundo.es
-127.0.0.1 publicidad.elmundo.es
 
 # eloan.co.jp
 127.0.0.1 ad.eloan.co.jp
@@ -10362,7 +10351,6 @@
 127.0.0.1 prof.estat.com
 127.0.0.1 w.estat.com
 
-
 # etahub.com
 127.0.0.1 etahub.com
 
@@ -10806,6 +10794,7 @@
 127.0.0.1 ranking.fc2.com
 127.0.0.1 ranking2.fc2.com
 127.0.0.1 search.fc2.com
+127.0.0.1 storage1000-textad.fc2.com
 127.0.0.1 textad.fc2.com
 127.0.0.1 vote1.fc2.com
 
@@ -11091,9 +11080,6 @@
 # fmpub.net
 127.0.0.1 fmpub.net
 127.0.0.1 static.fmpub.net
-
-# fnac.es
-127.0.0.1 metrics.fnac.es
 
 # focalex.com
 127.0.0.1 focalex.com
@@ -11584,7 +11570,6 @@
 127.0.0.1 s.g123.jp
 127.0.0.1 shop.g123.jp
 127.0.0.1 stg.g123.jp
-127.0.0.1 tableau.g123.jp
 127.0.0.1 yyhijp.g123.jp
 
 # gabia.com
@@ -13908,7 +13893,6 @@
 127.0.0.1 img.ll.impact-ad.jp
 127.0.0.1 img.mn.impact-ad.jp
 127.0.0.1 impact-ad.jp
-127.0.0.1 m-a24.one.impact-ad.jp
 127.0.0.1 m.one.impact-ad.jp
 127.0.0.1 one.impact-ad.jp
 127.0.0.1 penta.a.one.impact-ad.jp
@@ -15021,9 +15005,6 @@
 # kumogakure.com
 127.0.0.1 x6.kumogakure.com
 
-# kuruten.jp
-127.0.0.1 ranking.kuruten.jp
-
 # kustusch.com
 127.0.0.1 kustusch.com
 
@@ -16084,9 +16065,6 @@
 127.0.0.1 ads.tripod.lycos.de
 127.0.0.1 fe.lea.lycos.de
 
-# lycos.es
-127.0.0.1 ads.tripod.lycos.es
-
 # lycos.fr
 127.0.0.1 ads.lycos.fr
 127.0.0.1 ads.multimania.lycos.fr
@@ -16101,7 +16079,6 @@
 
 # lzjl.com
 127.0.0.1 ads.lzjl.com
-127.0.0.1 lzjl.com
 
 # m-adx.com
 127.0.0.1 media.m-adx.com
@@ -16279,9 +16256,6 @@
 
 # marketingtips.com
 127.0.0.1 marketingtips.com
-
-# marketo.com
-127.0.0.1 marketo.com
 
 # marketo.net
 127.0.0.1 marketo.net
@@ -16656,9 +16630,6 @@
 # merchant.com
 127.0.0.1 merchant.com
 
-# mesia.com
-127.0.0.1 mesia.com
-
 # messagemates.com
 127.0.0.1 tracking.messagemates.com
 
@@ -16691,8 +16662,6 @@
 
 # methodcash.com
 127.0.0.1 methodcash.com
-
-# metriweb.be
 
 # metromanager.com
 127.0.0.1 ads.metromanager.com
@@ -17035,8 +17004,6 @@
 
 # mojobucks.com
 127.0.0.1 mojobucks.com
-
-# mokono.com
 
 # mondespersistants.com
 127.0.0.1 stats.mondespersistants.com
@@ -17874,7 +17841,6 @@
 127.0.0.1 l.nakanohito.jp
 127.0.0.1 le.nakanohito.jp
 127.0.0.1 local.nakanohito.jp
-127.0.0.1 m-beacon.nakanohito.jp
 127.0.0.1 m.nakanohito.jp
 127.0.0.1 mail1.nakanohito.jp
 127.0.0.1 mail10.nakanohito.jp
@@ -19370,9 +19336,11 @@
 127.0.0.1 b2c3f28b-cea2-4d98-ad5b-06cae252069f.pages.dev
 127.0.0.1 desku-chat-widget-js.pages.dev
 127.0.0.1 javad-cic.pages.dev
+127.0.0.1 maketecheasierad.pages.dev
 127.0.0.1 new-adtest.pages.dev
 127.0.0.1 popular-mibanco-control-de-seguridad.pages.dev
 127.0.0.1 simple-ad-server.pages.dev
+127.0.0.1 twinfinitesad.pages.dev
 127.0.0.1 workingnomads-17.pages.dev
 
 # pagesjaunes.fr
@@ -20748,9 +20716,6 @@
 # redigy.cz
 127.0.0.1 banik.redigy.cz
 
-# redirectingat.com
-127.0.0.1 redirectingat.com
-
 # redirectvoluum.com
 127.0.0.1 f0qbh.redirectvoluum.com
 127.0.0.1 j1nqm.redirectvoluum.com
@@ -21872,7 +21837,6 @@
 127.0.0.1 peraichi.shinobi.jp
 127.0.0.1 rcm.shinobi.jp
 127.0.0.1 recommend.shinobi.jp
-127.0.0.1 shinobi.jp
 127.0.0.1 ssp-swarm.shinobi.jp
 127.0.0.1 swarm-tmp.shinobi.jp
 127.0.0.1 swarm.shinobi.jp
@@ -23351,7 +23315,6 @@
 
 # tailsweep.se
 127.0.0.1 tailsweep.se
-
 
 # tanganrss.com
 127.0.0.1 tanganrss.com
@@ -25137,7 +25100,6 @@
 # visualnetworks.com
 127.0.0.1 visualnetworks.com
 
-
 # visualware.com
 127.0.0.1 lm.visualware.com
 
@@ -25729,9 +25691,6 @@
 # wibiya.com
 127.0.0.1 cdn.wibiya.com
 127.0.0.1 statistics.wibiya.com
-
-# widesearchengine.com
-127.0.0.1 widesearchengine.com
 
 # widespace.com
 127.0.0.1 widespace.com
