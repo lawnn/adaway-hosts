@@ -66,6 +66,7 @@ def update_readme_block_count(file_name, new_counts):
 def git_command():
     change_current_directory()
     comment = datetime.datetime.now().strftime("%Y/%m/%d")
+    os.system('git pull')
     os.system(f'git commit -a -m "Update {comment}"')
     os.system('git push')
 
