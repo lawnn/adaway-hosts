@@ -52,7 +52,7 @@ def update_readme_block_count(file_name, new_counts):
     updated_lines = []
     for line in lines:
         if "![ブロック数](" in line:
-            count_string = f"![ブロック数](https://img.shields.io/badge/block-{new_counts}-red)\n\n"
+            count_string = f"![ブロック数](https://img.shields.io/badge/block-{new_counts}-red)\n"
             replaced_line = line.replace(line, count_string)
             updated_lines.append(replaced_line)
         else:
