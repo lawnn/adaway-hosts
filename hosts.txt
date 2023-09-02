@@ -2,8 +2,8 @@
 #
 # author: logroid
 #
-# last updated: 2023/08/31
-# block hosts: 15338 entry
+# last updated: 2023/09/03
+# block hosts: 15285 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -2199,13 +2199,8 @@
 127.0.0.1 api.ad-cloud.jp
 127.0.0.1 d-image-ad-jp.ad-cloud.jp
 127.0.0.1 d-kd.ad-cloud.jp
-127.0.0.1 d-newssuite-sony-net.ad-cloud.jp
 127.0.0.1 i-image-ad-jp.ad-cloud.jp
-127.0.0.1 i-newssuite-sony-net.ad-cloud.jp
 127.0.0.1 j-image-ad-jp.ad-cloud.jp
-127.0.0.1 j-newssuite-sony-net.ad-cloud.jp
-127.0.0.1 manage-newssuite-sony-net.ad-cloud.jp
-127.0.0.1 newssuite-sony-net.ad-cloud.jp
 127.0.0.1 origin-j-image-ad-jp.ad-cloud.jp
 127.0.0.1 prometheus.ad-cloud.jp
 127.0.0.1 zabbix.ad-cloud.jp
@@ -4000,7 +3995,6 @@
 
 # adshooter.com
 127.0.0.1 adshooter.com
-127.0.0.1 dl.adshooter.com
 
 # adshuh.com
 127.0.0.1 adshuh.com
@@ -11663,7 +11657,6 @@
 
 # gammae.com
 127.0.0.1 hourly.gammae.com
-127.0.0.1 tracking.gammae.com
 
 # gamyun.net
 127.0.0.1 server.gamyun.net
@@ -12378,7 +12371,6 @@
 127.0.0.1 trk.grown-zero-breeze-belong.xyz
 
 # grupos.com.br
-127.0.0.1 banner.grupos.com.br
 
 # gs-ad.jp
 127.0.0.1 img.gs-ad.jp
@@ -17638,8 +17630,6 @@
 # mypagerank.net
 127.0.0.1 mypagerank.net
 
-# mypagerank.ru
-127.0.0.1 mypagerank.ru
 
 
 # myplay.com
@@ -23848,7 +23838,6 @@
 127.0.0.1 ads.topnovini.bg
 
 # topobiavi.com
-127.0.0.1 pagead.topobiavi.com
 
 # topofblogs.com
 127.0.0.1 stats.topofblogs.com
