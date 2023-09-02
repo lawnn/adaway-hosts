@@ -4,46 +4,42 @@ import socket
 import time
 import shutil
 
+async def resolve_domain(domain, semaphore):
+    async with semaphore:
+        count = 0
+        while True:
+            try:
+                ip_address = await asyncio.to_thread(socket.gethostbyname, domain)
+                return domain, ip_address
+            except socket.gaierror:
+                count += 1
+                if count > 5:
+                    return None
+                await asyncio.sleep(1)
 
-async def resolve_domain(domain):
-    count = 0
-    while True:
-        try:
-            ip_address = await asyncio.to_thread(socket.gethostbyname, domain)
-            return domain, ip_address
-        except socket.gaierror:
-            count += 1
-            if count > 5:
-                return None
-            await asyncio.sleep(1)
-
-
-async def process_line(line):
+async def process_line(line, semaphore):
     if "127.0.0.1" in line:
         domain = line.split()[1]
-        ip_address = await resolve_domain(domain)
+        ip_address = await resolve_domain(domain, semaphore)
         if ip_address is not None:
             return f"127.0.0.1 {domain}\n"
     return None
 
-
 async def main():
-    script_directly = os.path.dirname(os.path.abspath(__file__))
-    input_filename = os.path.join(script_directly, 'hosts.txt')
-    output_filename = os.path.join(script_directly, 'resolved_hosts.txt')
+    script_directory = os.path.dirname(os.path.abspath(__file__))
+    input_filename = os.path.join(script_directory, 'hosts.txt')
+    output_filename = os.path.join(script_directory, 'resolved_hosts.txt')
 
-    processed_lines = []
+    semaphore = asyncio.Semaphore(10)  # 同時実行を制限するためのセマフォ
 
     with open(input_filename, 'r') as file:
-        for line in file:
-            cleaned_line = line.strip()
-            processed_line = await process_line(cleaned_line)
-            if processed_line is not None:
-                processed_lines.append(processed_line)
+        tasks = [process_line(line.strip(), semaphore) for line in file]
+        processed_lines = await asyncio.gather(*tasks)
 
     with open(output_filename, 'w') as output_file:
         for line in processed_lines:
-            output_file.write(line)
+            if line is not None:
+                output_file.write(line)
 
     print(f"Processed and resolved domains have been saved to '{output_filename}'.")
 
