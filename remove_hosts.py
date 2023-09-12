@@ -3,6 +3,10 @@ import asyncio
 import socket
 import time
 import shutil
+import logging
+
+# ログ設定
+logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
 
 async def resolve_domain(domain, semaphore):
     async with semaphore:
@@ -41,7 +45,7 @@ async def main():
             if line is not None:
                 output_file.write(line)
 
-    print(f"Processed and resolved domains have been saved to '{output_filename}'.")
+    logging.info(f"Processed and resolved domains have been saved to '{output_filename}'.")
 
 
 def read_hosts_file(filename):
@@ -67,23 +71,23 @@ def update_hosts_file(existing_hosts_filename, resolved_hosts_file_name):
             for domain in new_domains:
                 file.write(f"127.0.0.1 {domain}\n")
 
-        print(f"{len(new_domains)} new domains added to '{existing_hosts_filename}'.")
+        logging.info(f"{len(new_domains)} new domains added to '{existing_hosts_filename}'.")
     else:
-        print("No new domains to add.")
+        logging.info("No new domains to add.")
 
     if removed_domains:
-        print(f"{len(removed_domains)} domains removed from '{existing_hosts_filename}':")
+        logging.info(f"{len(removed_domains)} domains removed from '{existing_hosts_filename}':")
         for domain in removed_domains:
-            print(domain)
+            logging.info(domain)
             with open(existing_hosts_filename, 'r') as file:
                 lines = file.readlines()
             with open(existing_hosts_filename, 'w') as file:
                 for line in lines:
                     if domain not in line:
                         file.write(line)
-        print(f"{len(removed_domains)} domains removed from '{existing_hosts_filename}'.")
+        logging.info(f"{len(removed_domains)} domains removed from '{existing_hosts_filename}'.")
     else:
-        print("No domains removed.")
+        logging.info("No domains removed.")
 
 
 if __name__ == "__main__":
@@ -100,4 +104,4 @@ if __name__ == "__main__":
     shutil.copyfile(hosts_filename, hosts_old_filename)  # バックアップ
 
     update_hosts_file(hosts_filename, resolved_hosts_filename)
-    print("Total execution time:", time.time() - st)
+    logging.info("Total execution time: %s seconds", time.time() - st)
