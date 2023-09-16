@@ -29,9 +29,7 @@ Thank you!
 * [@logroid](https://twitter.com/logroid)       
 
 # remove_hosts.py
-名前解決ができなくなった domain をこのコマンド一つで削除します(hosts.txtのみ)
-# update_git.py
-hosts.txt内の日付とdomain数に変更を加えてcommitしてpushします.        
+名前解決ができなくなった domain をこのコマンド一つで削除します(hosts.txtのみ) 
 
 # android private DNS の設定方法       
 下記noteをご覧ください     
