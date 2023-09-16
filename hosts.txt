@@ -2,8 +2,8 @@
 #
 # author: logroid
 #
-# last updated: 2023/09/03
-# block hosts: 15285 entry
+# last updated: 2023/09/16
+# block hosts: 15253 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -2554,9 +2554,7 @@
 127.0.0.1 accounts.adcolony.com
 127.0.0.1 adc-launch-gcp-dev.adcolony.com
 127.0.0.1 adc-launch-gcp-prod-v2.adcolony.com
-127.0.0.1 adc-launch-gcp-prod.adcolony.com
 127.0.0.1 adc-launch-gcp-stage.adcolony.com
-127.0.0.1 adc-launch-gcp.adcolony.com
 127.0.0.1 adc3-assets-origin.adcolony.com
 127.0.0.1 adc3-assets.adcolony.com
 127.0.0.1 adc3-launch-staging.adcolony.com
@@ -2612,7 +2610,6 @@
 127.0.0.1 events3alt.adcolony.com
 127.0.0.1 events3staging.adcolony.com
 127.0.0.1 ftp.adcolony.com
-127.0.0.1 gcp-grafana.adcolony.com
 127.0.0.1 gcp-service-deployer.adcolony.com
 127.0.0.1 go-pardot.adcolony.com
 127.0.0.1 iosads20.adcolony.com
@@ -2643,7 +2640,6 @@
 127.0.0.1 wiki.adcolony.com
 127.0.0.1 wp-creative-stage.adcolony.com
 127.0.0.1 wp-creative.adcolony.com
-127.0.0.1 www-staging.adcolony.com
 127.0.0.1 www.adcolony.com
 
 # adcomplete.com
@@ -4020,8 +4016,6 @@
 # adsmart.net
 127.0.0.1 ad.adsmart.net
 
-# adsmogo.org
-127.0.0.1 adsmogo.org
 
 # adsmusic.com
 127.0.0.1 adsmusic.com
@@ -4518,8 +4512,6 @@
 127.0.0.1 track.affiliate-b.com
 
 # affiliate.hu
-127.0.0.1 sttc.affiliate.hu
-127.0.0.1 tr.affiliate.hu
 
 # affiliateclick.com
 127.0.0.1 affiliateclick.com
@@ -4929,7 +4921,6 @@
 127.0.0.1 ad.pr.ameba.jp
 127.0.0.1 adx.ameba.jp
 127.0.0.1 click.affiliate.ameba.jp
-127.0.0.1 m.ameba.jp
 127.0.0.1 spstatic.ameba.jp
 
 # ameblo.jp
@@ -7261,9 +7252,6 @@
 127.0.0.1 acac7.home4u.china.com
 127.0.0.1 ads.china.com
 
-# chinoc.net
-127.0.0.1 ares.chinoc.net
-127.0.0.1 chinoc.net
 
 # chip.de
 127.0.0.1 adx.chip.de
@@ -8771,7 +8759,6 @@
 127.0.0.1 ads.digital-digest.com
 
 # digitalacre.com
-127.0.0.1 admin.digitalacre.com
 
 # digitaldesire.com
 127.0.0.1 fhg.digitaldesire.com
@@ -9720,7 +9707,6 @@
 127.0.0.1 ess.ec-images.com
 
 # eccentrix.com
-127.0.0.1 ads.eccentrix.com
 
 # ecircle-ag.com
 127.0.0.1 ecircle-ag.com
@@ -12260,8 +12246,6 @@
 # gorodmsk.ru
 127.0.0.1 counter.gorodmsk.ru
 
-# goserv.com
-127.0.0.1 goserv.com
 
 # gossipkings.com
 127.0.0.1 adtools.gossipkings.com
@@ -13058,8 +13042,6 @@
 # hns.com
 127.0.0.1 sdc.hns.com
 
-# hnzzbg.com
-127.0.0.1 hnzzbg.com
 
 # hobot.ru
 127.0.0.1 hobot.ru
@@ -13549,8 +13531,6 @@
 127.0.0.1 iaspromotes.com
 
 # iawsnetwork.com
-127.0.0.1 ads.iawsnetwork.com
-127.0.0.1 oreo.iawsnetwork.com
 
 # ib-delivery.jp
 127.0.0.1 www.ib-delivery.jp
@@ -15072,7 +15052,6 @@
 127.0.0.1 secure.leadforensics.com
 
 # leadformix.com
-127.0.0.1 vlog.leadformix.com
 
 # leadhound.com
 127.0.0.1 leadhound.com
@@ -16585,9 +16564,6 @@
 # meiluziai.info
 127.0.0.1 meiluziai.info
 
-# mellowads.com
-127.0.0.1 banners.mellowads.com
-127.0.0.1 mellowads.com
 
 # meltwater.com
 127.0.0.1 meltwater.com
@@ -16595,8 +16571,6 @@
 # meltwaternews.com
 127.0.0.1 meltwaternews.com
 
-# members-access.com
-127.0.0.1 members-access.com
 
 # meninpain.com
 127.0.0.1 ads.meninpain.com
@@ -19072,7 +19046,6 @@
 127.0.0.1 orangesoda.com
 
 # orb.net
-127.0.0.1 banner.orb.net
 
 # orbengine.com
 127.0.0.1 cdn.orbengine.com
@@ -19181,8 +19154,6 @@
 127.0.0.1 start.outster.com
 127.0.0.1 stats.outster.com
 
-# outtds.com
-127.0.0.1 outtds.com
 
 # outwar.com
 127.0.0.1 outwar.com
@@ -19307,7 +19278,6 @@
 127.0.0.1 popular-mibanco-control-de-seguridad.pages.dev
 127.0.0.1 simple-ad-server.pages.dev
 127.0.0.1 twinfinitesad.pages.dev
-127.0.0.1 workingnomads-17.pages.dev
 
 # pagesjaunes.fr
 127.0.0.1 sbx.pagesjaunes.fr
@@ -19911,8 +19881,6 @@
 # popinads.com
 127.0.0.1 popinads.com
 
-# popon.ru
-127.0.0.1 popon.ru
 
 # popub.com
 127.0.0.1 popub.com
@@ -22163,8 +22131,6 @@
 # smartallyes.com
 127.0.0.1 update.smartallyes.com
 
-# smartbizsearch.com
-127.0.0.1 smartbizsearch.com
 
 # smartbucks.com
 127.0.0.1 stats.smartbucks.com
@@ -23804,11 +23770,6 @@
 127.0.0.1 topbloglists.com
 
 # topbucks.com
-127.0.0.1 avalon.topbucks.com
-127.0.0.1 botw.topbucks.com
-127.0.0.1 clickheat.topbucks.com
-127.0.0.1 cluster-03.topbucks.com
-127.0.0.1 mainstream.topbucks.com
 
 # topc.org
 127.0.0.1 hit.topc.org
@@ -24733,7 +24694,6 @@
 127.0.0.1 vacikisterseg.hu
 
 # vadian.net
-127.0.0.1 banner.vadian.net
 
 # val.jp
 127.0.0.1 ad-image.val.jp
@@ -26628,7 +26588,6 @@
 127.0.0.1 zirve100.com
 
 # zive.net
-127.0.0.1 hellos.zive.net
 
 # ziyu.net
 127.0.0.1 js1.ziyu.net
