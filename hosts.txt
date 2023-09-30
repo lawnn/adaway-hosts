@@ -2,8 +2,8 @@
 #
 # author: logroid
 #
-# last updated: 2023/09/16
-# block hosts: 15253 entry
+# last updated: 2023/10/01
+# block hosts: 15120 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -2725,9 +2725,6 @@
 # adexcite.com
 127.0.0.1 adexcite.com
 
-# adexit.com
-127.0.0.1 adexit.com
-127.0.0.1 pt.server1.adexit.com
 
 # adexpose.com
 127.0.0.1 adexpose.com
@@ -3903,8 +3900,6 @@
 # ads4homes.com
 127.0.0.1 ads4homes.com
 
-# ads55.com
-127.0.0.1 ads55.com
 
 # adsafeprotected.com
 127.0.0.1 pixel.adsafeprotected.com
@@ -4571,8 +4566,6 @@
 # affiliatewindow.com
 127.0.0.1 affiliatewindow.com
 
-# affiliation-france.com
-127.0.0.1 affiliation-france.com
 
 # affina.com
 127.0.0.1 affina.com
@@ -4823,8 +4816,6 @@
 # amateur-porn-links.com
 127.0.0.1 amateur-porn-links.com
 
-# amateurdevils.com
-127.0.0.1 amateurdevils.com
 
 # amateurgalls.com
 127.0.0.1 admin.amateurgalls.com
@@ -6957,8 +6948,6 @@
 127.0.0.1 adimages.carsoup.com
 127.0.0.1 admanager.carsoup.com
 
-# cartonetwork.com
-127.0.0.1 cartonetwork.com
 
 # cartoonnetwork.com
 127.0.0.1 stats.cartoonnetwork.com
@@ -7082,8 +7071,6 @@
 # casinotropez.com
 127.0.0.1 casinotropez.com
 
-# catoonetwork.com
-127.0.0.1 catoonetwork.com
 
 # cauly.co.kr
 127.0.0.1 ad.cauly.co.kr
@@ -11066,108 +11053,6 @@
 127.0.0.1 thankyou.focalex.com
 127.0.0.1 webgames.focalex.com
 
-# focalink.com
-127.0.0.1 ad01.focalink.com
-127.0.0.1 ad02.focalink.com
-127.0.0.1 ad03.focalink.com
-127.0.0.1 ad04.focalink.com
-127.0.0.1 ad05.focalink.com
-127.0.0.1 ad06.focalink.com
-127.0.0.1 ad07.focalink.com
-127.0.0.1 ad08.focalink.com
-127.0.0.1 ad09.focalink.com
-127.0.0.1 ad10.focalink.com
-127.0.0.1 ad11.focalink.com
-127.0.0.1 ad12.focalink.com
-127.0.0.1 ad13.focalink.com
-127.0.0.1 ad14.focalink.com
-127.0.0.1 ad15.focalink.com
-127.0.0.1 ad16.focalink.com
-127.0.0.1 ad17.focalink.com
-127.0.0.1 ad18.focalink.com
-127.0.0.1 ad19.focalink.com
-127.0.0.1 ads-b.focalink.com
-127.0.0.1 ads-c.focalink.com
-127.0.0.1 ads-f.focalink.com
-127.0.0.1 ads-i.focalink.com
-127.0.0.1 ads-instrument.focalink.com
-127.0.0.1 ads-ussj1.focalink.com
-127.0.0.1 ads.focalink.com
-127.0.0.1 ads01.focalink.com
-127.0.0.1 ads02.focalink.com
-127.0.0.1 ads03.focalink.com
-127.0.0.1 ads04.focalink.com
-127.0.0.1 ads05.focalink.com
-127.0.0.1 ads06.focalink.com
-127.0.0.1 ads07.focalink.com
-127.0.0.1 ads08.focalink.com
-127.0.0.1 ads09.focalink.com
-127.0.0.1 ads1.focalink.com
-127.0.0.1 ads10.focalink.com
-127.0.0.1 ads11.focalink.com
-127.0.0.1 ads12.focalink.com
-127.0.0.1 ads13.focalink.com
-127.0.0.1 ads14.focalink.com
-127.0.0.1 ads15.focalink.com
-127.0.0.1 ads16.focalink.com
-127.0.0.1 ads17.focalink.com
-127.0.0.1 ads18.focalink.com
-127.0.0.1 ads19.focalink.com
-127.0.0.1 ads2.focalink.com
-127.0.0.1 ads20.focalink.com
-127.0.0.1 ads200.focalink.com
-127.0.0.1 ads207.focalink.com
-127.0.0.1 ads21.focalink.com
-127.0.0.1 ads22.focalink.com
-127.0.0.1 ads23.focalink.com
-127.0.0.1 ads24.focalink.com
-127.0.0.1 ads25.focalink.com
-127.0.0.1 ads26.focalink.com
-127.0.0.1 ads27.focalink.com
-127.0.0.1 ads28.focalink.com
-127.0.0.1 ads29.focalink.com
-127.0.0.1 ads3.focalink.com
-127.0.0.1 ads30.focalink.com
-127.0.0.1 ads303.focalink.com
-127.0.0.1 ads304.focalink.com
-127.0.0.1 ads305.focalink.com
-127.0.0.1 ads311.focalink.com
-127.0.0.1 ads316.focalink.com
-127.0.0.1 ads317.focalink.com
-127.0.0.1 ads320.focalink.com
-127.0.0.1 ads4.focalink.com
-127.0.0.1 ads5.focalink.com
-127.0.0.1 ads6.focalink.com
-127.0.0.1 ads7.focalink.com
-127.0.0.1 ads8.focalink.com
-127.0.0.1 ads9.focalink.com
-127.0.0.1 focalink.com
-127.0.0.1 ph-ad.focalink.com
-127.0.0.1 ph-ad01.focalink.com
-127.0.0.1 ph-ad02.focalink.com
-127.0.0.1 ph-ad03.focalink.com
-127.0.0.1 ph-ad04.focalink.com
-127.0.0.1 ph-ad05.focalink.com
-127.0.0.1 ph-ad06.focalink.com
-127.0.0.1 ph-ad07.focalink.com
-127.0.0.1 ph-ad08.focalink.com
-127.0.0.1 ph-ad09.focalink.com
-127.0.0.1 ph-ad10.focalink.com
-127.0.0.1 ph-ad11.focalink.com
-127.0.0.1 ph-ad12.focalink.com
-127.0.0.1 ph-ad13.focalink.com
-127.0.0.1 ph-ad14.focalink.com
-127.0.0.1 ph-ad15.focalink.com
-127.0.0.1 ph-ad16.focalink.com
-127.0.0.1 ph-ad17.focalink.com
-127.0.0.1 ph-ad18.focalink.com
-127.0.0.1 ph-ad19.focalink.com
-127.0.0.1 ph-ad20.focalink.com
-127.0.0.1 ph-ad21.focalink.com
-127.0.0.1 ph-ad23.focalink.com
-127.0.0.1 s2.focalink.com
-127.0.0.1 sc-a-lbs.focalink.com
-127.0.0.1 sj-g-lbs.focalink.com
 
 # focas.jp
 127.0.0.1 adroute.focas.jp
@@ -11188,8 +11073,6 @@
 127.0.0.1 facemap.foldlife.net
 127.0.0.1 facepic.foldlife.net
 
-# followerscounter.com
-127.0.0.1 followerscounter.com
 
 # folloyu.com
 127.0.0.1 folloyu.com
@@ -13618,7 +13501,6 @@
 127.0.0.1 demo.idg.com.au
 
 # idg.com.br
-127.0.0.1 banners.idg.com.br
 
 # idg.no
 127.0.0.1 log.idg.no
@@ -13734,12 +13616,6 @@
 # im.cz
 127.0.0.1 1.im.cz
 
-# image-ad.jp
-127.0.0.1 d.image-ad.jp
-127.0.0.1 i.image-ad.jp
-127.0.0.1 image-ad.jp
-127.0.0.1 j.image-ad.jp
-127.0.0.1 ns.image-ad.jp
 
 # image-gmkt.com
 127.0.0.1 dp.image-gmkt.com
@@ -14928,7 +14804,6 @@
 127.0.0.1 metrics.krem.com
 
 # krollontrack.com
-127.0.0.1 sdc.krollontrack.com
 
 # krxd.net
 127.0.0.1 cdn.krxd.net
@@ -16162,7 +16037,6 @@
 127.0.0.1 metric.makemytrip.com
 
 # mako.co.il
-127.0.0.1 sdc.mako.co.il
 127.0.0.1 stats.mako.co.il
 
 # maleflixxx.tv
@@ -16924,7 +16798,6 @@
 127.0.0.1 mobus.cn
 
 # mobvault.com
-127.0.0.1 track.mobvault.com
 
 # mocean.mobi
 127.0.0.1 mocean.mobi
@@ -17223,7 +17096,6 @@
 127.0.0.1 musiccounter.ru
 
 # musicfans.com
-127.0.0.1 ads.musicfans.com
 
 # musiciansfriend.com
 127.0.0.1 metrics.musiciansfriend.com
@@ -17256,8 +17128,6 @@
 # my-gg.com
 127.0.0.1 mm.my-gg.com
 
-# myad.no
-127.0.0.1 myad.no
 
 # myaffiliateprogram.com
 127.0.0.1 myaffiliateprogram.com
@@ -18104,7 +17974,6 @@
 127.0.0.1 promo.neondollars.com
 
 # neoworx-blog-tools.net
-127.0.0.1 neocounter.neoworx-blog-tools.net
 
 # net-communities.co.uk
 127.0.0.1 ads2.net-communities.co.uk
@@ -18647,7 +18516,6 @@
 127.0.0.1 stats.nutritiondata.com
 
 # nvidia.com
-127.0.0.1 nsomniture.nvidia.com
 
 # nwsource.com
 127.0.0.1 metric.nwsource.com
@@ -19161,7 +19029,6 @@
 127.0.0.1 torax.outwar.com
 
 # overlay.top
-127.0.0.1 a.overlay.top
 
 # overpeer.com
 127.0.0.1 overpeer.com
@@ -20689,8 +20556,6 @@
 # regiedepub.com
 127.0.0.1 ads.regiedepub.com
 
-# regifast.com
-127.0.0.1 regifast.com
 
 # register.com
 127.0.0.1 ads.register.com
@@ -21182,8 +21047,6 @@
 # scotiabank.com
 127.0.0.1 omniture.scotiabank.com
 
-# scottdwebgraphics.com
-127.0.0.1 scottdwebgraphics.com
 
 # scratch2cash.com
 127.0.0.1 scratch2cash.com
@@ -22655,8 +22518,6 @@
 127.0.0.1 acclog.stakasaki.net
 
 # standartnews.com
-127.0.0.1 ads.standartnews.com
-127.0.0.1 new.standartnews.com
 
 # stansberryresearch.com
 127.0.0.1 oascentral.stansberryresearch.com
@@ -22679,7 +22540,6 @@
 127.0.0.1 stat.stars.ru
 
 # startext.net
-127.0.0.1 ads.startext.net
 
 # startnow.com
 127.0.0.1 adserver.startnow.com
@@ -22777,8 +22637,6 @@
 # statistik-gallup.net
 127.0.0.1 statistik-gallup.net
 
-# statonly.com
-127.0.0.1 statonly.com
 
 # stats.de
 127.0.0.1 js.stats.de
@@ -23742,8 +23600,6 @@
 # top-casting-termine.de
 127.0.0.1 top-casting-termine.de
 
-# top-site-list.com
-127.0.0.1 top-site-list.com
 
 # top.ge
 127.0.0.1 counter.top.ge
@@ -24518,7 +24374,6 @@
 # uncn.jp
 127.0.0.1 cf.uncn.jp
 127.0.0.1 ds.uncn.jp
-127.0.0.1 im.uncn.jp
 127.0.0.1 uncn.jp
 
 # uncrate.com
@@ -24630,7 +24485,6 @@
 127.0.0.1 c.usatoday.com
 
 # use-trade.com
-127.0.0.1 demoq.use-trade.com
 
 # usedstone.com
 127.0.0.1 usedstone.com
@@ -25380,7 +25234,6 @@
 127.0.0.1 webiq005.webiqonline.com
 
 # webjump.com
-127.0.0.1 bannervip.webjump.com
 
 # webleads-tracker.com
 127.0.0.1 stats.webleads-tracker.com
@@ -25450,7 +25303,6 @@
 127.0.0.1 webseoanalytics.com
 
 # webshots.com
-127.0.0.1 ads.webshots.com
 
 # website.bg
 127.0.0.1 dynad.website.bg
@@ -25648,7 +25500,6 @@
 127.0.0.1 ads.wineenthusiast.com
 
 # winfire.com
-127.0.0.1 banners.winfire.com
 
 # winfuture.de
 127.0.0.1 o0.winfuture.de
@@ -25732,7 +25583,6 @@
 127.0.0.1 scrooge.wnbc.com
 
 # wnu.com
-127.0.0.1 clicktrack.wnu.com
 
 # wondoads.de
 127.0.0.1 wondoads.de
@@ -25986,8 +25836,6 @@
 127.0.0.1 logv9.xiti.com
 127.0.0.1 xiti.com
 
-# xkxempire.com
-127.0.0.1 xkxempire.com
 
 # xlisting.jp
 127.0.0.1 keywordlink3.xlisting.jp
