@@ -2,8 +2,8 @@
 #
 # author: logroid
 #
-# last updated: 2023/10/01
-# block hosts: 15120 entry
+# last updated: 2023/11/01
+# block hosts: 15045 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -2133,13 +2133,7 @@
 # achmedia.com
 127.0.0.1 achmedia.com
 
-# aconti.net
-127.0.0.1 aconti.net
 
-# acs86.com
-127.0.0.1 acs86.com
-127.0.0.1 static.acs86.com
-127.0.0.1 tga.acs86.com
 
 # actionsplash.com
 127.0.0.1 actionsplash.com
@@ -2464,7 +2458,6 @@
 
 # adbard.net
 127.0.0.1 adbard.net
-127.0.0.1 cdn1.adbard.net
 
 # adbest.com
 127.0.0.1 adbest.com
@@ -2564,9 +2557,6 @@
 127.0.0.1 ads20.adcolony.com
 127.0.0.1 ads30.adcolony.com
 127.0.0.1 adserver-gcp-v2.adcolony.com
-127.0.0.1 akamai-adc3-assets.adcolony.com
-127.0.0.1 akamai-alpha-assets.adcolony.com
-127.0.0.1 akamai-c4d-cdn.adcolony.com
 127.0.0.1 alpha-assets.adcolony.com
 127.0.0.1 androidads20.adcolony.com
 127.0.0.1 androidads20staging.adcolony.com
@@ -3835,7 +3825,6 @@
 127.0.0.1 sad1.adriver.ru
 
 # adroar.com
-127.0.0.1 ads.adroar.com
 
 # adroll.com
 127.0.0.1 a.adroll.com
@@ -4172,8 +4161,6 @@
 # adtrading.de
 127.0.0.1 adtrading.de
 
-# adtrgt.com
-127.0.0.1 adtrgt.com
 
 # adtrk22.com
 127.0.0.1 trk.adtrk22.com
@@ -4292,8 +4279,6 @@
 127.0.0.1 ads.adverline.com
 127.0.0.1 adverline.com
 
-# adversa.com
-127.0.0.1 adversa.com
 
 # adversalservers.com
 127.0.0.1 adversalservers.com
@@ -4737,7 +4722,6 @@
 127.0.0.1 static.alimama.com
 
 # alistcloud.com
-127.0.0.1 ad.alistcloud.com
 127.0.0.1 cdn.alistcloud.com
 
 # alivedoors.com
@@ -4908,7 +4892,6 @@
 127.0.0.1 x8.amearare.com
 
 # ameba.jp
-127.0.0.1 abema-adx.ameba.jp
 127.0.0.1 ad.pr.ameba.jp
 127.0.0.1 adx.ameba.jp
 127.0.0.1 click.affiliate.ameba.jp
@@ -5145,7 +5128,6 @@
 127.0.0.1 iadcontent-tst.apple.com
 127.0.0.1 iadsdk.apple.com
 127.0.0.1 iphone-services.apple.com
-127.0.0.1 metrics.apple.com
 
 # applovin.com
 127.0.0.1 assets.applovin.com
@@ -5252,7 +5234,6 @@
 127.0.0.1 stats.articlesbase.com
 
 # artinstitutes.edu
-127.0.0.1 omniture.artinstitutes.edu
 
 # aruba.it
 127.0.0.1 scambiobanner.aruba.it
@@ -6705,7 +6686,6 @@
 127.0.0.1 s.btstatic.com
 
 # buddypic.com
-127.0.0.1 ads.buddypic.com
 
 # buempliz-online.ch
 127.0.0.1 banner.buempliz-online.ch
@@ -6965,7 +6945,6 @@
 127.0.0.1 r.casalemedia.com
 
 # casee.cn
-127.0.0.1 wap.casee.cn
 
 # cash-media.de
 127.0.0.1 logger.cash-media.de
@@ -7605,7 +7584,6 @@
 127.0.0.1 d2x2losda9vsjs.cloudfront.net
 127.0.0.1 d2y9h8w1ydnujs.cloudfront.net
 127.0.0.1 d2ydccbv7g31yj.cloudfront.net
-127.0.0.1 d3oltyb66oj2v8.cloudfront.net
 127.0.0.1 d3tq7gtaad4z5i.cloudfront.net
 127.0.0.1 dnn506yrbagrg.cloudfront.net
 127.0.0.1 dtym7iokkjlif.cloudfront.net
@@ -8074,8 +8052,6 @@
 127.0.0.1 cb1.counterbot.com
 127.0.0.1 counterbot.com
 
-# counting4free.com
-127.0.0.1 counting4free.com
 
 # countit.ch
 127.0.0.1 countit.ch
@@ -8143,7 +8119,6 @@
 127.0.0.1 cpmtrafficker.com
 
 # cpushpop.com
-127.0.0.1 pingback.cpushpop.com
 
 # cpxadroit.com
 127.0.0.1 cpxadroit.com
@@ -8550,9 +8525,6 @@
 127.0.0.1 ad.ddo.jp
 
 # de.com
-127.0.0.1 s32.research.de.com
-127.0.0.1 s62.research.de.com
-127.0.0.1 s95.research.de.com
 
 # de17a.com
 127.0.0.1 de17a.com
@@ -8601,8 +8573,6 @@
 127.0.0.1 ads.delfi.ee
 127.0.0.1 ads2.delfi.ee
 
-# delfinproject.com
-127.0.0.1 delfinproject.com
 
 # delivere.com
 127.0.0.1 delivere.com
@@ -9716,7 +9686,6 @@
 127.0.0.1 bill.ecsuite.com
 
 # ed4.net
-127.0.0.1 images.ed4.net
 
 # edbindex.dk
 127.0.0.1 ads.edbindex.dk
@@ -9783,7 +9752,6 @@
 127.0.0.1 ehho.com
 
 # ehost-services.com
-127.0.0.1 wsc.ehost-services.com
 
 # eimg.jp
 127.0.0.1 c.adingo.jp.eimg.jp
@@ -10503,7 +10471,6 @@
 
 # exosrv.com
 127.0.0.1 ads.exosrv.com
-127.0.0.1 origin-ads.exosrv.com
 
 # expandsearchanswers.com
 127.0.0.1 click.expandsearchanswers.com
@@ -10596,8 +10563,6 @@
 127.0.0.1 eyeota.net
 
 # eyereturn.com
-127.0.0.1 resources.eyereturn.com
-127.0.0.1 voken.eyereturn.com
 
 # eyk.net
 127.0.0.1 click.eyk.net
@@ -10608,8 +10573,6 @@
 # ezgreen.com
 127.0.0.1 ezgreen.com
 
-# f5biz.com
-127.0.0.1 f5biz.com
 
 # facdn.net
 127.0.0.1 a.facdn.net
@@ -10647,8 +10610,6 @@
 127.0.0.1 gatekeeper01.fancs.com
 127.0.0.1 gatekeeper02.fancs.com
 127.0.0.1 gatekeeper10.fancs.com
-127.0.0.1 gatekeeper11.fancs.com
-127.0.0.1 gatekeeper12.fancs.com
 127.0.0.1 gatekeeper90.fancs.com
 127.0.0.1 ns1.fancs.com
 127.0.0.1 post.fancs.com
@@ -11249,8 +11210,6 @@
 127.0.0.1 freecountersnow.com
 
 # freedom.com
-127.0.0.1 analytics.freedom.com
-127.0.0.1 onset.freedom.com
 
 # freelogs.com
 127.0.0.1 bar.freelogs.com
@@ -11520,7 +11479,6 @@
 127.0.0.1 gamingclub.com
 
 # gammacash.com
-127.0.0.1 maximize.gammacash.com
 127.0.0.1 stats.gammacash.com
 127.0.0.1 tgp.gammacash.com
 
@@ -11899,7 +11857,6 @@
 127.0.0.1 promotools.globalmailer.com
 
 # globalmailer5.com
-127.0.0.1 pcash.globalmailer5.com
 
 # globalsign.com
 127.0.0.1 seal.globalsign.com
@@ -12039,10 +11996,7 @@
 
 # gomtv.com
 127.0.0.1 adw.gomtv.com
-127.0.0.1 flashad.gomtv.com
 127.0.0.1 ncube.gomtv.com
-127.0.0.1 textadc2.gomtv.com
-127.0.0.1 textadimg.gomtv.com
 
 # goo.ne.jp
 127.0.0.1 a1.goo.ne.jp
@@ -12497,8 +12451,6 @@
 127.0.0.1 sitestat.hetnet.nl
 
 # hexun.com
-127.0.0.1 ads.hexun.com
-127.0.0.1 hx.hexun.com
 127.0.0.1 utrack.hexun.com
 
 # hexus.net
@@ -12534,7 +12486,6 @@
 127.0.0.1 stats.hickoryfarms.com
 
 # hicpm5.com
-127.0.0.1 www.hicpm5.com
 
 # hideaway.com
 127.0.0.1 hideaway.com
@@ -13078,8 +13029,6 @@
 # hotels.com
 127.0.0.1 ad2.hotels.com
 
-# hotkeys.com
-127.0.0.1 hotkeys.com
 
 # hotlinks.net
 127.0.0.1 banners.hotlinks.net
@@ -13591,8 +13540,6 @@
 127.0.0.1 k.iinfo.cz
 
 # ijinshan.com
-127.0.0.1 dcys.ijinshan.com
-127.0.0.1 top.dcys.ijinshan.com
 127.0.0.1 up.app.ijinshan.com
 
 # iknowthatgirl.com
@@ -13986,7 +13933,6 @@
 127.0.0.1 tracking.inner-active.com
 
 # inner-active.mobi
-127.0.0.1 cdn1.inner-active.mobi
 127.0.0.1 m2m1.inner-active.mobi
 127.0.0.1 wv.inner-active.mobi
 
@@ -14097,8 +14043,6 @@
 # intergal.com
 127.0.0.1 banners.intergal.com
 
-# intermediaceli.com
-127.0.0.1 intermediaceli.com
 
 # intermediads.com
 127.0.0.1 intermediads.com
@@ -14331,10 +14275,8 @@
 127.0.0.1 itseasy.us
 
 # itsmassive.com
-127.0.0.1 openx.itsmassive.com
 
 # ittoolbox.com
-127.0.0.1 ad.ittoolbox.com
 
 # itv.com
 127.0.0.1 ads.itv.com
@@ -16094,8 +16036,6 @@
 # marketsource.com
 127.0.0.1 marketsource.com
 
-# marketsurveys.com
-127.0.0.1 marketsurveys.com
 
 # marketwatch.com
 127.0.0.1 s.marketwatch.com
@@ -16321,15 +16261,6 @@
 # mediahorizons.com
 127.0.0.1 mediahorizons.com
 
-# mediaid.click
-127.0.0.1 a.resad.mediaid.click
-127.0.0.1 b.resad.mediaid.click
-127.0.0.1 c.resad.mediaid.click
-127.0.0.1 d.resad.mediaid.click
-127.0.0.1 e.resad.mediaid.click
-127.0.0.1 f.resad.mediaid.click
-127.0.0.1 g.resad.mediaid.click
-127.0.0.1 mediaid.click
 
 # medialeopard.com
 127.0.0.1 toolbarmodal.medialeopard.com
@@ -16857,8 +16788,6 @@
 # monkeybanana3.com
 127.0.0.1 counter.monkeybanana3.com
 
-# monkeydoggy.com
-127.0.0.1 monkeydoggy.com
 
 # monster.com
 127.0.0.1 media.monster.com
@@ -17896,7 +17825,6 @@
 127.0.0.1 feed.ndot.com
 
 # nearbyad.com
-127.0.0.1 cdn.nearbyad.com
 
 # nedmax.com
 127.0.0.1 ads.nedmax.com
@@ -18215,8 +18143,6 @@
 127.0.0.1 adserver.news.com.au
 127.0.0.1 sops.news.com.au
 
-# newsclicker.com
-127.0.0.1 newsclicker.com
 
 # newsint.co.uk
 127.0.0.1 ads.newsint.co.uk
@@ -18625,7 +18551,6 @@
 127.0.0.1 1.ofsnetwork.com
 
 # ofuda.cc
-127.0.0.1 e.ofuda.cc
 
 # ohaguro.com
 127.0.0.1 x6.ohaguro.com
@@ -19001,7 +18926,6 @@
 127.0.0.1 banners.outpersonals.com
 
 # outputfx.com
-127.0.0.1 oc.outputfx.com
 
 # outster.com
 127.0.0.1 banners.outster.com
@@ -19385,7 +19309,6 @@
 
 # penthouse.com
 127.0.0.1 adserver.penthouse.com
-127.0.0.1 banners.penthouse.com
 
 # penton.com
 127.0.0.1 metrics.penton.com
@@ -19525,7 +19448,6 @@
 127.0.0.1 promo.pimproll.com
 
 # pinballpublishernetwork.com
-127.0.0.1 public.pinballpublishernetwork.com
 
 # pingdom.com
 127.0.0.1 royal.pingdom.com
@@ -22484,8 +22406,6 @@
 # spywarecrusher.com
 127.0.0.1 spywarecrusher.com
 
-# spywarenuker.com
-127.0.0.1 spywarenuker.com
 
 # spywarevanisher.com
 127.0.0.1 spywarevanisher.com
@@ -22493,8 +22413,6 @@
 # squidanalytics.com
 127.0.0.1 aws.tracker.squidanalytics.com
 
-# srbijacafe.org
-127.0.0.1 srbijacafe.org
 
 # srwww1.com
 127.0.0.1 srwww1.com
@@ -23245,7 +23163,6 @@
 127.0.0.1 sdc.tele.net
 
 # tellapart.com
-127.0.0.1 t.tellapart.com
 
 # telstra.com
 127.0.0.1 info.telstra.com
@@ -23662,8 +23579,6 @@
 # toprebate.com
 127.0.0.1 toprebate.com
 
-# toprebates.com
-127.0.0.1 toprebates.com
 
 # topsajt.com
 127.0.0.1 topsajt.com
@@ -24138,7 +24053,6 @@
 127.0.0.1 trk-optimize.com
 
 # trk4.com
-127.0.0.1 affiliate.trk4.com
 
 # troglod.com
 127.0.0.1 bannerexchange.troglod.com
@@ -25587,8 +25501,6 @@
 # wondoads.de
 127.0.0.1 wondoads.de
 
-# woolyboys.com
-127.0.0.1 woolyboys.com
 
 # woomy.me
 127.0.0.1 woomy.me
@@ -26106,7 +26018,6 @@
 127.0.0.1 mc.yandex.ru
 
 # yankscash.com
-127.0.0.1 ads.yankscash.com
 
 # yarpp.org
 127.0.0.1 yarpp.org
