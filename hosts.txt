@@ -2,8 +2,8 @@
 #
 # author: logroid
 #
-# last updated: 2023/11/01
-# block hosts: 15045 entry
+# last updated: 2023/12/01
+# block hosts: 14970 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -39,8 +39,6 @@
 # 10clicks.com
 127.0.0.1 ad1.10clicks.com
 
-# 1111sale.us
-127.0.0.1 1111sale.us
 
 # 1133.cc
 127.0.0.1 1133.cc
@@ -236,8 +234,6 @@
 127.0.0.1 24log.com
 127.0.0.1 counter.24log.com
 
-# 24log.de
-127.0.0.1 24log.de
 
 # 24log.ru
 127.0.0.1 counter.24log.ru
@@ -1666,9 +1662,6 @@
 127.0.0.1 4clvr.jp
 127.0.0.1 ad.4clvr.jp
 
-# 4d5.net
-127.0.0.1 4d5.net
-127.0.0.1 banners.4d5.net
 
 # 4gamer.net
 127.0.0.1 ad.4gamer.net
@@ -1826,8 +1819,6 @@
 # 9991.com
 127.0.0.1 9991.com
 
-# 9vcpp.cn
-127.0.0.1 9vcpp.cn
 
 # a-affiliate.jp
 127.0.0.1 a-affiliate.jp
@@ -1903,7 +1894,6 @@
 127.0.0.1 items.a8.net
 127.0.0.1 lm.a8.net
 127.0.0.1 localhost.a8.net
-127.0.0.1 ma.a8.net
 127.0.0.1 ml.a8.net
 127.0.0.1 nat.a8.net
 127.0.0.1 nat2.a8.net
@@ -1934,8 +1924,6 @@
 127.0.0.1 stg-sp-api.a8.net
 127.0.0.1 support.a8.net
 127.0.0.1 techdev-portal.a8.net
-127.0.0.1 trck-v3.a8.net
-127.0.0.1 trck-v4.a8.net
 127.0.0.1 trck.a8.net
 127.0.0.1 watch.a8.net
 127.0.0.1 ws.a8.net
@@ -2172,8 +2160,6 @@
 127.0.0.1 t.ad-analyze.jp
 127.0.0.1 w.ad-analyze.jp
 
-# ad-arata.com
-127.0.0.1 ad-arata.com
 
 # ad-arrow.com
 127.0.0.1 ad.ad-arrow.com
@@ -2291,8 +2277,6 @@
 127.0.0.1 master.ad-optima.com
 127.0.0.1 media.ad-optima.com
 
-# ad-pay.de
-127.0.0.1 ad-pay.de
 
 # ad-seek.jp
 127.0.0.1 ad-seek.jp
@@ -2387,8 +2371,6 @@
 # ad-x.com
 127.0.0.1 ad-x.com
 
-# ad1111.com
-127.0.0.1 ad1111.com
 
 # ad1data.com
 127.0.0.1 go.ad1data.com
@@ -3576,12 +3558,6 @@
 127.0.0.1 west.adlink.de
 
 # adlink.net
-127.0.0.1 js.adlink.net
-127.0.0.1 rc.ch.adlink.net
-127.0.0.1 rc.de.adlink.net
-127.0.0.1 tc.adlink.net
-127.0.0.1 tr.ch.adlink.net
-127.0.0.1 tr.de.adlink.net
 
 # adlpo.com
 127.0.0.1 t.adlpo.com
@@ -4350,8 +4326,6 @@
 127.0.0.1 projectorreviews.advertserve.com
 127.0.0.1 tradearabia.advertserve.com
 
-# advertstream.com
-127.0.0.1 advertstream.com
 
 # advertwizard.com
 127.0.0.1 advertwizard.com
@@ -4541,8 +4515,6 @@
 
 # affiliatetracking.net
 127.0.0.1 affiliatetracking.net
-127.0.0.1 fcds.affiliatetracking.net
-127.0.0.1 our.affiliatetracking.net
 
 # affiliatetraction.com
 127.0.0.1 ban.affiliatetraction.com
@@ -5406,8 +5378,6 @@
 127.0.0.1 ads.autotrader.com
 127.0.0.1 adserving.autotrader.com
 
-# avanato.com
-127.0.0.1 avanato.com
 
 # avatarcash.com
 127.0.0.1 avatarcash.com
@@ -5924,7 +5894,6 @@
 127.0.0.1 betshucklean.com
 
 # betteradvertising.com
-127.0.0.1 cdn.betteradvertising.com
 
 # betterclips.com
 127.0.0.1 betterclips.com
@@ -6772,7 +6741,6 @@
 127.0.0.1 byet.org
 
 # byggahus.se
-127.0.0.1 ads.byggahus.se
 
 # bypass.jp
 127.0.0.1 as.a.bypass.jp
@@ -7104,8 +7072,6 @@
 # celtra.com
 127.0.0.1 cdn.celtra.com
 
-# center-vip.com
-127.0.0.1 center-vip.com
 
 # centraliprom.com
 127.0.0.1 ads.centraliprom.com
@@ -7308,7 +7274,6 @@
 127.0.0.1 classicsinellensburg.org
 
 # classifieds1000.com
-127.0.0.1 board.classifieds1000.com
 127.0.0.1 xp.classifieds1000.com
 
 # classmates.com
@@ -7325,7 +7290,6 @@
 127.0.0.1 clear-reports.com
 
 # clearchannel.com
-127.0.0.1 ads2.clearchannel.com
 
 # clearspring.com
 127.0.0.1 clearspring.com
@@ -7835,11 +7799,8 @@
 # come.cc
 127.0.0.1 ranklet.come.cc
 
-# commindo-media-ressourcen.de
-127.0.0.1 commindo-media-ressourcen.de
 
 # commissionpartner.com
-127.0.0.1 banner.commissionpartner.com
 
 # communitech.net
 127.0.0.1 ads.communitech.net
@@ -8279,33 +8240,21 @@
 
 # crwdcntrl.net
 127.0.0.1 ad.crwdcntrl.net
-127.0.0.1 ag.tags.crwdcntrl.net
-127.0.0.1 bb.crwdcntrl.net
 127.0.0.1 bcp.crwdcntrl.net
 127.0.0.1 bebo.crwdcntrl.net
 127.0.0.1 blogtalkradio.crwdcntrl.net
 127.0.0.1 cdn.crwdcntrl.net
-127.0.0.1 celebslam.tags.crwdcntrl.net
-127.0.0.1 cnnmoney.tags.crwdcntrl.net
 127.0.0.1 coop.crwdcntrl.net
 127.0.0.1 crwdcntrl.net
 127.0.0.1 deviantart.crwdcntrl.net
-127.0.0.1 fanpop.tags.crwdcntrl.net
 127.0.0.1 fotolog.crwdcntrl.net
 127.0.0.1 huffingtonpost.crwdcntrl.net
 127.0.0.1 justjared.crwdcntrl.net
-127.0.0.1 livejournal.tags.crwdcntrl.net
 127.0.0.1 multiply.crwdcntrl.net
-127.0.0.1 nbcu.tags.crwdcntrl.net
 127.0.0.1 perfspot.crwdcntrl.net
-127.0.0.1 sociallitelife.tags.crwdcntrl.net
-127.0.0.1 sportsillustrated.tags.crwdcntrl.net
 127.0.0.1 superficial.crwdcntrl.net
 127.0.0.1 tags.crwdcntrl.net
-127.0.0.1 videogum.tags.crwdcntrl.net
 127.0.0.1 vidilife.crwdcntrl.net
-127.0.0.1 wwtdd.tags.crwdcntrl.net
-127.0.0.1 yardbarker.tags.crwdcntrl.net
 
 # csmonitor.com
 127.0.0.1 metrics.csmonitor.com
@@ -8490,8 +8439,6 @@
 # dateroute.com
 127.0.0.1 dateroute.com
 
-# dating-z.shop
-127.0.0.1 dating-z.shop
 
 # datingadzone.com
 127.0.0.1 cdn.mb.datingadzone.com
@@ -8506,8 +8453,6 @@
 # daz.com
 127.0.0.1 daz.com
 
-# dbbsrv.com
-127.0.0.1 dbbsrv.com
 
 # dbusiness.com
 127.0.0.1 adserver.dbusiness.com
@@ -8564,7 +8509,6 @@
 127.0.0.1 gp.dejanews.com
 
 # dekapro.com
-127.0.0.1 wv001.dekapro.com
 
 # delawareonline.com
 127.0.0.1 gcirm.delawareonline.com
@@ -9348,8 +9292,6 @@
 127.0.0.1 www.doubleclick.net
 127.0.0.1 www3.doubleclick.net
 
-# doubledeepclick.com
-127.0.0.1 doubledeepclick.com
 
 # doublepimp.com
 127.0.0.1 ad1.doublepimp.com
@@ -9879,7 +9821,6 @@
 127.0.0.1 ad1.emule-project.org
 
 # endai.com
-127.0.0.1 dotnet.endai.com
 
 # enfactory.jp
 127.0.0.1 img.enfactory.jp
@@ -10424,7 +10365,6 @@
 127.0.0.1 utm.excite.co.uk
 
 # excite.it
-127.0.0.1 utm.excite.it
 
 # exclusivegiftcards.com
 127.0.0.1 i.exclusivegiftcards.com
@@ -11908,10 +11848,6 @@
 127.0.0.1 minerva-js.sp.gmossp-sp.jp
 127.0.0.1 sp.gmossp-sp.jp
 
-# gmtracker.com
-127.0.0.1 ads.gmtracker.com
-127.0.0.1 affiliate.gmtracker.com
-127.0.0.1 gmtracker.com
 
 # go-clicks.de
 127.0.0.1 go-clicks.de
@@ -13075,7 +13011,6 @@
 127.0.0.1 om.hotwire.com
 
 # hotwired.com
-127.0.0.1 nsads.hotwired.com
 
 # house27.ch
 127.0.0.1 house27.ch
@@ -13964,7 +13899,6 @@
 127.0.0.1 scripts.insite.com.br
 
 # insites.be
-127.0.0.1 bimonline.insites.be
 127.0.0.1 insites.be
 
 # inskinad.com
@@ -14299,7 +14233,6 @@
 127.0.0.1 track.iwoop.com
 
 # ix.se
-127.0.0.1 banners.ix.se
 
 # ixbt.com
 127.0.0.1 rose.ixbt.com
@@ -14764,8 +14697,6 @@
 # ktvb.com
 127.0.0.1 metrics.ktvb.com
 
-# kuaptrk.com
-127.0.0.1 kuaptrk.com
 
 # kuchinawa.com
 127.0.0.1 x7.kuchinawa.com
@@ -14798,8 +14729,6 @@
 127.0.0.1 ewstv.kypost.com
 
 # l2m.net
-127.0.0.1 14713804a.l2m.net
-127.0.0.1 30280827a.l2m.net
 
 # lacodeworks.com
 127.0.0.1 lacodeworks.com
@@ -15123,7 +15052,6 @@
 
 # linkwithin.com
 127.0.0.1 linkwithin.com
-127.0.0.1 widget6.linkwithin.com
 
 # linkybank.com
 127.0.0.1 linkybank.com
@@ -15135,7 +15063,6 @@
 127.0.0.1 banner.linux.se
 
 # linuxjournal.com
-127.0.0.1 ads.linuxjournal.com
 
 # list.ru
 127.0.0.1 d1.c6.b3.a0.top.list.ru
@@ -16203,7 +16130,6 @@
 
 # media6degrees.com
 127.0.0.1 action.media6degrees.com
-127.0.0.1 cdn.media6degrees.com
 127.0.0.1 cspix.media6degrees.com
 127.0.0.1 map.media6degrees.com
 127.0.0.1 media6degrees.com
@@ -16563,7 +16489,6 @@
 127.0.0.1 clicks.minimob.com
 
 # mint.se
-127.0.0.1 adclick.mint.se
 
 # miraikensaku.jp
 127.0.0.1 miraikensaku.jp
@@ -16685,7 +16610,6 @@
 127.0.0.1 mobair-ssl.com
 
 # mobcent.com
-127.0.0.1 img.mobcent.com
 
 # mobee2.jp
 127.0.0.1 mobee2.jp
@@ -17045,8 +16969,6 @@
 # muwmedia.com
 127.0.0.1 muwmedia.com
 
-# mvmads.com
-127.0.0.1 mvmads.com
 
 # mw.hu
 127.0.0.1 toplista.mw.hu
@@ -17686,7 +17608,6 @@
 127.0.0.1 adimg3.search.naver.net
 
 # navrcholu.cz
-127.0.0.1 c1.navrcholu.cz
 127.0.0.1 navrcholu.cz
 
 # navstevnost.cz
@@ -18020,7 +17941,6 @@
 127.0.0.1 netperception.com
 
 # netpondcash.com
-127.0.0.1 click.netpondcash.com
 
 # netprefs.com
 127.0.0.1 netprefs.com
@@ -18372,8 +18292,6 @@
 127.0.0.1 csec-gov.nr-data.net
 127.0.0.1 csec-staging.nr-data.net
 127.0.0.1 csec.nr-data.net
-127.0.0.1 fastly-bam-cell.nr-data.net
-127.0.0.1 fastly-bam.nr-data.net
 127.0.0.1 fastly-staging-bam-cell.nr-data.net
 127.0.0.1 fastly-staging-bam.nr-data.net
 127.0.0.1 fastly-staging-otlp.nr-data.net
@@ -19256,7 +19174,6 @@
 127.0.0.1 adv.pdbox.co.kr
 
 # pdltracking.com
-127.0.0.1 click.pdltracking.com
 
 # pdn-2.com
 127.0.0.1 xml.pdn-2.com
@@ -19864,7 +19781,6 @@
 127.0.0.1 primetime.net
 
 # primissima.it
-127.0.0.1 ads.primissima.it
 
 # primorye.ru
 127.0.0.1 ad1.primorye.ru
@@ -20321,7 +20237,6 @@
 127.0.0.1 reachjunction.com
 
 # reachppc.com
-127.0.0.1 ad.reachppc.com
 
 # readme.ru
 127.0.0.1 click.readme.ru
@@ -20866,7 +20781,6 @@
 127.0.0.1 w.rxparty.net
 
 # s-an.net
-127.0.0.1 ad.s-an.net
 
 # s-e-arch.com
 127.0.0.1 s-e-arch.com
@@ -22263,7 +22177,6 @@
 127.0.0.1 iframe.sponsorpay.com
 127.0.0.1 service.sponsorpay.com
 127.0.0.1 sponsorpay.com
-127.0.0.1 tracking.sponsorpay.com
 
 # sponsorpro.de
 127.0.0.1 sponsorpro.de
@@ -23436,7 +23349,6 @@
 127.0.0.1 saturn.tiser.com.au
 
 # titanpoker.com
-127.0.0.1 banner.titanpoker.com
 
 # tiyogami.com
 127.0.0.1 ct1.tiyogami.com
@@ -25361,8 +25273,6 @@
 # widespace.com
 127.0.0.1 widespace.com
 
-# widgetbucks.com
-127.0.0.1 widgetbucks.com
 
 # widgetserver.com
 127.0.0.1 ad.widgetserver.com
@@ -25381,7 +25291,6 @@
 127.0.0.1 wikia-ads.wikia.com
 
 # wildmatch.com
-127.0.0.1 pcash.wildmatch.com
 
 # wildporntube.com
 127.0.0.1 wildporntube.com
@@ -26216,7 +26125,6 @@
 127.0.0.1 ytdscm.com
 
 # ytn.co.kr
-127.0.0.1 ad3.ytn.co.kr
 
 # yu-yake.com
 127.0.0.1 ct2.yu-yake.com
