@@ -1,7 +1,16 @@
 # 日本環境向け AdAway 用 hosts :no_entry_sign:
 
 ![ホワイトリスト数](https://img.shields.io/badge/allow-48-brightgreen)
-![ブロック数](https://img.shields.io/badge/block-14970-red)
+![ブロック数](https://img.shields.io/badge/block-14984-red)
+
+## 注意
+このhostsの定期更新は終了しました。  
+今後は寄付いただいたタイミングでの更新とさせていただきます。
+## Attention
+The regular update of this hosts has ended.  
+From now on, we will update it when we receive your donation.
+
+---
 
 AdAway 用の hosts ファイルです。  
 詳細は以下を参照。
@@ -9,7 +18,7 @@ AdAway 用の hosts ファイルです。
 * [日本環境向け AdAway 用 hosts](https://logroid.blogspot.com/2021/05/adaway-hosts-for-japan.html)
 
 名前解決ができなくなった domain は随時削除しています。  
-要望・報告は issue or [Twitter](https://twitter.com/logroid) or [blog](https://logroid.blogspot.com/2021/05/adaway-hosts-for-japan.html) のフォームにお願いします。
+要望・報告は issue or [blog](https://logroid.blogspot.com/2021/05/adaway-hosts-for-japan.html) のフォームにお願いします。
 
 ## Support this project
 
