@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2023/11/28
-# block hosts: 14984 entry
+# last updated: 2024/01/01
+# block hosts: 14827 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -4286,8 +4286,6 @@
 127.0.0.1 projectorreviews.advertserve.com
 127.0.0.1 tradearabia.advertserve.com
 
-# advertstream.com
-127.0.0.1 advertstream.com
 
 # advertwizard.com
 127.0.0.1 advertwizard.com
@@ -4471,8 +4469,6 @@
 
 # affiliatetracking.net
 127.0.0.1 affiliatetracking.net
-127.0.0.1 fcds.affiliatetracking.net
-127.0.0.1 our.affiliatetracking.net
 
 # affiliatetraction.com
 127.0.0.1 ban.affiliatetraction.com
@@ -4554,7 +4550,6 @@
 127.0.0.1 partner.ah-ha.com
 
 # ah-me.com
-127.0.0.1 spots.ah-me.com
 
 # ai.net
 127.0.0.1 ai.net
@@ -4730,7 +4725,6 @@
 127.0.0.1 amateurdevils.com
 
 # amateurgalls.com
-127.0.0.1 admin.amateurgalls.com
 
 # amazingcounters.com
 127.0.0.1 amazingcounters.com
@@ -4928,9 +4922,6 @@
 # and.co.uk
 127.0.0.1 wa.and.co.uk
 
-# andhub.jp
-127.0.0.1 andhub.jp
-127.0.0.1 cdnjs.andhub.jp
 
 # andoidtraffic.ru
 127.0.0.1 andoidtraffic.ru
@@ -5159,7 +5150,6 @@
 127.0.0.1 article19.com
 
 # articlesbase.com
-127.0.0.1 stats.articlesbase.com
 
 # aruba.it
 127.0.0.1 scambiobanner.aruba.it
@@ -5175,16 +5165,6 @@
 127.0.0.1 beacon.asahi.com
 
 # asap-asp.net
-127.0.0.1 adm.ad.asap-asp.net
-127.0.0.1 ads.asap-asp.net
-127.0.0.1 ads7.c.no1.asap-asp.net
-127.0.0.1 ads8.c.no1.asap-asp.net
-127.0.0.1 advertizer-test1.asap-asp.net
-127.0.0.1 no1.ad.asap-asp.net
-127.0.0.1 no2.ad.asap-asp.net
-127.0.0.1 test-ads.asap-asp.net
-127.0.0.1 test.ad.asap-asp.net
-127.0.0.1 vg.ad.asap-asp.net
 
 # asexstories.com
 127.0.0.1 ads.asexstories.com
@@ -5533,8 +5513,6 @@
 # bango.net
 127.0.0.1 bango.net
 
-# banner-exchange.nl
-127.0.0.1 banner-exchange.nl
 
 # banner.com
 127.0.0.1 banner.com
@@ -5844,7 +5822,6 @@
 127.0.0.1 betshucklean.com
 
 # betteradvertising.com
-127.0.0.1 cdn.betteradvertising.com
 
 # betterclips.com
 127.0.0.1 betterclips.com
@@ -6591,9 +6568,6 @@
 127.0.0.1 log.btopenworld.com
 127.0.0.1 staticads.btopenworld.com
 
-# btstatic.com
-127.0.0.1 btstatic.com
-127.0.0.1 s.btstatic.com
 
 # buempliz-online.ch
 127.0.0.1 banner.buempliz-online.ch
@@ -6863,8 +6837,6 @@
 # cash4popup.de
 127.0.0.1 cash4popup.de
 
-# cash4views.de
-127.0.0.1 cash4views.de
 
 # cashcount.de
 127.0.0.1 cashcount.de
@@ -7215,7 +7187,6 @@
 127.0.0.1 classicsinellensburg.org
 
 # classifieds1000.com
-127.0.0.1 board.classifieds1000.com
 127.0.0.1 xp.classifieds1000.com
 
 # classmates.com
@@ -8002,8 +7973,6 @@
 # cpmtrafficker.com
 127.0.0.1 cpmtrafficker.com
 
-# cpxadroit.com
-127.0.0.1 cpxadroit.com
 
 # cpxinteractive.com
 127.0.0.1 cpxinteractive.com
@@ -8181,8 +8150,6 @@
 127.0.0.1 ads.ctasnet.com
 127.0.0.1 p.ctasnet.com
 
-# ctnetwork.hu
-127.0.0.1 ctnetwork.hu
 
 # ctv.ca
 127.0.0.1 metrics.ctv.ca
@@ -10248,7 +10215,6 @@
 127.0.0.1 utm.excite.co.uk
 
 # excite.it
-127.0.0.1 utm.excite.it
 
 # exclusivegiftcards.com
 127.0.0.1 i.exclusivegiftcards.com
@@ -10618,8 +10584,6 @@
 # find-fm.com
 127.0.0.1 find-fm.com
 
-# findbride.link
-127.0.0.1 findbride.link
 
 # findcommerce.com
 127.0.0.1 findcommerce.com
@@ -12704,7 +12668,6 @@
 127.0.0.1 metrics.hm.com
 
 # hns.com
-127.0.0.1 sdc.hns.com
 
 # hobot.ru
 127.0.0.1 hobot.ru
@@ -12897,7 +12860,6 @@
 127.0.0.1 hotlog.ru
 
 # hotplugins.com
-127.0.0.1 search.hotplugins.com
 
 # hotwire.com
 127.0.0.1 om.hotwire.com
@@ -14687,8 +14649,6 @@
 # leadzu.com
 127.0.0.1 play.leadzu.com
 
-# leaffi.jp
-127.0.0.1 leaffi.jp
 
 # lef.org
 127.0.0.1 sdc.lef.org
@@ -15973,7 +15933,6 @@
 
 # media6degrees.com
 127.0.0.1 action.media6degrees.com
-127.0.0.1 cdn.media6degrees.com
 127.0.0.1 cspix.media6degrees.com
 127.0.0.1 map.media6degrees.com
 127.0.0.1 media6degrees.com
@@ -16291,8 +16250,6 @@
 # military.com
 127.0.0.1 tracking.military.com
 
-# militarymommy.com
-127.0.0.1 militarymommy.com
 
 # millennialmedia.com
 127.0.0.1 millennialmedia.com
@@ -16757,7 +16714,6 @@
 127.0.0.1 js.mulan.cloud
 
 # multimania.com
-127.0.0.1 hit.multimania.com
 
 # multipops.com
 127.0.0.1 multipops.com
@@ -16794,8 +16750,6 @@
 # muwmedia.com
 127.0.0.1 muwmedia.com
 
-# mvmads.com
-127.0.0.1 mvmads.com
 
 # mw.hu
 127.0.0.1 toplista.mw.hu
@@ -17459,107 +17413,6 @@
 127.0.0.1 oimg.nbcuni.com
 
 # nbryb.com
-127.0.0.1 1.nbryb.com
-127.0.0.1 10.nbryb.com
-127.0.0.1 102.nbryb.com
-127.0.0.1 11.nbryb.com
-127.0.0.1 111.nbryb.com
-127.0.0.1 1115.nbryb.com
-127.0.0.1 1116.nbryb.com
-127.0.0.1 1118.nbryb.com
-127.0.0.1 1119.nbryb.com
-127.0.0.1 1122.nbryb.com
-127.0.0.1 1123.nbryb.com
-127.0.0.1 1125.nbryb.com
-127.0.0.1 1126.nbryb.com
-127.0.0.1 1127.nbryb.com
-127.0.0.1 1128.nbryb.com
-127.0.0.1 1130.nbryb.com
-127.0.0.1 1131.nbryb.com
-127.0.0.1 1132.nbryb.com
-127.0.0.1 1133.nbryb.com
-127.0.0.1 1148.nbryb.com
-127.0.0.1 12.nbryb.com
-127.0.0.1 1248.nbryb.com
-127.0.0.1 1264.nbryb.com
-127.0.0.1 1295.nbryb.com
-127.0.0.1 13.nbryb.com
-127.0.0.1 1393.nbryb.com
-127.0.0.1 1431.nbryb.com
-127.0.0.1 15.nbryb.com
-127.0.0.1 16.nbryb.com
-127.0.0.1 1602.nbryb.com
-127.0.0.1 1698.nbryb.com
-127.0.0.1 178.nbryb.com
-127.0.0.1 1825.nbryb.com
-127.0.0.1 1842.nbryb.com
-127.0.0.1 2.nbryb.com
-127.0.0.1 2087.nbryb.com
-127.0.0.1 21.nbryb.com
-127.0.0.1 2153.nbryb.com
-127.0.0.1 2183.nbryb.com
-127.0.0.1 23.nbryb.com
-127.0.0.1 2491.nbryb.com
-127.0.0.1 27.nbryb.com
-127.0.0.1 293.nbryb.com
-127.0.0.1 3.nbryb.com
-127.0.0.1 3179.nbryb.com
-127.0.0.1 3201.nbryb.com
-127.0.0.1 33.nbryb.com
-127.0.0.1 3307.nbryb.com
-127.0.0.1 340.nbryb.com
-127.0.0.1 341.nbryb.com
-127.0.0.1 3420.nbryb.com
-127.0.0.1 35.nbryb.com
-127.0.0.1 377.nbryb.com
-127.0.0.1 37nz.nbryb.com
-127.0.0.1 4.nbryb.com
-127.0.0.1 43.nbryb.com
-127.0.0.1 4303.nbryb.com
-127.0.0.1 441.nbryb.com
-127.0.0.1 443.nbryb.com
-127.0.0.1 465.nbryb.com
-127.0.0.1 48.nbryb.com
-127.0.0.1 49.nbryb.com
-127.0.0.1 5.nbryb.com
-127.0.0.1 50.nbryb.com
-127.0.0.1 51.nbryb.com
-127.0.0.1 525.nbryb.com
-127.0.0.1 5652.nbryb.com
-127.0.0.1 58.nbryb.com
-127.0.0.1 582.nbryb.com
-127.0.0.1 6.nbryb.com
-127.0.0.1 60.nbryb.com
-127.0.0.1 61.nbryb.com
-127.0.0.1 636.nbryb.com
-127.0.0.1 64.nbryb.com
-127.0.0.1 642.nbryb.com
-127.0.0.1 644.nbryb.com
-127.0.0.1 69.nbryb.com
-127.0.0.1 7.nbryb.com
-127.0.0.1 70.nbryb.com
-127.0.0.1 700.nbryb.com
-127.0.0.1 72.nbryb.com
-127.0.0.1 755.nbryb.com
-127.0.0.1 76.nbryb.com
-127.0.0.1 78.nbryb.com
-127.0.0.1 781.nbryb.com
-127.0.0.1 80.nbryb.com
-127.0.0.1 835.nbryb.com
-127.0.0.1 84.nbryb.com
-127.0.0.1 9.nbryb.com
-127.0.0.1 91.nbryb.com
-127.0.0.1 92.nbryb.com
-127.0.0.1 925.nbryb.com
-127.0.0.1 96.nbryb.com
-127.0.0.1 970.nbryb.com
-127.0.0.1 975.nbryb.com
-127.0.0.1 98.nbryb.com
-127.0.0.1 paly.nbryb.com
-127.0.0.1 play.nbryb.com
-127.0.0.1 sdfjjd.nbryb.com
-127.0.0.1 t0y2.nbryb.com
-127.0.0.1 www.play.nbryb.com
 
 # ncsreporting.com
 127.0.0.1 img1.ncsreporting.com
@@ -18061,8 +17914,6 @@
 127.0.0.1 tracking.novem.pl
 
 # november-lax.com
-127.0.0.1 zn1.november-lax.com
-127.0.0.1 zs1.november-lax.com
 
 # novinar.bg
 127.0.0.1 adv.novinar.bg
@@ -19654,7 +19505,6 @@
 127.0.0.1 promobenef.com
 
 # promosocialjp.com
-127.0.0.1 www.promosocialjp.com
 
 # promosrv.com
 127.0.0.1 cdn.g.promosrv.com
@@ -19875,7 +19725,6 @@
 127.0.0.1 tracking.quisma.com
 
 # quoka.de
-127.0.0.1 ads.quoka.de
 
 # qz3.net
 127.0.0.1 a207.p.f.qz3.net
@@ -20603,7 +20452,6 @@
 
 # sakura.ne.jp
 127.0.0.1 advertise.sakura.ne.jp
-127.0.0.1 blacknews.sakura.ne.jp
 127.0.0.1 majikichi.sakura.ne.jp
 
 # salemwebnetwork.com
@@ -20679,9 +20527,6 @@
 127.0.0.1 scratch2cash.com
 
 # screensaver.com
-127.0.0.1 off.screensaver.com
-127.0.0.1 rdt.screensaver.com
-127.0.0.1 register.screensaver.com
 
 # screensavers.com
 127.0.0.1 cachef.screensavers.com
@@ -22878,8 +22723,6 @@
 127.0.0.1 smtp.textad.net
 127.0.0.1 textad.net
 
-# textads.biz
-127.0.0.1 textads.biz
 
 # textads.lv
 127.0.0.1 show.textads.lv
@@ -22912,7 +22755,6 @@
 127.0.0.1 theadhost.com
 
 # thebrighttag.com
-127.0.0.1 s.thebrighttag.com
 
 # thecounter.com
 127.0.0.1 thecounter.com
@@ -23282,9 +23124,6 @@
 127.0.0.1 totemcash.com
 
 # toteme.com
-127.0.0.1 banners.toteme.com
-127.0.0.1 cachebanners.toteme.com
-127.0.0.1 clicks.toteme.com
 
 # touchclarity.com
 127.0.0.1 gm.touchclarity.com
@@ -23449,8 +23288,6 @@
 # traffi.cc
 127.0.0.1 traffi.cc
 
-# traffic-analytics.net
-127.0.0.1 traffic-analytics.net
 
 # traffic-exchange.com
 127.0.0.1 traffic-exchange.com
@@ -23587,9 +23424,6 @@
 127.0.0.1 traffiq.com
 
 # trafflow.com
-127.0.0.1 adds1.trafflow.com
-127.0.0.1 feed.trafflow.com
-127.0.0.1 freeimghost.trafflow.com
 127.0.0.1 tds.trafflow.com
 
 # trafic-fr.com
@@ -24082,8 +23916,6 @@
 127.0.0.1 ads8.utopiad.comcb3.utopiad.com
 127.0.0.1 utopiad.com
 
-# utrade.com
-127.0.0.1 utrade.com
 
 # uur.at
 127.0.0.1 uur.at
@@ -24199,7 +24031,6 @@
 127.0.0.1 veille-referencement.com
 
 # veinteractive.com
-127.0.0.1 config1.veinteractive.com
 
 # velocecdn.com
 127.0.0.1 velocecdn.com
@@ -24425,7 +24256,6 @@
 127.0.0.1 vizury.com
 
 # vml.com
-127.0.0.1 sdc.vml.com
 
 # vmn.net
 127.0.0.1 vmn.net
@@ -25203,7 +25033,6 @@
 127.0.0.1 ads.wwe.biz
 
 # www.fi
-127.0.0.1 stat.www.fi
 
 # wxs.nl
 127.0.0.1 logging03.wxs.nl
@@ -25279,86 +25108,6 @@
 # xinhuanet.com
 127.0.0.1 imgs.xinhuanet.com
 
-# xiti.com
-127.0.0.1 loga.xiti.com
-127.0.0.1 logc1.xiti.com
-127.0.0.1 logc11.xiti.com
-127.0.0.1 logc13.xiti.com
-127.0.0.1 logc14.xiti.com
-127.0.0.1 logc142.xiti.com
-127.0.0.1 logc173.xiti.com
-127.0.0.1 logc181.xiti.com
-127.0.0.1 logc2.xiti.com
-127.0.0.1 logc202.xiti.com
-127.0.0.1 logc22.xiti.com
-127.0.0.1 logc238.xiti.com
-127.0.0.1 logc253.xiti.com
-127.0.0.1 logc26.xiti.com
-127.0.0.1 logc3.xiti.com
-127.0.0.1 logc31.xiti.com
-127.0.0.1 logc32.xiti.com
-127.0.0.1 logc35.xiti.com
-127.0.0.1 logc8.xiti.com
-127.0.0.1 logi1.xiti.com
-127.0.0.1 logi10.xiti.com
-127.0.0.1 logi104.xiti.com
-127.0.0.1 logi11.xiti.com
-127.0.0.1 logi12.xiti.com
-127.0.0.1 logi125.xiti.com
-127.0.0.1 logi13.xiti.com
-127.0.0.1 logi141.xiti.com
-127.0.0.1 logi150.xiti.com
-127.0.0.1 logi151.xiti.com
-127.0.0.1 logi163.xiti.com
-127.0.0.1 logi4.xiti.com
-127.0.0.1 logi5.xiti.com
-127.0.0.1 logi6.xiti.com
-127.0.0.1 logi7.xiti.com
-127.0.0.1 logi8.xiti.com
-127.0.0.1 logi9.xiti.com
-127.0.0.1 logliberation.xiti.com
-127.0.0.1 logp.xiti.com
-127.0.0.1 logp2.xiti.com
-127.0.0.1 logp3.xiti.com
-127.0.0.1 logp4.xiti.com
-127.0.0.1 logp5.xiti.com
-127.0.0.1 logp6.xiti.com
-127.0.0.1 logp7.xiti.com
-127.0.0.1 logp8.xiti.com
-127.0.0.1 logv1.xiti.com
-127.0.0.1 logv10.xiti.com
-127.0.0.1 logv11.xiti.com
-127.0.0.1 logv12.xiti.com
-127.0.0.1 logv13.xiti.com
-127.0.0.1 logv14.xiti.com
-127.0.0.1 logv143.xiti.com
-127.0.0.1 logv144.xiti.com
-127.0.0.1 logv145.xiti.com
-127.0.0.1 logv16.xiti.com
-127.0.0.1 logv17.xiti.com
-127.0.0.1 logv18.xiti.com
-127.0.0.1 logv19.xiti.com
-127.0.0.1 logv2.xiti.com
-127.0.0.1 logv20.xiti.com
-127.0.0.1 logv21.xiti.com
-127.0.0.1 logv22.xiti.com
-127.0.0.1 logv23.xiti.com
-127.0.0.1 logv24.xiti.com
-127.0.0.1 logv25.xiti.com
-127.0.0.1 logv26.xiti.com
-127.0.0.1 logv28.xiti.com
-127.0.0.1 logv29.xiti.com
-127.0.0.1 logv3.xiti.com
-127.0.0.1 logv30.xiti.com
-127.0.0.1 logv31.xiti.com
-127.0.0.1 logv32.xiti.com
-127.0.0.1 logv4.xiti.com
-127.0.0.1 logv5.xiti.com
-127.0.0.1 logv6.xiti.com
-127.0.0.1 logv7.xiti.com
-127.0.0.1 logv8.xiti.com
-127.0.0.1 logv9.xiti.com
-127.0.0.1 xiti.com
 
 # xlisting.jp
 127.0.0.1 keywordlink3.xlisting.jp
