@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2024/01/01
-# block hosts: 14827 entry
+# last updated: 2024/02/01
+# block hosts: 14624 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -108,7 +108,6 @@
 127.0.0.1 1directory.ru
 
 # 1mobile.com
-127.0.0.1 ads.1mobile.com
 
 # 1okunin.com
 127.0.0.1 ad.1okunin.com
@@ -2172,13 +2171,6 @@
 
 # ad-cloud.jp
 127.0.0.1 api.ad-cloud.jp
-127.0.0.1 d-image-ad-jp.ad-cloud.jp
-127.0.0.1 d-kd.ad-cloud.jp
-127.0.0.1 i-image-ad-jp.ad-cloud.jp
-127.0.0.1 j-image-ad-jp.ad-cloud.jp
-127.0.0.1 origin-j-image-ad-jp.ad-cloud.jp
-127.0.0.1 prometheus.ad-cloud.jp
-127.0.0.1 zabbix.ad-cloud.jp
 
 # ad-count.jp
 127.0.0.1 ad-count.jp
@@ -2386,8 +2378,6 @@
 # ad2click.nl
 127.0.0.1 cms.ad2click.nl
 
-# ad2games.com
-127.0.0.1 ad2games.com
 
 # ad4game.com
 127.0.0.1 ad4game.com
@@ -2511,7 +2501,6 @@
 127.0.0.1 adchimp.com
 
 # adchina.com
-127.0.0.1 mobile.adchina.com
 
 # adclick.ru
 127.0.0.1 adclick.ru
@@ -2674,13 +2663,8 @@
 
 # addynamo.com
 127.0.0.1 banners.delivery.addynamo.com
-127.0.0.1 s01.delivery.addynamo.com
-127.0.0.1 static.uk.addynamo.com
 
 # addynamo.net
-127.0.0.1 s01-delivery.addynamo.net
-127.0.0.1 static-uk.addynamo.net
-127.0.0.1 static.addynamo.net
 
 # adecn.com
 127.0.0.1 adecn.com
@@ -2844,9 +2828,6 @@
 127.0.0.1 adisfy.com
 
 # aditic.net
-127.0.0.1 click07.aditic.net
-127.0.0.1 click08.aditic.net
-127.0.0.1 click10.aditic.net
 
 # adition.com
 127.0.0.1 ad1.adfarm1.adition.com
@@ -3787,9 +3768,6 @@
 127.0.0.1 adriver.ru
 127.0.0.1 content.adriver.ru
 127.0.0.1 masterh1.adriver.ru
-127.0.0.1 masterh2.adriver.ru
-127.0.0.1 masterh3.adriver.ru
-127.0.0.1 masterh4.adriver.ru
 127.0.0.1 masterh6.adriver.ru
 127.0.0.1 sad1.adriver.ru
 
@@ -4409,8 +4387,6 @@
 # afdads.com
 127.0.0.1 d.afdads.com
 
-# affil.jp
-127.0.0.1 affil.jp
 
 # affili.net
 127.0.0.1 affili.net
@@ -4757,7 +4733,6 @@
 127.0.0.1 g-images.amazon.com
 127.0.0.1 mads.amazon.com
 127.0.0.1 rcm.amazon.com
-127.0.0.1 ws.amazon.com
 
 # amazonaws.com
 127.0.0.1 ad-arata.s3.amazonaws.com
@@ -5207,7 +5182,6 @@
 # assoc-amazon.jp
 127.0.0.1 assoc-amazon.jp
 127.0.0.1 wms.assoc-amazon.jp
-127.0.0.1 ws.assoc-amazon.jp
 
 # associateprograms.com
 127.0.0.1 associateprograms.com
@@ -5292,8 +5266,6 @@
 # aureate.com
 127.0.0.1 aureate.com
 
-# auto-bannertausch.de
-127.0.0.1 auto-bannertausch.de
 
 # autobytel.com
 127.0.0.1 metrics.autobytel.com
@@ -7059,8 +7031,6 @@
 # cheatscodesguides.com
 127.0.0.1 stats.cheatscodesguides.com
 
-# checkandgo.info
-127.0.0.1 checkandgo.info
 
 # checkm8.com
 127.0.0.1 abc.checkm8.com
@@ -8014,7 +7984,6 @@
 127.0.0.1 zz.cqcounter.com
 
 # crack.ru
-127.0.0.1 banners.crack.ru
 
 # cracked.com
 127.0.0.1 ads.cracked.com
@@ -8272,7 +8241,6 @@
 127.0.0.1 www.dailyexpress.jp
 
 # dailyfx.com
-127.0.0.1 realtimenews.dailyfx.com
 
 # dailymotion.com
 127.0.0.1 advertising.dailymotion.com
@@ -8567,8 +8535,6 @@
 127.0.0.1 banners.dir.bg
 127.0.0.1 r5.dir.bg
 
-# direct-xxx-access.com
-127.0.0.1 direct-xxx-access.com
 
 # directbrand.com
 127.0.0.1 directbrand.com
@@ -9270,8 +9236,6 @@
 # dsnextgen.com
 127.0.0.1 dsnextgen.com
 
-# dsnrmg.com
-127.0.0.1 dsnrmg.com
 
 # dt00.net
 127.0.0.1 img.dt00.net
@@ -9549,7 +9513,6 @@
 127.0.0.1 egeosoftware.com
 
 # egloos.com
-127.0.0.1 ad.egloos.com
 
 # ehho.com
 127.0.0.1 ehho.com
@@ -9648,7 +9611,6 @@
 127.0.0.1 widget.embedarticle.com
 
 # emediate.dk
-127.0.0.1 ad1.emediate.dk
 127.0.0.1 emediate.dk
 
 # emediate.eu
@@ -10033,9 +9995,6 @@
 127.0.0.1 akatracking.esearchvision.com
 127.0.0.1 ssltracking.esearchvision.com
 
-# esellerate.net
-127.0.0.1 affiliates.esellerate.net
-127.0.0.1 esellerate.net
 
 # esomniture.com
 127.0.0.1 e-2dj6wfk4ggdzkbo.stats.esomniture.com
@@ -10539,8 +10498,6 @@
 # fi-tsunagu.com
 127.0.0.1 cro.fi-tsunagu.com
 
-# ficusoid.xyz
-127.0.0.1 ficusoid.xyz
 
 # filebin.ca
 127.0.0.1 filebin.ca
@@ -10684,8 +10641,6 @@
 127.0.0.1 s09.flagcounter.com
 127.0.0.1 s10.flagcounter.com
 
-# flamingonetwork.com
-127.0.0.1 flamingonetwork.com
 
 # flash-counter.com
 127.0.0.1 flash-counter.com
@@ -10890,7 +10845,6 @@
 127.0.0.1 ads.fortunecity.com
 
 # fortunecity.de
-127.0.0.1 ads.fortunecity.de
 
 # forvideo.at
 127.0.0.1 forvideo.at
@@ -11710,7 +11664,6 @@
 127.0.0.1 ads.gmodules.com
 
 # gmossp-sp.jp
-127.0.0.1 adn-d.sp.gmossp-sp.jp
 127.0.0.1 adn-j.sp.gmossp-sp.jp
 127.0.0.1 dmpjs.sp.gmossp-sp.jp
 127.0.0.1 gmossp-sp.jp
@@ -12779,8 +12732,6 @@
 127.0.0.1 welcome.hooligapps.com
 127.0.0.1 www.hooligapps.com
 
-# hooqy.com
-127.0.0.1 hooqy.com
 
 # hopfeed.com
 127.0.0.1 2008eg.hopfeed.com
@@ -12976,9 +12927,6 @@
 # hrblock.com
 127.0.0.1 metrics.hrblock.com
 
-# href.asia
-127.0.0.1 d.href.asia
-127.0.0.1 href.asia
 
 # href.li
 127.0.0.1 href.li
@@ -13053,7 +13001,6 @@
 127.0.0.1 hypertracker.com
 
 # i-3.de
-127.0.0.1 banner.i-3.de
 
 # i-generation.jp
 127.0.0.1 i-generation.jp
@@ -13242,7 +13189,6 @@
 
 # idg.no
 127.0.0.1 log.idg.no
-127.0.0.1 rig.idg.no
 
 # idgworldexpo.com
 127.0.0.1 ads.idgworldexpo.com
@@ -13351,10 +13297,6 @@
 127.0.0.1 1.im.cz
 
 # image-ad.jp
-127.0.0.1 d.image-ad.jp
-127.0.0.1 i.image-ad.jp
-127.0.0.1 j.image-ad.jp
-127.0.0.1 ns.image-ad.jp
 
 # image-gmkt.com
 127.0.0.1 dp.image-gmkt.com
@@ -15833,9 +15775,6 @@
 127.0.0.1 network.maxifiles.com
 127.0.0.1 xml.maxifiles.com
 
-# maximumcash.com
-127.0.0.1 maximumcash.com
-127.0.0.1 stats.maximumcash.com
 
 # maximumexperience.com
 127.0.0.1 ayb.maximumexperience.com
@@ -17667,8 +17606,6 @@
 # network22.com
 127.0.0.1 network22.com
 
-# networkads.net
-127.0.0.1 networkads.net
 
 # networkadvertising.org
 127.0.0.1 networkadvertising.org
@@ -17922,7 +17859,6 @@
 127.0.0.1 s01.nowvisitors.com
 
 # nozonedata.com
-127.0.0.1 ad1.nozonedata.com
 
 # npmpecd.com
 127.0.0.1 npmpecd.com
@@ -17934,28 +17870,13 @@
 127.0.0.1 cdn.nprove.com
 
 # nr-data.net
-127.0.0.1 bam-6.nr-data.net
-127.0.0.1 bam-7.nr-data.net
-127.0.0.1 bam-8.nr-data.net
-127.0.0.1 bam-9.nr-data.net
 127.0.0.1 bam-cell.nr-data.net
-127.0.0.1 bam-pool.nr-data.net
 127.0.0.1 bam.eu01.nr-data.net
 127.0.0.1 bam.nr-data.net
-127.0.0.1 cf-envoy-infra-api-prd2a.nr-data.net
-127.0.0.1 cf-envoy-infra-api-stg2a.nr-data.net
-127.0.0.1 chi-prod-cloud-collector.nr-data.net
-127.0.0.1 chi-prod-collector.nr-data.net
 127.0.0.1 chi-prod-infra-alert-auth.nr-data.net
-127.0.0.1 chi-prod-infra-api.nr-data.net
 127.0.0.1 chi-prod-infra-inventory-ingest.nr-data.net
-127.0.0.1 chi-production-insights-collector.nr-data.net
-127.0.0.1 chi-staging-cloud-collector.nr-data.net
-127.0.0.1 chi-staging-collector.nr-data.net
 127.0.0.1 chi-staging-infra-alert-auth.nr-data.net
-127.0.0.1 chi-staging-infra-api.nr-data.net
 127.0.0.1 chi-staging-infra-inventory-ingest.nr-data.net
-127.0.0.1 chi-staging-insights-collector.nr-data.net
 127.0.0.1 collector-001.eu01.nr-data.net
 127.0.0.1 csec-gov.nr-data.net
 127.0.0.1 csec-staging.nr-data.net
@@ -17965,10 +17886,8 @@
 127.0.0.1 fastly-staging-otlp.nr-data.net
 127.0.0.1 fastly-tls12-bam-cell.nr-data.net
 127.0.0.1 fastly-tls12-bam.nr-data.net
-127.0.0.1 gov-bam-pool.nr-data.net
 127.0.0.1 gov-bam.nr-data.net
 127.0.0.1 gov-otlp.nr-data.net
-127.0.0.1 gov-staging-bam-pool.nr-data.net
 127.0.0.1 gov-staging-bam.nr-data.net
 127.0.0.1 gov-staging-otlp.nr-data.net
 127.0.0.1 mobile-collector.eu01.nr-data.net
@@ -17976,12 +17895,10 @@
 127.0.0.1 request-reflector.nr-data.net
 127.0.0.1 service.nr-data.net
 127.0.0.1 staging-bam-cell.nr-data.net
-127.0.0.1 staging-bam-pool.nr-data.net
 127.0.0.1 staging-bam.nr-data.net
 127.0.0.1 staging-insights-collector-origin.nr-data.net
 127.0.0.1 staging-otlp.nr-data.net
 127.0.0.1 staging-service.nr-data.net
-127.0.0.1 staging-synthetics-horde-admin-tmp.nr-data.net
 127.0.0.1 staging-synthetics-horde-gpc.nr-data.net
 127.0.0.1 staging-synthetics-horde.nr-data.net
 127.0.0.1 synthetics-horde-gpc.nr-data.net
@@ -18486,8 +18403,6 @@
 # outblaze.com
 127.0.0.1 img1.us4.outblaze.com
 
-# outboundlink.me
-127.0.0.1 outboundlink.me
 
 # outboundlink.net
 127.0.0.1 outboundlink.net
@@ -18826,7 +18741,6 @@
 127.0.0.1 a.pcpro.co.uk
 
 # pcworld.com
-127.0.0.1 pixel.pcworld.com
 
 # pdassi.de
 127.0.0.1 ad.pdassi.de
@@ -19000,8 +18914,6 @@
 127.0.0.1 adms.physorg.com
 
 # pichunter.com
-127.0.0.1 adtrack.pichunter.com
-127.0.0.1 creatives.pichunter.com
 
 # pickoftheweb.com
 127.0.0.1 mailpop.pickoftheweb.com
@@ -19896,8 +19808,6 @@
 127.0.0.1 real.com
 127.0.0.1 salescast.real.com
 
-# realbannerads.com
-127.0.0.1 realbannerads.com
 
 # realcastmedia.com
 127.0.0.1 ads.realcastmedia.com
@@ -20120,9 +20030,6 @@
 # resource-marketing.com
 127.0.0.1 resource-marketing.com
 
-# ressp.net
-127.0.0.1 ads.ressp.net
-127.0.0.1 ressp.net
 
 # restaurant.com
 127.0.0.1 metrics.restaurant.com
@@ -20287,8 +20194,6 @@
 # rockstar.bg
 127.0.0.1 adv.rockstar.bg
 
-# roia.biz
-127.0.0.1 roia.biz
 
 # roiserver.com
 127.0.0.1 ads.roiserver.com
@@ -20436,7 +20341,6 @@
 127.0.0.1 sabela.com
 
 # sacbee.com
-127.0.0.1 ads.sacbee.com
 
 # sadsabz.com
 127.0.0.1 sadsabz.com
@@ -20529,7 +20433,6 @@
 # screensaver.com
 
 # screensavers.com
-127.0.0.1 cachef.screensavers.com
 
 # scripps.com
 127.0.0.1 apptap.scripps.com
@@ -21916,7 +21819,6 @@
 127.0.0.1 hosting.sproutbuilder.com
 
 # sproutinc.com
-127.0.0.1 edgy.demo.sproutinc.com
 
 # spycash.biz
 127.0.0.1 spycash.biz
@@ -22841,7 +22743,6 @@
 127.0.0.1 ad.thesimplecomplex.bg
 
 # thestar.ca
-127.0.0.1 te.thestar.ca
 
 # thestar.com
 127.0.0.1 ads.thestar.com
@@ -23644,7 +23545,6 @@
 127.0.0.1 ad.tweakpc.de
 
 # twistage.com
-127.0.0.1 stats.twistage.com
 
 # twistbox.com
 127.0.0.1 gts-ads.twistbox.com
@@ -24112,9 +24012,6 @@
 127.0.0.1 goldbye.vicp.net
 
 # vidavee.com
-127.0.0.1 publish.vidavee.com
-127.0.0.1 stream.tribeca.vidavee.com
-127.0.0.1 tribeca.vidavee.com
 
 # video-pomp.com
 127.0.0.1 video-pomp.com
@@ -24639,7 +24536,6 @@
 127.0.0.1 webmedia.pl
 
 # webmersion.com
-127.0.0.1 banner.webmersion.com
 
 # weborama.com
 127.0.0.1 weborama.com
@@ -25217,7 +25113,6 @@
 127.0.0.1 banners.xxxwebhosting.com
 
 # xxxwebtraffic.com
-127.0.0.1 serving.xxxwebtraffic.com
 
 # xxxxxxxx.jp
 127.0.0.1 crossroad228.xxxxxxxx.jp
@@ -25271,53 +25166,22 @@
 127.0.0.1 ads.auctions.yahoo.com
 127.0.0.1 ads.finance.yahoo.com
 127.0.0.1 ads.yahoo.com
-127.0.0.1 adserver.yahoo.com
-127.0.0.1 ae.adserver.yahoo.com
 127.0.0.1 analytics.query.yahoo.com
 127.0.0.1 analytics.yahoo.com
 127.0.0.1 api.ads.yahoo.com
-127.0.0.1 ar.adserver.yahoo.com
-127.0.0.1 au.adserver.yahoo.com
-127.0.0.1 be.adserver.yahoo.com
 127.0.0.1 br.ads.yahoo.com
-127.0.0.1 br.adserver.yahoo.com
 127.0.0.1 brx.ads.yahoo.com
-127.0.0.1 ca.adserver.yahoo.com
-127.0.0.1 cn.adserver.yahoo.com
-127.0.0.1 cn2.adserver.yahoo.com
 127.0.0.1 data.ads.yahoo.com
-127.0.0.1 de.adserver.yahoo.com
-127.0.0.1 dk.adserver.yahoo.com
-127.0.0.1 es.adserver.yahoo.com
-127.0.0.1 eu-pn1.adserver.yahoo.com
-127.0.0.1 eu-pn2.adserver.yahoo.com
-127.0.0.1 eu-pn3.adserver.yahoo.com
-127.0.0.1 eu-pn4.adserver.yahoo.com
-127.0.0.1 europe.adserver.yahoo.com
-127.0.0.1 fr.adserver.yahoo.com
 127.0.0.1 geo.yahoo.com
-127.0.0.1 gr.adserver.yahoo.com
-127.0.0.1 hk.adserver.yahoo.com
-127.0.0.1 in.adserver.yahoo.com
 127.0.0.1 io.ads.yahoo.com
-127.0.0.1 it.adserver.yahoo.com
-127.0.0.1 launch.adserver.yahoo.com
 127.0.0.1 marketingsolutions.yahoo.com
-127.0.0.1 mx.adserver.yahoo.com
 127.0.0.1 na.ads.yahoo.com
-127.0.0.1 nl.adserver.yahoo.com
-127.0.0.1 no.adserver.yahoo.com
-127.0.0.1 nz.adserver.yahoo.com
 127.0.0.1 pa.yahoo.com
 127.0.0.1 pclick.internal.yahoo.com
-127.0.0.1 pn1.adserver.yahoo.com
-127.0.0.1 pn2.adserver.yahoo.com
 127.0.0.1 promo.yahoo.com
 127.0.0.1 promotions.yahoo.com
 127.0.0.1 pubgw.ads.yahoo.com
 127.0.0.1 row.bc.yahoo.com
-127.0.0.1 se.adserver.yahoo.com
-127.0.0.1 sg.adserver.yahoo.com
 127.0.0.1 tadserver1.ads.yahoo.com
 127.0.0.1 tadserver2.ads.yahoo.com
 127.0.0.1 tagg1.ads.yahoo.com
@@ -25327,13 +25191,8 @@
 127.0.0.1 tbs3.ads.yahoo.com
 127.0.0.1 tcs1.ads.yahoo.com
 127.0.0.1 tcs2.ads.yahoo.com
-127.0.0.1 tp.ads.yahoo.com
 127.0.0.1 ts.richmedia.yahoo.com
-127.0.0.1 tw.adserver.yahoo.com
-127.0.0.1 tw2.adserver.yahoo.com
 127.0.0.1 tws1.ads.yahoo.com
-127.0.0.1 uk.adserver.yahoo.com
-127.0.0.1 us.adserver.yahoo.com
 127.0.0.1 vid1-vm0.ads.yahoo.com
 127.0.0.1 vid1-vm1.ads.yahoo.com
 
@@ -25451,7 +25310,6 @@
 # yieldmanager.net
 127.0.0.1 e.yieldmanager.net
 127.0.0.1 l.yieldmanager.net
-127.0.0.1 open.ad.yieldmanager.net
 
 # yieldoptimizer.com
 127.0.0.1 ag.yieldoptimizer.com
