@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2024/03/01
-# block hosts: 14554 entry
+# last updated: 2024/04/01
+# block hosts: 14473 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -45,8 +45,6 @@
 # 1133.cc
 127.0.0.1 1133.cc
 
-# 114lm.com
-127.0.0.1 114lm.com
 
 # 11zz.com
 127.0.0.1 11zz.com
@@ -1641,7 +1639,6 @@
 127.0.0.1 ads.3sfmedia.com
 
 # 4-you.net
-127.0.0.1 www.4-you.net
 
 # 40ch.com
 127.0.0.1 40ch.com
@@ -1779,7 +1776,6 @@
 127.0.0.1 84422.com
 
 # 8866.org
-127.0.0.1 chinaron.8866.org
 
 # 886644.com
 127.0.0.1 ad.886644.com
@@ -1830,7 +1826,6 @@
 127.0.0.1 ad.a-i-ad.com
 127.0.0.1 ad.insight.a-i-ad.com
 127.0.0.1 admin.a-i-ad.com
-127.0.0.1 clt.a-i-ad.com
 127.0.0.1 dev.a-i-ad.com
 127.0.0.1 insight.a-i-ad.com
 127.0.0.1 jenkins.a-i-ad.com
@@ -1912,7 +1907,6 @@
 127.0.0.1 rpx.a8.net
 127.0.0.1 rws.a8.net
 127.0.0.1 sftp.a8.net
-127.0.0.1 shopify-app.a8.net
 127.0.0.1 sis.a8.net
 127.0.0.1 sp-api.a8.net
 127.0.0.1 statics.a8.net
@@ -2404,7 +2398,6 @@
 
 # adap.tv
 127.0.0.1 adap.tv
-127.0.0.1 corona-pad1vssp-log-geo.adap.tv
 
 # adapf.com
 127.0.0.1 adapf.com
@@ -2522,17 +2515,12 @@
 127.0.0.1 bidder-gcp-v2.adcolony.com
 127.0.0.1 blog.adcolony.com
 127.0.0.1 c4d-cdn.adcolony.com
-127.0.0.1 c4d-dev.adcolony.com
 127.0.0.1 c4d-stage.adcolony.com
 127.0.0.1 c4d.adcolony.com
-127.0.0.1 c4da-dev.adcolony.com
 127.0.0.1 c4da-stage.adcolony.com
 127.0.0.1 c4da.adcolony.com
 127.0.0.1 c4dm.adcolony.com
-127.0.0.1 c4ds-dev.adcolony.com
 127.0.0.1 c4ds.adcolony.com
-127.0.0.1 c4dv-dev.adcolony.com
-127.0.0.1 c4dv-stage.adcolony.com
 127.0.0.1 clients-api.adcolony.com
 127.0.0.1 clients-dev.adcolony.com
 127.0.0.1 clients.adcolony.com
@@ -2617,7 +2605,6 @@
 # addthis.com
 127.0.0.1 addthis.com
 127.0.0.1 cf.addthis.com
-127.0.0.1 o.addthis.com
 127.0.0.1 p.addthis.com
 127.0.0.1 s3.addthis.com
 127.0.0.1 s5.addthis.com
@@ -2650,12 +2637,7 @@
 127.0.0.1 ademails.com
 
 # adengage.com
-127.0.0.1 adcode.adengage.com
 127.0.0.1 adengage.com
-127.0.0.1 ads.adengage.com
-127.0.0.1 images-l3.adengage.com
-127.0.0.1 stats.adengage.com
-127.0.0.1 stats2.adengage.com
 
 # adexchangeperformance.com
 127.0.0.1 adexchangeperformance.com
@@ -2769,7 +2751,6 @@
 127.0.0.1 ssl3.adhost.com
 
 # adiclicks.com
-127.0.0.1 affiliate.adiclicks.com
 
 # adify.com
 127.0.0.1 adify.com
@@ -3919,13 +3900,9 @@
 # adsoftware.com
 127.0.0.1 adsoftware.com
 
-# adsoldier.com
-127.0.0.1 adsoldier.com
 
 # adsolutions.nl
 127.0.0.1 adsolutions.nl
-127.0.0.1 storage.adsolutions.nl
-127.0.0.1 telgids.adsolutions.nl
 
 # adsonar.com
 127.0.0.1 foxnews.adsonar.com
@@ -4470,7 +4447,6 @@
 
 # aftrk.com
 127.0.0.1 aftrk.com
-127.0.0.1 banners.aftrk.com
 
 # ag-affiliate.com
 127.0.0.1 sub.ag-affiliate.com
@@ -5231,7 +5207,6 @@
 127.0.0.1 audiopal.com
 
 # auditude.com
-127.0.0.1 ad.auditude.com
 
 # aureate.com
 127.0.0.1 aureate.com
@@ -6828,7 +6803,6 @@
 127.0.0.1 images.casino-on-net.com
 
 # casino.net
-127.0.0.1 banner.casino.net
 
 # casinoblasters.com
 127.0.0.1 casinoblasters.com
@@ -9898,8 +9872,6 @@
 127.0.0.1 xn--adspace-kvg.ero-advertising.com
 127.0.0.1 zww.ero-advertising.com
 
-# ero-advertising.info
-127.0.0.1 ero-advertising.info
 
 # ero-advertising.net
 127.0.0.1 ero-advertising.net
@@ -9913,15 +9885,11 @@
 # ero.nl
 127.0.0.1 ad.ero.nl
 
-# eroadvertising.biz
-127.0.0.1 eroadvertising.biz
 
 # eroadvertising.com
 127.0.0.1 banners.eroadvertising.com
 127.0.0.1 eroadvertising.com
 
-# eroadvertising.info
-127.0.0.1 eroadvertising.info
 
 # eroadvertising.net
 127.0.0.1 eroadvertising.net
@@ -10290,8 +10258,6 @@
 
 # fairfax.com.au
 127.0.0.1 ads.fairfax.com.au
-127.0.0.1 fdimages.fairfax.com.au
-127.0.0.1 images.ads.fairfax.com.au
 
 # fairpoker.com
 127.0.0.1 banner.fairpoker.com
@@ -10311,7 +10277,6 @@
 
 # fancs.com
 127.0.0.1 alliance.fancs.com
-127.0.0.1 cybozu.fancs.com
 127.0.0.1 fancs.com
 127.0.0.1 fannavi.fancs.com
 127.0.0.1 freespot.fancs.com
@@ -10579,13 +10544,8 @@
 127.0.0.1 metrics.fitnessmagazine.com
 
 # fivecdm.com
-127.0.0.1 ad.fivecdm.com
 127.0.0.1 ad2.fivecdm.com
 127.0.0.1 bc2.fivecdm.com
-127.0.0.1 liff-ads.fivecdm.com
-127.0.0.1 oemad2.fivecdm.com
-127.0.0.1 vastad.fivecdm.com
-127.0.0.1 webad.fivecdm.com
 
 # fizzix.com
 127.0.0.1 fizzix.com
@@ -10669,7 +10629,6 @@
 127.0.0.1 hexusads.fluent.ltd.uk
 
 # flurry.com
-127.0.0.1 ad.flurry.com
 127.0.0.1 adlog.flurry.com
 127.0.0.1 ads.flurry.com
 127.0.0.1 api.flurry.com
@@ -10896,11 +10855,6 @@
 # fredericksburg.com
 127.0.0.1 ads.fredericksburg.com
 
-# free-banners.com
-127.0.0.1 ads.free-banners.com
-127.0.0.1 affiliate.free-banners.com
-127.0.0.1 free-banners.com
-127.0.0.1 home.free-banners.com
 
 # free-counter.co.uk
 127.0.0.1 005.free-counter.co.uk
@@ -11631,7 +11585,6 @@
 127.0.0.1 go-clicks.de
 
 # go-girly.com
-127.0.0.1 ads.go-girly.com
 
 # go-west.nl
 127.0.0.1 stats.go-west.nl
@@ -12890,7 +12843,6 @@
 127.0.0.1 hskwq.com
 
 # html.it
-127.0.0.1 adserver.html.it
 
 # htmlcounter.com
 127.0.0.1 htmlcounter.com
@@ -12926,8 +12878,6 @@
 # hw.net
 127.0.0.1 ads2000.hw.net
 
-# hwoxt.com
-127.0.0.1 hwoxt.com
 
 # hwupgrade.it
 127.0.0.1 adv.hwupgrade.it
@@ -13442,8 +13392,6 @@
 # imwx.com
 127.0.0.1 x.imwx.com
 
-# in-appadvertising.com
-127.0.0.1 in-appadvertising.com
 
 # inbox-online.com
 127.0.0.1 adbox.inbox-online.com
@@ -13491,8 +13439,6 @@
 127.0.0.1 netspiderads3.indiatimes.com
 
 # indieclick.com
-127.0.0.1 optimize.indieclick.com
-127.0.0.1 pixel.indieclick.com
 
 # industrybrains.com
 127.0.0.1 gflinks.industrybrains.com
@@ -13642,7 +13588,6 @@
 127.0.0.1 insightexpressai.com
 
 # insite.com.br
-127.0.0.1 scripts.insite.com.br
 
 # insites.be
 127.0.0.1 insites.be
@@ -13704,7 +13649,6 @@
 
 # interactive-circle.jp
 127.0.0.1 log5.interactive-circle.jp
-127.0.0.1 v-img.interactive-circle.jp
 
 # interactivebrands.com
 127.0.0.1 interactivebrands.com
@@ -13816,8 +13760,6 @@
 # ip.ro
 127.0.0.1 ip.ro
 
-# ip193.cn
-127.0.0.1 ip193.cn
 
 # ipcount.net
 127.0.0.1 ipcount.net
@@ -14110,13 +14052,11 @@
 # juicyads.com
 127.0.0.1 3e461f5c5650258fb150583bf5c1d2e5.juicyads.com
 127.0.0.1 660aadd4e6467bb6887b2c8a61ab5c377c44d43c.juicyads.com
-127.0.0.1 adminfd9e159b6ce7bd29c1e522016c5cba906.juicyads.com
 127.0.0.1 ads-a.juicyads.com
 127.0.0.1 ads-g.juicyads.com
 127.0.0.1 ads.juicyads.com
 127.0.0.1 adserver-a.juicyads.com
 127.0.0.1 adserver-api-dev.juicyads.com
-127.0.0.1 adserver-b.juicyads.com
 127.0.0.1 adserver.juicyads.com
 127.0.0.1 api.juicyads.com
 127.0.0.1 ck.juicyads.com
@@ -14126,7 +14066,6 @@
 127.0.0.1 js.juicyads.com
 127.0.0.1 juicyads.com
 127.0.0.1 manage-qa.juicyads.com
-127.0.0.1 manage-test.juicyads.com
 127.0.0.1 manage.juicyads.com
 127.0.0.1 mm-api.juicyads.com
 127.0.0.1 mobile.juicyads.com
@@ -14135,7 +14074,6 @@
 127.0.0.1 secure.juicyads.com
 127.0.0.1 static.juicyads.com
 127.0.0.1 stats.juicyads.com
-127.0.0.1 trk.juicyads.com
 127.0.0.1 url3338.juicyads.com
 127.0.0.1 ux13.juicyads.com
 127.0.0.1 www.juicyads.com
@@ -14182,7 +14120,6 @@
 127.0.0.1 x5.kaginawa.jp
 
 # kakaku.com
-127.0.0.1 notice.kakaku.com
 
 # kaktuz.net
 127.0.0.1 ads.kaktuz.net
@@ -14417,8 +14354,6 @@
 127.0.0.1 ads.ksl.com
 127.0.0.1 banners.ksl.com
 
-# ktai.pw
-127.0.0.1 ktai.pw
 
 # ktar.com
 127.0.0.1 metric.news.ktar.com
@@ -15250,13 +15185,9 @@
 127.0.0.1 gbantyou.livedoor.biz
 
 # livedoor.com
-127.0.0.1 click.adv.livedoor.com
 127.0.0.1 counter2.blog.livedoor.com
-127.0.0.1 image.adv.livedoor.com
-127.0.0.1 st.search.livedoor.com
 
 # livedoor.net
-127.0.0.1 arms.livedoor.net
 127.0.0.1 blogroll.livedoor.net
 
 # livedots.net
@@ -15372,8 +15303,6 @@
 127.0.0.1 err.lolipop.jp
 127.0.0.1 users049.lolipop.jp
 
-# lonelypartners.com
-127.0.0.1 lonelypartners.com
 
 # lookery.com
 127.0.0.1 lookery.com
@@ -15976,8 +15905,6 @@
 # megastats.com
 127.0.0.1 megastats.com
 
-# meiluziai.info
-127.0.0.1 meiluziai.info
 
 # meltwater.com
 127.0.0.1 meltwater.com
@@ -16508,12 +16435,10 @@
 # msn.com
 127.0.0.1 0.r.msn.com
 127.0.0.1 a.ads1.msn.com
-127.0.0.1 a.ads2.msn.com
 127.0.0.1 ads.eu.msn.com
 127.0.0.1 ads.jp.msn.com
 127.0.0.1 ads.msn.com
 127.0.0.1 ads1.msn.com
-127.0.0.1 ads2.msn.com
 127.0.0.1 adsyndication.msn.com
 127.0.0.1 advertising.jp.msn.com
 127.0.0.1 analytics.msn.com
@@ -17068,8 +16993,6 @@
 # mytrix.com
 127.0.0.1 mytrix.com
 
-# myvacationguide.com
-127.0.0.1 myvacationguide.com
 
 # myway.com
 127.0.0.1 speedbar.myway.com
@@ -18988,7 +18911,6 @@
 127.0.0.1 webstats.plus.net
 
 # plus8.net
-127.0.0.1 statto.plus8.net
 
 # pmates.com
 127.0.0.1 as.pmates.com
@@ -19778,9 +19700,7 @@
 127.0.0.1 banners.realitycash.com
 
 # realitykings.com
-127.0.0.1 br.realitykings.com
 127.0.0.1 hostedads.realitykings.com
-127.0.0.1 track.realitykings.com
 
 # realmedia.co.kr
 127.0.0.1 ad.realmedia.co.kr
@@ -20601,7 +20521,6 @@
 
 # serving-sys.com
 127.0.0.1 activity.serving-sys.com
-127.0.0.1 ds-ll.serving-sys.com
 127.0.0.1 ds.serving-sys.com
 
 # setcounter.com
@@ -20792,7 +20711,6 @@
 127.0.0.1 ads.sf.net
 
 # sfgate.com
-127.0.0.1 om.sfgate.com
 
 # sfomedia.com
 127.0.0.1 ads.sfomedia.com
@@ -21456,7 +21374,6 @@
 127.0.0.1 metrics.sony.com
 
 # sonyericsson.com
-127.0.0.1 metrics.sonyericsson.com
 
 # sonymusiceurope.com
 127.0.0.1 adserver1.sonymusiceurope.com
@@ -22811,7 +22728,6 @@
 127.0.0.1 mtg.tns-cs.net
 
 # tns-gallup.dk
-127.0.0.1 kt.tns-gallup.dk
 
 # tnt.tv
 127.0.0.1 metrics.tnt.tv
@@ -22819,8 +22735,6 @@
 # tntclix.co.uk
 127.0.0.1 tntclix.co.uk
 
-# tntsw.com
-127.0.0.1 tntsw.com
 
 # toboads.com
 127.0.0.1 adtier.toboads.com
@@ -23296,8 +23210,6 @@
 127.0.0.1 cdn.treasuredata.com
 127.0.0.1 in.treasuredata.com
 
-# treasuretrooper.com
-127.0.0.1 treasuretrooper.com
 
 # trekdata.com
 127.0.0.1 trekdata.com
@@ -24320,7 +24232,6 @@
 127.0.0.1 img.web.de
 
 # web.nl
-127.0.0.1 ads.web.nl
 
 # web1000.com
 127.0.0.1 bannervip.web1000.com
@@ -25018,7 +24929,6 @@
 127.0.0.1 stats.xxxrewards.com
 
 # xxxtoolbar.com
-127.0.0.1 install.xxxtoolbar.com
 127.0.0.1 xxxtoolbar.com
 
 # xxxwebhosting.com
