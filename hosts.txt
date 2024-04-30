@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2024/04/01
-# block hosts: 14473 entry
+# last updated: 2024/05/01
+# block hosts: 14414 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -1852,7 +1852,6 @@
 127.0.0.1 counter.a-shopweb.com
 
 # a2dfp.net
-127.0.0.1 fr.a2dfp.net
 
 # a4.tl
 127.0.0.1 apptrk.a4.tl
@@ -2485,7 +2484,6 @@
 127.0.0.1 t.adclr.jp
 
 # adcolony.com
-127.0.0.1 accounts.adcolony.com
 127.0.0.1 adc-launch-gcp-dev.adcolony.com
 127.0.0.1 adc-launch-gcp-prod-v2.adcolony.com
 127.0.0.1 adc-launch-gcp-stage.adcolony.com
@@ -2522,7 +2520,6 @@
 127.0.0.1 c4dm.adcolony.com
 127.0.0.1 c4ds.adcolony.com
 127.0.0.1 clients-api.adcolony.com
-127.0.0.1 clients-dev.adcolony.com
 127.0.0.1 clients.adcolony.com
 127.0.0.1 composer.adcolony.com
 127.0.0.1 cpa.adcolony.com
@@ -2554,7 +2551,6 @@
 127.0.0.1 iosads4-8.adcolony.com
 127.0.0.1 iosads4-9.adcolony.com
 127.0.0.1 mail.adcolony.com
-127.0.0.1 ops-dev.adcolony.com
 127.0.0.1 ops.adcolony.com
 127.0.0.1 partnerships.adcolony.com
 127.0.0.1 pie.adcolony.com
@@ -3530,8 +3526,6 @@
 # admedia.ro
 127.0.0.1 admedia.ro
 
-# admeta.com
-127.0.0.1 admeta.com
 
 # admex.com
 127.0.0.1 admex.com
@@ -3666,8 +3660,6 @@
 # adperium.com
 127.0.0.1 adperium.com
 
-# adpicker.net
-127.0.0.1 adpicker.net
 
 # adplans.info
 127.0.0.1 serverfarm.adplans.info
@@ -3773,8 +3765,6 @@
 # ads.dk
 127.0.0.1 ads.dk
 
-# ads2-adnow.com
-127.0.0.1 ads2-adnow.com
 
 # ads360.com
 127.0.0.1 adserver.ads360.com
@@ -4548,8 +4538,6 @@
 # akmnetwork.com
 127.0.0.1 akmnetwork.com
 
-# alfatraffic.com
-127.0.0.1 alfatraffic.com
 
 # alibaba.com
 127.0.0.1 download.china.alibaba.com
@@ -5031,8 +5019,6 @@
 # aptimus.com
 127.0.0.1 network.aptimus.com
 
-# aptrk.com
-127.0.0.1 aptrk.com
 
 # aqueduct.com
 127.0.0.1 aqueduct.com
@@ -5136,9 +5122,6 @@
 127.0.0.1 ads-adm.astrsk.net
 127.0.0.1 js.astrsk.net
 
-# atemda.com
-127.0.0.1 atemda.com
-127.0.0.1 s.atemda.com
 
 # atinternet.com
 127.0.0.1 atinternet.com
@@ -5391,7 +5374,6 @@
 127.0.0.1 gimg.baidu.com
 127.0.0.1 hm.baidu.com
 127.0.0.1 hmma.baidu.com
-127.0.0.1 lxbjs.baidu.com
 127.0.0.1 m1.baidu.com
 127.0.0.1 mobads-logs.baidu.com
 127.0.0.1 mobads.baidu.com
@@ -5434,8 +5416,6 @@
 # banner.com
 127.0.0.1 banner.com
 
-# banner.cz
-127.0.0.1 banner.cz
 
 # banner.de
 127.0.0.1 banner.de
@@ -6067,7 +6047,6 @@
 127.0.0.1 scripts.blueadvertise.com
 
 # bluecava.com
-127.0.0.1 clients.bluecava.com
 
 # bluehornet.com
 127.0.0.1 bluehornet.com
@@ -7104,8 +7083,6 @@
 127.0.0.1 banners.classmates.com
 127.0.0.1 classmates.com
 
-# cleaneryelded.site
-127.0.0.1 cleaneryelded.site
 
 # cleanprint.net
 127.0.0.1 cleanprint.net
@@ -7388,7 +7365,6 @@
 127.0.0.1 banners.clubseventeen.com
 
 # cmcore.com
-127.0.0.1 data.cmcore.com
 
 # cmmeglobal.com
 127.0.0.1 engine.cmmeglobal.com
@@ -7771,8 +7747,6 @@
 127.0.0.1 jsfp.coremetrics.com
 127.0.0.1 libs.coremetrics.com
 127.0.0.1 test.coremetrics.com
-127.0.0.1 testdata.coremetrics.com
-127.0.0.1 twci.coremetrics.com
 
 # coreserver.jp
 127.0.0.1 brabra.s104.coreserver.jp
@@ -8121,7 +8095,6 @@
 127.0.0.1 search.cygo.net
 
 # czech-sex.cz
-127.0.0.1 banner.czech-sex.cz
 
 # czi.cz
 127.0.0.1 banners.czi.cz
@@ -10322,8 +10295,6 @@
 # farlex.com
 127.0.0.1 a.farlex.com
 
-# fast-adv.it
-127.0.0.1 fast-adv.it
 
 # fastadvert.com
 127.0.0.1 fastadvert.com
@@ -10830,8 +10801,6 @@
 127.0.0.1 fpctraffic.com
 127.0.0.1 popunder.fpctraffic.com
 
-# fpctraffic2.com
-127.0.0.1 fpctraffic2.com
 
 # fplive.net
 127.0.0.1 msnads-wm9.fplive.net
@@ -11052,7 +11021,6 @@
 127.0.0.1 developers.g123.jp
 127.0.0.1 g123.jp
 127.0.0.1 h5.g123.jp
-127.0.0.1 noti.g123.jp
 127.0.0.1 platform-sc.g123.jp
 127.0.0.1 psp.g123.jp
 127.0.0.1 reward-sc.g123.jp
@@ -11671,7 +11639,6 @@
 127.0.0.1 ad501.goo.ne.jp
 127.0.0.1 adcdn.goo.ne.jp
 127.0.0.1 advertising.goo.ne.jp
-127.0.0.1 ams900.goo.ne.jp
 127.0.0.1 ashiato.goo.ne.jp
 127.0.0.1 bwb101.goo.ne.jp
 127.0.0.1 confluence.ad.goo.ne.jp
@@ -13134,7 +13101,6 @@
 127.0.0.1 image.ig.com.br
 
 # igaworks.com
-127.0.0.1 live.adbrix.igaworks.com
 
 # igg.com
 127.0.0.1 track.igg.com
@@ -13229,7 +13195,6 @@
 127.0.0.1 www.imglnkd.com
 
 # imgserver.net
-127.0.0.1 images.imgserver.net
 
 # imguol.com
 127.0.0.1 ads.imguol.com
@@ -13436,7 +13401,6 @@
 # indiatimes.com
 127.0.0.1 adscontent.indiatimes.com
 127.0.0.1 adscontent2.indiatimes.com
-127.0.0.1 netspiderads3.indiatimes.com
 
 # indieclick.com
 
@@ -13575,7 +13539,6 @@
 127.0.0.1 insightxe.inq7.net
 
 # insidebandwidth.com
-127.0.0.1 e-communications.insidebandwidth.com
 
 # insightexpress.com
 127.0.0.1 ad.insightexpress.com
@@ -13641,8 +13604,6 @@
 # intelliseek.com
 127.0.0.1 intelliseek.com
 
-# intellitracker.com
-127.0.0.1 intellitracker.com
 
 # intensifier.de
 127.0.0.1 api.intensifier.de
@@ -13796,7 +13757,6 @@
 127.0.0.1 ad.ir.ru
 
 # ircfast.com
-127.0.0.1 stats.ircfast.com
 
 # ireit.com
 127.0.0.1 ad.ireit.com
@@ -14160,10 +14120,6 @@
 # kavanga.ru
 127.0.0.1 l.kavanga.ru
 
-# kazaa.com
-127.0.0.1 download.kazaa.com
-127.0.0.1 images.kazaa.com
-127.0.0.1 kazaa.com
 
 # kazaalite.pl
 127.0.0.1 kazaalite.pl
@@ -14347,8 +14303,6 @@
 127.0.0.1 metrics.krem.com
 
 # krxd.net
-127.0.0.1 cdn.krxd.net
-127.0.0.1 services.krxd.net
 
 # ksl.com
 127.0.0.1 ads.ksl.com
@@ -16273,7 +16227,6 @@
 
 # mofos.com
 127.0.0.1 ads.mofos.com
-127.0.0.1 scripts.mofos.com
 
 # moi-solutions.ca
 127.0.0.1 moi-solutions.ca
@@ -16331,9 +16284,6 @@
 127.0.0.1 ad.moo-mam-tai.com
 
 # mookie1.com
-127.0.0.1 b3-uk.mookie1.com
-127.0.0.1 b3.mookie1.com
-127.0.0.1 premium.mookie1.com
 127.0.0.1 t.mookie1.com
 
 # moot.us
@@ -16389,11 +16339,6 @@
 127.0.0.1 mp-success.com
 
 # mp3.com
-127.0.0.1 adimg.mp3.com
-127.0.0.1 ads.mp3.com
-127.0.0.1 bwp.mp3.com
-127.0.0.1 click.mp3.com
-127.0.0.1 mads.mp3.com
 
 # mpmcash.com
 127.0.0.1 mpmcash.com
@@ -16404,8 +16349,6 @@
 # mrskin.com
 127.0.0.1 ads.mrskin.com
 
-# ms-mvp.org
-127.0.0.1 ms-mvp.org
 
 # msads.net
 127.0.0.1 a.ads1.msads.net
@@ -17251,17 +17194,13 @@
 127.0.0.1 api.nend.net
 127.0.0.1 board.nend.net
 127.0.0.1 c1.nend.net
-127.0.0.1 cs.nend.net
 127.0.0.1 demo1.nend.net
 127.0.0.1 dev.nend.net
-127.0.0.1 docs.nend.net
 127.0.0.1 img1.nend.net
 127.0.0.1 impression.nend.net
 127.0.0.1 js1.nend.net
-127.0.0.1 lois.nend.net
 127.0.0.1 lona.nend.net
 127.0.0.1 lonb.nend.net
-127.0.0.1 lons.nend.net
 127.0.0.1 mail.nend.net
 127.0.0.1 mtl.nend.net
 127.0.0.1 mx1.nend.net
@@ -17270,13 +17209,11 @@
 127.0.0.1 nend.net
 127.0.0.1 output.nend.net
 127.0.0.1 playable.nend.net
-127.0.0.1 s.nend.net
 127.0.0.1 s2.nend.net
 127.0.0.1 static-interactive-api.nend.net
 127.0.0.1 stc.nend.net
 127.0.0.1 stg.nend.net
 127.0.0.1 v1.nend.net
-127.0.0.1 vdapp.nend.net
 127.0.0.1 vdappcdn.nend.net
 127.0.0.1 www.nend.net
 127.0.0.1 www1.nend.net
@@ -17584,7 +17521,6 @@
 
 # nexac.com
 127.0.0.1 e.nexac.com
-127.0.0.1 mig.nexac.com
 127.0.0.1 p.nexac.com
 127.0.0.1 tmp.nexac.com
 127.0.0.1 turn.nexac.com
@@ -18622,7 +18558,6 @@
 127.0.0.1 xml.pdn-2.com
 
 # pe.com
-127.0.0.1 metrics.pe.com
 
 # peakclick.com
 127.0.0.1 peakclick.com
@@ -18875,7 +18810,6 @@
 127.0.0.1 sd.play.com
 
 # play3.de
-127.0.0.1 ad10.play3.de
 
 # play4traffic.com
 127.0.0.1 play4traffic.com
@@ -19236,8 +19170,6 @@
 # prizee.com
 127.0.0.1 prizee.com
 
-# prjcq.com
-127.0.0.1 prjcq.com
 
 # pro-market.net
 127.0.0.1 ads.pro-market.net
@@ -20006,7 +19938,6 @@
 127.0.0.1 json4.ringrevenue.com
 
 # ringtonematcher.com
-127.0.0.1 overlay.ringtonematcher.com
 
 # ringtonepartner.com
 127.0.0.1 aff.ringtonepartner.com
@@ -20057,7 +19988,6 @@
 
 
 # roiserver.com
-127.0.0.1 ads.roiserver.com
 
 # roiservice.com
 127.0.0.1 roiservice.com
@@ -20480,7 +20410,6 @@
 127.0.0.1 sensic.net
 
 # seo4india.com
-127.0.0.1 ads.seo4india.com
 
 # seobox.net
 127.0.0.1 seobox.net
@@ -20722,8 +20651,6 @@
 # shallwead.com
 127.0.0.1 ad2.shallwead.com
 
-# shareadspace.com
-127.0.0.1 shareadspace.com
 
 # shareasale.com
 127.0.0.1 shareasale.com
@@ -21710,7 +21637,6 @@
 127.0.0.1 oascentral.stackmag.com
 
 # stackoverflow.com
-127.0.0.1 ads.stackoverflow.com
 
 # stakasaki.net
 127.0.0.1 acclog.stakasaki.net
@@ -22269,7 +22195,6 @@
 127.0.0.1 tagjunction.com
 
 # tahono.com
-127.0.0.1 ads.tahono.com
 
 # tailsweep.com
 127.0.0.1 files.tailsweep.com
@@ -22450,8 +22375,6 @@
 # tenzero.com
 127.0.0.1 tenzero.com
 
-# terlaby.com
-127.0.0.1 terlaby.com
 
 # terra.com.br
 127.0.0.1 ads.terra.com.br
@@ -22824,8 +22747,6 @@
 # topsir.com
 127.0.0.1 topsir.com
 
-# topsite.lv
-127.0.0.1 topsite.lv
 
 # topsites.com.br
 127.0.0.1 topsites.com.br
@@ -24847,8 +24768,6 @@
 # xoads.com
 127.0.0.1 xoads.com
 
-# xoomcounter.com
-127.0.0.1 xoomcounter.com
 
 # xost.ru
 127.0.0.1 neorsoft.xost.ru
