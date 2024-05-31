@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2024/05/01
-# block hosts: 14414 entry
+# last updated: 2024/06/01
+# block hosts: 14363 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -1832,7 +1832,6 @@
 127.0.0.1 jst.a-i-ad.com
 127.0.0.1 lplp-mig.a-i-ad.com
 127.0.0.1 lplp.a-i-ad.com
-127.0.0.1 lplpc.a-i-ad.com
 127.0.0.1 media.a-i-ad.com
 127.0.0.1 mta.a-i-ad.com
 127.0.0.1 ow.a-i-ad.com
@@ -1840,8 +1839,6 @@
 127.0.0.1 rcv.insight.a-i-ad.com
 127.0.0.1 redmine.a-i-ad.com
 127.0.0.1 service.a-i-ad.com
-127.0.0.1 videosample.a-i-ad.com
-127.0.0.1 vstream.a-i-ad.com
 127.0.0.1 zabbix.a-i-ad.com
 
 # a-pagerank.net
@@ -2454,7 +2451,6 @@
 
 # adbuyer.com
 127.0.0.1 adbuyer.com
-127.0.0.1 t.adbuyer.com
 
 # adc-serv.net
 127.0.0.1 ad.adc-serv.net
@@ -3061,7 +3057,6 @@
 127.0.0.1 digitalapp.adjust.com
 127.0.0.1 dochost151-tehost151t.adjust.com
 127.0.0.1 docs-trwgst.adjust.com
-127.0.0.1 docs.adjust.com
 127.0.0.1 drupal.adjust.com
 127.0.0.1 e3e85fbda0b93c236cc70b01a5c0a393.ulink.adjust.com
 127.0.0.1 e8853397ac3c62f183c5155cf8f690f2.ulink.adjust.com
@@ -3158,7 +3153,6 @@
 127.0.0.1 frosignificado-de-suenosend-1.adjust.com
 127.0.0.1 frovampires-mp3tevampires-mp3d-1.adjust.com
 127.0.0.1 froworkstationsteworkstationsd-1.adjust.com
-127.0.0.1 gallerydocs.adjust.com
 127.0.0.1 galleryppp90.adjust.com
 127.0.0.1 gambarseleb.adjust.com
 127.0.0.1 gdpr.adjust.com
@@ -3457,7 +3451,6 @@
 
 # adk2.com
 127.0.0.1 adk2.com
-127.0.0.1 ads.adk2.com
 127.0.0.1 cdn.adk2.com
 
 # adk2x.com
@@ -3677,7 +3670,6 @@
 127.0.0.1 adpowerzone.com
 
 # adpro.com.ua
-127.0.0.1 ab.adpro.com.ua
 
 # adpulse.com
 127.0.0.1 ads.adpulse.com
@@ -3927,8 +3919,6 @@
 # adster.com
 127.0.0.1 adserve.adster.com
 
-# adstoclick.com
-127.0.0.1 adstoclick.com
 
 # adstore.jp
 127.0.0.1 adstore.jp
@@ -4238,7 +4228,6 @@
 127.0.0.1 setup.adwarealert.com
 
 # adwave.com
-127.0.0.1 as.adwave.com
 
 # adwaver.de
 127.0.0.1 adwaver.de
@@ -4295,7 +4284,6 @@
 127.0.0.1 adzly.com
 
 # adzonk.com
-127.0.0.1 imp.adzonk.com
 
 # adzs.nl
 127.0.0.1 a3.adzs.nl
@@ -4578,9 +4566,6 @@
 
 # allposters.com
 127.0.0.1 affiliates.allposters.com
-127.0.0.1 imagecache.allposters.com
-127.0.0.1 imagecache2.allposters.com
-127.0.0.1 images.allposters.com
 
 # allrecipes.com
 127.0.0.1 metric.allrecipes.com
@@ -4839,8 +4824,6 @@
 127.0.0.1 andr.net
 127.0.0.1 topsites.andr.net
 
-# androidcleaner.club
-127.0.0.1 androidcleaner.club
 
 # angel-live.com
 127.0.0.1 ad.angel-live.com
@@ -5087,7 +5070,6 @@
 127.0.0.1 asimpleinternet.com
 
 # askmen.com
-127.0.0.1 fimserve.askmen.com
 127.0.0.1 stats.askmen.com
 
 # asks.jp
@@ -5759,8 +5741,6 @@
 # bibtip.de
 127.0.0.1 recommender.bibtip.de
 
-# bidbuddy.com
-127.0.0.1 bidbuddy.com
 
 # bidclix.com
 127.0.0.1 ads.bidclix.com
@@ -6925,8 +6905,6 @@
 # chapm.com
 127.0.0.1 chapm.com
 
-# chapmanmediagroup.com
-127.0.0.1 chapmanmediagroup.com
 
 # chargecards.com
 127.0.0.1 chargecards.com
@@ -7197,7 +7175,6 @@
 # clickintext.net
 127.0.0.1 fr.64.clickintext.net
 127.0.0.1 fr.85.clickintext.net
-127.0.0.1 fr.cim.clickintext.net
 127.0.0.1 fr.classic.clickintext.net
 127.0.0.1 fr.slidein.clickintext.net
 
@@ -7837,7 +7814,6 @@
 
 # cpalead.com
 127.0.0.1 cpalead.com
-127.0.0.1 static.cpalead.com
 
 # cpatrac.com
 127.0.0.1 cpatrac.com
@@ -10782,7 +10758,6 @@
 127.0.0.1 sync.dmp.fout.jp
 127.0.0.1 sync.fout.jp
 127.0.0.1 sync.rfp.fout.jp
-127.0.0.1 target.fout.jp
 127.0.0.1 webhook.fout.jp
 
 # fox.com
@@ -10832,7 +10807,6 @@
 127.0.0.1 008.free-counter.co.uk
 
 # free-counters.co.uk
-127.0.0.1 008.free-counters.co.uk
 
 # free-lesbian-pic.in
 127.0.0.1 free-lesbian-pic.in
@@ -11513,8 +11487,6 @@
 # globat.com
 127.0.0.1 affiliates.globat.com
 
-# globe7.com
-127.0.0.1 globe7.com
 
 # glopro.com
 127.0.0.1 glopro.com
@@ -13055,7 +13027,6 @@
 127.0.0.1 gcirm.idahostatesman.com
 
 # idg.com.au
-127.0.0.1 demo.idg.com.au
 
 # idg.no
 127.0.0.1 log.idg.no
@@ -13294,7 +13265,6 @@
 127.0.0.1 imprese.cz
 
 # impresionesweb.com
-127.0.0.1 paneles.impresionesweb.com
 
 # impressionmedia.cz
 127.0.0.1 impressionmedia.cz
@@ -13611,8 +13581,6 @@
 # interactive-circle.jp
 127.0.0.1 log5.interactive-circle.jp
 
-# interactivebrands.com
-127.0.0.1 interactivebrands.com
 
 # interclick.com
 127.0.0.1 interclick.com
@@ -13777,7 +13745,6 @@
 127.0.0.1 ads.isboost.co.jp
 
 # isea-sonora.gob.mx
-127.0.0.1 www.isea-sonora.gob.mx
 
 # isearch.com
 127.0.0.1 auto.isearch.com
@@ -14370,7 +14337,6 @@
 127.0.0.1 adserver.lanacion.com.ar
 
 # landsend.com
-127.0.0.1 affiliate.landsend.com
 
 # largecash.com
 127.0.0.1 banners.largecash.com
@@ -15626,7 +15592,6 @@
 
 # maxthon.com
 127.0.0.1 mm.maxthon.com
-127.0.0.1 stats-a.maxthon.com
 
 # maxtrust.ru
 127.0.0.1 maxtrust.ru
@@ -17128,7 +17093,6 @@
 127.0.0.1 nav.cx
 
 # naver.com
-127.0.0.1 adcreative.naver.com
 127.0.0.1 m.apbox.naver.com
 
 # naver.jp
@@ -17771,7 +17735,6 @@
 127.0.0.1 marketing.nyi.net
 
 # nymag.com
-127.0.0.1 stats.nymag.com
 
 # nytimes.com
 127.0.0.1 ads.nytimes.com
@@ -18780,7 +18743,6 @@
 127.0.0.1 pixazza.com
 
 # pixelinteractivemedia.com
-127.0.0.1 pixel-hk.pixelinteractivemedia.com
 
 # pixiv.net
 127.0.0.1 embed.pixiv.net
@@ -18847,7 +18809,6 @@
 # plus8.net
 
 # pmates.com
-127.0.0.1 as.pmates.com
 
 # pnap.net
 127.0.0.1 ns1.sfj.pnap.net
@@ -19312,8 +19273,6 @@
 127.0.0.1 cgicounter.puretec.de
 127.0.0.1 puretec.de
 
-# puserving.com
-127.0.0.1 puserving.com
 
 # push.com
 127.0.0.1 toolbar.push.com
@@ -19525,8 +19484,6 @@
 127.0.0.1 clientreport.random-logic.com
 127.0.0.1 reportinstaller.random-logic.com
 
-# rank-master.de
-127.0.0.1 rank-master.de
 
 # rankchamp.de
 127.0.0.1 rankchamp.de
@@ -19831,8 +19788,6 @@
 127.0.0.1 banners.resultonline.com
 127.0.0.1 resultonline.com
 
-# resultsz.com
-127.0.0.1 resultsz.com
 
 # retargeter.com
 127.0.0.1 ad.retargeter.com
@@ -20113,8 +20068,6 @@
 # rx-drugs-support.com
 127.0.0.1 rx-drugs-support.com
 
-# rx-options.com
-127.0.0.1 rx-options.com
 
 # rxparty.net
 127.0.0.1 w.rxparty.net
@@ -21487,106 +21440,6 @@
 # spreadlink.net
 127.0.0.1 spreadlink.net
 
-# sprout-ad.com
-127.0.0.1 100545.sprout-ad.com
-127.0.0.1 101017.sprout-ad.com
-127.0.0.1 101018.sprout-ad.com
-127.0.0.1 101021.sprout-ad.com
-127.0.0.1 101023.sprout-ad.com
-127.0.0.1 101038.sprout-ad.com
-127.0.0.1 101039.sprout-ad.com
-127.0.0.1 101040.sprout-ad.com
-127.0.0.1 101067.sprout-ad.com
-127.0.0.1 101072.sprout-ad.com
-127.0.0.1 101229.sprout-ad.com
-127.0.0.1 101231.sprout-ad.com
-127.0.0.1 101233.sprout-ad.com
-127.0.0.1 101247.sprout-ad.com
-127.0.0.1 101253.sprout-ad.com
-127.0.0.1 101290.sprout-ad.com
-127.0.0.1 101302.sprout-ad.com
-127.0.0.1 101318.sprout-ad.com
-127.0.0.1 101319.sprout-ad.com
-127.0.0.1 101326.sprout-ad.com
-127.0.0.1 101603.sprout-ad.com
-127.0.0.1 101622.sprout-ad.com
-127.0.0.1 101623.sprout-ad.com
-127.0.0.1 101647.sprout-ad.com
-127.0.0.1 101650.sprout-ad.com
-127.0.0.1 101684.sprout-ad.com
-127.0.0.1 101688.sprout-ad.com
-127.0.0.1 101698.sprout-ad.com
-127.0.0.1 101755.sprout-ad.com
-127.0.0.1 102152.sprout-ad.com
-127.0.0.1 102725.sprout-ad.com
-127.0.0.1 102905.sprout-ad.com
-127.0.0.1 102973.sprout-ad.com
-127.0.0.1 102974.sprout-ad.com
-127.0.0.1 102984.sprout-ad.com
-127.0.0.1 103077.sprout-ad.com
-127.0.0.1 103140.sprout-ad.com
-127.0.0.1 103141.sprout-ad.com
-127.0.0.1 103142.sprout-ad.com
-127.0.0.1 103143.sprout-ad.com
-127.0.0.1 103145.sprout-ad.com
-127.0.0.1 103370.sprout-ad.com
-127.0.0.1 103389.sprout-ad.com
-127.0.0.1 103392.sprout-ad.com
-127.0.0.1 103406.sprout-ad.com
-127.0.0.1 103553.sprout-ad.com
-127.0.0.1 103602.sprout-ad.com
-127.0.0.1 103638.sprout-ad.com
-127.0.0.1 103809.sprout-ad.com
-127.0.0.1 103810.sprout-ad.com
-127.0.0.1 103811.sprout-ad.com
-127.0.0.1 103812.sprout-ad.com
-127.0.0.1 104147.sprout-ad.com
-127.0.0.1 104249.sprout-ad.com
-127.0.0.1 104343.sprout-ad.com
-127.0.0.1 104396.sprout-ad.com
-127.0.0.1 104583.sprout-ad.com
-127.0.0.1 104665.sprout-ad.com
-127.0.0.1 104715.sprout-ad.com
-127.0.0.1 104733.sprout-ad.com
-127.0.0.1 104919.sprout-ad.com
-127.0.0.1 104954.sprout-ad.com
-127.0.0.1 104974.sprout-ad.com
-127.0.0.1 104975.sprout-ad.com
-127.0.0.1 105461.sprout-ad.com
-127.0.0.1 105836.sprout-ad.com
-127.0.0.1 105844.sprout-ad.com
-127.0.0.1 106090.sprout-ad.com
-127.0.0.1 106211.sprout-ad.com
-127.0.0.1 106228.sprout-ad.com
-127.0.0.1 106240.sprout-ad.com
-127.0.0.1 106242.sprout-ad.com
-127.0.0.1 106408.sprout-ad.com
-127.0.0.1 106409.sprout-ad.com
-127.0.0.1 106426.sprout-ad.com
-127.0.0.1 106432.sprout-ad.com
-127.0.0.1 106492.sprout-ad.com
-127.0.0.1 106511.sprout-ad.com
-127.0.0.1 106526.sprout-ad.com
-127.0.0.1 106736.sprout-ad.com
-127.0.0.1 107511.sprout-ad.com
-127.0.0.1 108420.sprout-ad.com
-127.0.0.1 108528.sprout-ad.com
-127.0.0.1 108857.sprout-ad.com
-127.0.0.1 ads.sprout-ad.com
-127.0.0.1 binzhou.sprout-ad.com
-127.0.0.1 d.sprout-ad.com
-127.0.0.1 er.sprout-ad.com
-127.0.0.1 exam.sprout-ad.com
-127.0.0.1 fang.sprout-ad.com
-127.0.0.1 fuqing.sprout-ad.com
-127.0.0.1 hostmaster.sprout-ad.com
-127.0.0.1 i.sprout-ad.com
-127.0.0.1 j.sprout-ad.com
-127.0.0.1 js.sprout-ad.com
-127.0.0.1 m5.sprout-ad.com
-127.0.0.1 network.sprout-ad.com
-127.0.0.1 sprout-ad.com
-127.0.0.1 zhuhai.sprout-ad.com
 
 # sproutbuilder.com
 127.0.0.1 hosting.sproutbuilder.com
@@ -22655,8 +22508,6 @@
 # tnt.tv
 127.0.0.1 metrics.tnt.tv
 
-# tntclix.co.uk
-127.0.0.1 tntclix.co.uk
 
 
 # toboads.com
@@ -22852,8 +22703,6 @@
 # trackingsoft.com
 127.0.0.1 trackingsoft.com
 
-# trackmedia101.com
-127.0.0.1 trackmedia101.com
 
 # trackmysales.com
 127.0.0.1 trackmysales.com
@@ -23054,7 +22903,6 @@
 127.0.0.1 trafficsector.com
 
 # trafficshop.com
-127.0.0.1 pu.trafficshop.com
 
 # trafficspaces.net
 127.0.0.1 trafficspaces.net
@@ -23087,8 +22935,6 @@
 127.0.0.1 trafic-fr.com
 
 # trafic.ro
-127.0.0.1 log.trafic.ro
-127.0.0.1 storage.trafic.ro
 127.0.0.1 trafic.ro
 
 
@@ -23294,7 +23140,6 @@
 127.0.0.1 tvplusnewtab.com
 
 # tweakpc.de
-127.0.0.1 ad.tweakpc.de
 
 # twistage.com
 
@@ -24305,7 +24150,6 @@
 127.0.0.1 jaicon.webscouter.net
 
 # websearch.com
-127.0.0.1 ads.websearch.com
 127.0.0.1 is2.websearch.com
 
 # websense.com
@@ -24476,8 +24320,6 @@
 # wildporntube.com
 127.0.0.1 wildporntube.com
 
-# win-spy.com
-127.0.0.1 win-spy.com
 
 # winads.cn
 127.0.0.1 down.winads.cn
@@ -25176,7 +25018,6 @@
 127.0.0.1 ct2.yu-yake.com
 
 # yuhuads.com
-127.0.0.1 track.yuhuads.com
 
 # yukihotaru.com
 127.0.0.1 ct1.yukihotaru.com
