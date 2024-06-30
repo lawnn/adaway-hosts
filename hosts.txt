@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2024/06/01
-# block hosts: 14363 entry
+# last updated: 2024/07/01
+# block hosts: 13919 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -2392,8 +2392,6 @@
 127.0.0.1 js.v1.de.euserv.adm.adaos-ads.net
 127.0.0.1 static.de.euserv.adaos-ads.net
 
-# adap.tv
-127.0.0.1 adap.tv
 
 # adapf.com
 127.0.0.1 adapf.com
@@ -2572,8 +2570,6 @@
 # adcorps.com
 127.0.0.1 ads.adcorps.com
 
-# adcrops.net
-127.0.0.1 adcrops.net
 
 # adcycle.com
 127.0.0.1 adcycle.com
@@ -2582,8 +2578,6 @@
 # adday.co.kr
 127.0.0.1 adday.co.kr
 
-# addded.com
-127.0.0.1 addded.com
 
 # addfreestats.com
 127.0.0.1 top.addfreestats.com
@@ -4750,7 +4744,6 @@
 # amoad.com
 127.0.0.1 a2.amoad.com
 127.0.0.1 acs.amoad.com
-127.0.0.1 ad.ca-conv.amoad.com
 127.0.0.1 at.amoad.com
 127.0.0.1 cdni.amoad.com
 127.0.0.1 cs.amoad.com
@@ -4766,7 +4759,6 @@
 127.0.0.1 mk.ca-conv.amoad.com
 127.0.0.1 n.amoad.com
 127.0.0.1 ng.amoad.com
-127.0.0.1 partner.amoad.com
 127.0.0.1 r.amoad.com
 127.0.0.1 rd.games.amoad.com
 127.0.0.1 sc.amoad.com
@@ -4892,7 +4884,6 @@
 
 # apn.co.nz
 127.0.0.1 ads.apn.co.nz
-127.0.0.1 creative.apn.co.nz
 
 # apnewsregistry.com
 127.0.0.1 analytics.apnewsregistry.com
@@ -5339,7 +5330,6 @@
 
 # badoink.com
 127.0.0.1 badoink.com
-127.0.0.1 promo.badoink.com
 
 # baidu.com
 127.0.0.1 a.baidu.com
@@ -5348,7 +5338,6 @@
 127.0.0.1 bar.baidu.com
 127.0.0.1 cb.baidu.com
 127.0.0.1 cbjs.baidu.com
-127.0.0.1 conf.international.baidu.com
 127.0.0.1 cpro.baidu.com
 127.0.0.1 e.baidu.com
 127.0.0.1 eduad.baidu.com
@@ -5838,7 +5827,6 @@
 127.0.0.1 ca.bitstar.org
 
 # bittads.com
-127.0.0.1 server.bittads.com
 
 # bittorrent.com
 127.0.0.1 ads.bittorrent.com
@@ -6114,8 +6102,6 @@
 # bol.com.br
 127.0.0.1 banners.bol.com.br
 
-# boldchat.com
-127.0.0.1 boldchat.com
 
 # boloz.com
 127.0.0.1 boloz.com
@@ -6374,7 +6360,6 @@
 127.0.0.1 sdk.iad-01.braze.com
 
 # brazzers.com
-127.0.0.1 ads.brazzers.com
 127.0.0.1 ads2.brazzers.com
 127.0.0.1 tour.brazzers.com
 
@@ -6539,8 +6524,6 @@
 # c-on-text.com
 127.0.0.1 c-on-text.com
 
-# c-team.jp
-127.0.0.1 c-team.jp
 
 # c3onlinemarketing.com
 127.0.0.1 c3onlinemarketing.com
@@ -6571,7 +6554,6 @@
 
 # camads.net
 127.0.0.1 ifa.camads.net
-127.0.0.1 static.ifa.camads.net
 
 # camdough.com
 127.0.0.1 banners.camdough.com
@@ -6675,7 +6657,6 @@
 127.0.0.1 metrics.carphonewarehouse.com
 
 # cars.com
-127.0.0.1 metrics.cars.com
 
 # carsoup.com
 127.0.0.1 adimages.carsoup.com
@@ -7344,7 +7325,6 @@
 # cmcore.com
 
 # cmmeglobal.com
-127.0.0.1 engine.cmmeglobal.com
 
 # cmpnet.com
 127.0.0.1 cookies.cmpnet.com
@@ -7551,8 +7531,6 @@
 127.0.0.1 microsoft.com.org
 
 # com.ru
-127.0.0.1 adpixel.com.ru
-127.0.0.1 amhen.com.ru
 
 # com2us.net
 127.0.0.1 com2ushub.com2us.net
@@ -7892,7 +7870,6 @@
 # crakmedia.com
 127.0.0.1 corporate.crakmedia.com
 127.0.0.1 crakmedia.com
-127.0.0.1 static.ads.crakmedia.com
 
 # craktraffic.com
 127.0.0.1 craktraffic.com
@@ -9601,7 +9578,6 @@
 127.0.0.1 top.er.cz
 
 # ere.net
-127.0.0.1 ads.ere.net
 
 # eresmas.com
 127.0.0.1 banner.eresmas.com
@@ -10110,7 +10086,6 @@
 127.0.0.1 affiliates.expaus.in
 
 # expedia.com
-127.0.0.1 om.expedia.com
 
 # expekt.com
 127.0.0.1 ads.expekt.com
@@ -10292,7 +10267,6 @@
 127.0.0.1 download.favorit-network.com
 
 # faxo.com
-127.0.0.1 ads.faxo.com
 
 # fbgdc.com
 127.0.0.1 fbgdc.com
@@ -10751,7 +10725,6 @@
 127.0.0.1 js.fout.jp
 127.0.0.1 js.rfp.fout.jp
 127.0.0.1 mobileapp.fout.jp
-127.0.0.1 nagios.fout.jp
 127.0.0.1 origin-js.fout.jp
 127.0.0.1 redmine.fout.jp
 127.0.0.1 sql-internal.fout.jp
@@ -10960,7 +10933,6 @@
 127.0.0.1 fusionquest.com
 
 # futurenet.nl
-127.0.0.1 usads.futurenet.nl
 
 # fwmrm.net
 127.0.0.1 adm.fwmrm.net
@@ -13475,20 +13447,16 @@
 127.0.0.1 ads.inmobi.com
 127.0.0.1 api.inmobi.com
 127.0.0.1 c.w.inmobi.com
-127.0.0.1 cf.cdn.inmobi.com
 127.0.0.1 china.inmobi.com
 127.0.0.1 i.w.inmobi.com
 127.0.0.1 inmobi.com
 127.0.0.1 japan.inmobi.com
 127.0.0.1 mcg-ads.inmobi.com
-127.0.0.1 r.w.inmobi.com
 127.0.0.1 w.inmobi.com
 
 # inmobicdn.com
-127.0.0.1 r.edge.inmobicdn.com
 
 # inmobicdn.net
-127.0.0.1 r.edge.inmobicdn.net
 
 # inner-active.com
 127.0.0.1 tracking.inner-active.com
@@ -14316,7 +14284,6 @@
 127.0.0.1 lacodeworks.com
 
 # ladot.com
-127.0.0.1 proxy.ladot.com
 
 # ladsp.com
 127.0.0.1 cd.ladsp.com
@@ -15186,7 +15153,6 @@
 127.0.0.1 loanpush.com
 
 # local.com
-127.0.0.1 omnituretrack.local.com
 
 # localytics.com
 127.0.0.1 analytics.localytics.com
@@ -15436,8 +15402,6 @@
 127.0.0.1 top.mail.ru
 127.0.0.1 top10.mail.ru
 
-# maillovelove.net
-127.0.0.1 maillovelove.net
 
 # mainetoday.com
 127.0.0.1 ads.mainetoday.com
@@ -15581,8 +15545,6 @@
 127.0.0.1 ns1.maximumhost.com
 127.0.0.1 ns3.maximumhost.com
 
-# maxmusics.com
-127.0.0.1 maxmusics.com
 
 # maxonclick.com
 127.0.0.1 www.maxonclick.com
@@ -15730,8 +15692,6 @@
 127.0.0.1 toolbarmodal.medialeopard.com
 
 # medialytics.com
-127.0.0.1 a.medialytics.com
-127.0.0.1 a2.medialytics.com
 
 # mediamath.com
 127.0.0.1 mediamath.com
@@ -16002,9 +15962,6 @@
 127.0.0.1 static.mincure-ad.com
 
 # mindshare.de
-127.0.0.1 adserver.mindshare.de
-127.0.0.1 adserver2.mindshare.de
-127.0.0.1 banner.mindshare.de
 
 # mindspring.com
 127.0.0.1 techexpress.home.mindspring.com
@@ -16164,7 +16121,6 @@
 127.0.0.1 media.mobpartner.mobi
 
 # mobra.in
-127.0.0.1 go.mobra.in
 
 # mobrand.net
 127.0.0.1 t.mobrand.net
@@ -16522,266 +16478,7 @@
 127.0.0.1 banners.mydailydigest.com
 
 # mydas.mobi
-127.0.0.1 ads.mp.mydas.mobi
-127.0.0.1 aio.lp.mydas.mobi
-127.0.0.1 androidsdk.ads.mp.mydas.mobi
-127.0.0.1 bank01.ads.dt.mydas.mobi
-127.0.0.1 bank01.clicks.mp.mydas.mobi
-127.0.0.1 bank01.mi.ads.mp.mydas.mobi
-127.0.0.1 bank01.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank02.clicks.mp.mydas.mobi
-127.0.0.1 bank02.mi.ads.mp.mydas.mobi
-127.0.0.1 bank02.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank03.ads.dt.mydas.mobi
-127.0.0.1 bank03.clicks.mp.mydas.mobi
-127.0.0.1 bank03.mi.ads.mp.mydas.mobi
-127.0.0.1 bank03.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank04.ads.dt.mydas.mobi
-127.0.0.1 bank04.ads.mp.mydas.mobi
-127.0.0.1 bank04.clicks.mp.mydas.mobi
-127.0.0.1 bank04.mi.ads.mp.mydas.mobi
-127.0.0.1 bank04.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank05.clicks.mp.mydas.mobi
-127.0.0.1 bank05.mi.ads.mp.mydas.mobi
-127.0.0.1 bank05.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank06.ads.dt.mydas.mobi
-127.0.0.1 bank06.clicks.mp.mydas.mobi
-127.0.0.1 bank06.mi.ads.mp.mydas.mobi
-127.0.0.1 bank06.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank07.clicks.mp.mydas.mobi
-127.0.0.1 bank07.mi.ads.mp.mydas.mobi
-127.0.0.1 bank07.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank08.ads.dt.mydas.mobi
-127.0.0.1 bank08.ads.mp.mydas.mobi
-127.0.0.1 bank08.clicks.mp.mydas.mobi
-127.0.0.1 bank08.mi.ads.mp.mydas.mobi
-127.0.0.1 bank08.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank09.clicks.mp.mydas.mobi
-127.0.0.1 bank09.mi.ads.mp.mydas.mobi
-127.0.0.1 bank09.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank1.clicks.mp.mydas.mobi
-127.0.0.1 bank10.ads.mp.mydas.mobi
-127.0.0.1 bank10.clicks.mp.mydas.mobi
-127.0.0.1 bank10.mi.ads.mp.mydas.mobi
-127.0.0.1 bank10.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank100.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank11.clicks.mp.mydas.mobi
-127.0.0.1 bank11.mi.ads.mp.mydas.mobi
-127.0.0.1 bank11.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank12.ads.dt.mydas.mobi
-127.0.0.1 bank12.clicks.mp.mydas.mobi
-127.0.0.1 bank12.mi.ads.mp.mydas.mobi
-127.0.0.1 bank12.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank13.ads.dt.mydas.mobi
-127.0.0.1 bank13.ads.mp.mydas.mobi
-127.0.0.1 bank13.clicks.mp.mydas.mobi
-127.0.0.1 bank13.mi.ads.mp.mydas.mobi
-127.0.0.1 bank13.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank14.clicks.mp.mydas.mobi
-127.0.0.1 bank14.mi.ads.mp.mydas.mobi
-127.0.0.1 bank15.ads.dt.mydas.mobi
-127.0.0.1 bank15.clicks.mp.mydas.mobi
-127.0.0.1 bank15.mi.ads.mp.mydas.mobi
-127.0.0.1 bank15.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank16.ads.dt.mydas.mobi
-127.0.0.1 bank16.clicks.mp.mydas.mobi
-127.0.0.1 bank16.mi.ads.mp.mydas.mobi
-127.0.0.1 bank16.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank17.ads.dt.mydas.mobi
-127.0.0.1 bank17.clicks.mp.mydas.mobi
-127.0.0.1 bank17.mi.ads.mp.mydas.mobi
-127.0.0.1 bank17.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank18.ads.mp.mydas.mobi
-127.0.0.1 bank18.clicks.mp.mydas.mobi
-127.0.0.1 bank18.mi.ads.mp.mydas.mobi
-127.0.0.1 bank18.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank19.ads.dt.mydas.mobi
-127.0.0.1 bank19.clicks.mp.mydas.mobi
-127.0.0.1 bank19.mi.ads.mp.mydas.mobi
-127.0.0.1 bank19.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank20.ads.mp.mydas.mobi
-127.0.0.1 bank20.clicks.mp.mydas.mobi
-127.0.0.1 bank20.mi.ads.mp.mydas.mobi
-127.0.0.1 bank20.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank21.clicks.mp.mydas.mobi
-127.0.0.1 bank21.mi.ads.mp.mydas.mobi
-127.0.0.1 bank21.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank22.clicks.mp.mydas.mobi
-127.0.0.1 bank22.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank23.clicks.mp.mydas.mobi
-127.0.0.1 bank23.mi.ads.mp.mydas.mobi
-127.0.0.1 bank23.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank24.clicks.mp.mydas.mobi
-127.0.0.1 bank24.mi.ads.mp.mydas.mobi
-127.0.0.1 bank24.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank25.clicks.mp.mydas.mobi
-127.0.0.1 bank25.mi.ads.mp.mydas.mobi
-127.0.0.1 bank25.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank26.clicks.mp.mydas.mobi
-127.0.0.1 bank26.mi.ads.mp.mydas.mobi
-127.0.0.1 bank26.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank27.clicks.mp.mydas.mobi
-127.0.0.1 bank27.mi.ads.mp.mydas.mobi
-127.0.0.1 bank27.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank28.clicks.mp.mydas.mobi
-127.0.0.1 bank28.mi.ads.mp.mydas.mobi
-127.0.0.1 bank28.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank29.clicks.mp.mydas.mobi
-127.0.0.1 bank29.mi.ads.mp.mydas.mobi
-127.0.0.1 bank29.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank30.clicks.mp.mydas.mobi
-127.0.0.1 bank30.mi.ads.mp.mydas.mobi
-127.0.0.1 bank30.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank31.clicks.mp.mydas.mobi
-127.0.0.1 bank31.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank32.clicks.mp.mydas.mobi
-127.0.0.1 bank32.mi.ads.mp.mydas.mobi
-127.0.0.1 bank32.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank33.clicks.mp.mydas.mobi
-127.0.0.1 bank33.mi.ads.mp.mydas.mobi
-127.0.0.1 bank33.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank34.mi.ads.mp.mydas.mobi
-127.0.0.1 bank34.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank35.clicks.mp.mydas.mobi
-127.0.0.1 bank35.mi.ads.mp.mydas.mobi
-127.0.0.1 bank35.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank36.clicks.mp.mydas.mobi
-127.0.0.1 bank36.mi.ads.mp.mydas.mobi
-127.0.0.1 bank36.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank37.ads.mp.mydas.mobi
-127.0.0.1 bank37.clicks.mp.mydas.mobi
-127.0.0.1 bank37.mi.ads.mp.mydas.mobi
-127.0.0.1 bank37.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank38.clicks.mp.mydas.mobi
-127.0.0.1 bank38.mi.ads.mp.mydas.mobi
-127.0.0.1 bank38.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank39.clicks.mp.mydas.mobi
-127.0.0.1 bank39.mi.ads.mp.mydas.mobi
-127.0.0.1 bank39.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank40.clicks.mp.mydas.mobi
-127.0.0.1 bank40.mi.ads.mp.mydas.mobi
-127.0.0.1 bank40.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank41.clicks.mp.mydas.mobi
-127.0.0.1 bank41.mi.ads.mp.mydas.mobi
-127.0.0.1 bank41.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank42.clicks.mp.mydas.mobi
-127.0.0.1 bank42.mi.ads.mp.mydas.mobi
-127.0.0.1 bank42.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank43.ads.mp.mydas.mobi
-127.0.0.1 bank43.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank44.ads.mp.mydas.mobi
-127.0.0.1 bank44.clicks.mp.mydas.mobi
-127.0.0.1 bank44.mi.ads.mp.mydas.mobi
-127.0.0.1 bank44.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank45.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank46.mi.ads.mp.mydas.mobi
-127.0.0.1 bank47.mi.ads.mp.mydas.mobi
-127.0.0.1 bank47.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank48.mi.ads.mp.mydas.mobi
-127.0.0.1 bank48.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank49.mi.ads.mp.mydas.mobi
-127.0.0.1 bank49.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank50.mi.ads.mp.mydas.mobi
-127.0.0.1 bank50.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank51.mi.ads.mp.mydas.mobi
-127.0.0.1 bank51.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank52.mi.ads.mp.mydas.mobi
-127.0.0.1 bank52.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank53.mi.ads.mp.mydas.mobi
-127.0.0.1 bank53.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank54.mi.ads.mp.mydas.mobi
-127.0.0.1 bank54.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank55.mi.ads.mp.mydas.mobi
-127.0.0.1 bank55.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank56.mi.ads.mp.mydas.mobi
-127.0.0.1 bank57.mi.ads.mp.mydas.mobi
-127.0.0.1 bank57.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank58.mi.ads.mp.mydas.mobi
-127.0.0.1 bank58.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank59.mi.ads.mp.mydas.mobi
-127.0.0.1 bank59.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank60.mi.ads.mp.mydas.mobi
-127.0.0.1 bank60.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank61.mi.ads.mp.mydas.mobi
-127.0.0.1 bank61.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank62.mi.ads.mp.mydas.mobi
-127.0.0.1 bank62.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank63.mi.ads.mp.mydas.mobi
-127.0.0.1 bank63.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank64.mi.ads.mp.mydas.mobi
-127.0.0.1 bank64.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank65.mi.ads.mp.mydas.mobi
-127.0.0.1 bank65.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank66.mi.ads.mp.mydas.mobi
-127.0.0.1 bank66.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank67.mi.ads.mp.mydas.mobi
-127.0.0.1 bank67.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank68.mi.ads.mp.mydas.mobi
-127.0.0.1 bank68.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank69.mi.ads.mp.mydas.mobi
-127.0.0.1 bank69.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank70.mi.ads.mp.mydas.mobi
-127.0.0.1 bank70.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank71.mi.ads.mp.mydas.mobi
-127.0.0.1 bank71.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank72.mi.ads.mp.mydas.mobi
-127.0.0.1 bank72.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank73.mi.ads.mp.mydas.mobi
-127.0.0.1 bank73.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank74.mi.ads.mp.mydas.mobi
-127.0.0.1 bank74.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank75.mi.ads.mp.mydas.mobi
-127.0.0.1 bank76.mi.ads.mp.mydas.mobi
-127.0.0.1 bank76.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank77.mi.ads.mp.mydas.mobi
-127.0.0.1 bank77.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank78.mi.ads.mp.mydas.mobi
-127.0.0.1 bank78.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank79.mi.ads.mp.mydas.mobi
-127.0.0.1 bank79.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank80.mi.ads.mp.mydas.mobi
-127.0.0.1 bank80.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank81.mi.ads.mp.mydas.mobi
-127.0.0.1 bank81.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank82.mi.ads.mp.mydas.mobi
-127.0.0.1 bank82.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank83.mi.ads.mp.mydas.mobi
-127.0.0.1 bank84.mi.ads.mp.mydas.mobi
-127.0.0.1 bank84.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank85.mi.ads.mp.mydas.mobi
-127.0.0.1 bank85.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank86.mi.ads.mp.mydas.mobi
-127.0.0.1 bank86.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank87.mi.ads.mp.mydas.mobi
-127.0.0.1 bank87.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank88.mi.ads.mp.mydas.mobi
-127.0.0.1 bank88.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank89.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank90.mi.ads.mp.mydas.mobi
-127.0.0.1 bank90.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank91.mi.ads.mp.mydas.mobi
-127.0.0.1 bank91.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank92.mi.ads.mp.mydas.mobi
-127.0.0.1 bank92.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank93.mi.ads.mp.mydas.mobi
-127.0.0.1 bank93.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank94.mi.ads.mp.mydas.mobi
-127.0.0.1 bank95.mi.ads.mp.mydas.mobi
-127.0.0.1 bank96.mi.ads.mp.mydas.mobi
-127.0.0.1 bank96.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank97.mi.ads.mp.mydas.mobi
-127.0.0.1 bank98.mi.ads.mp.mydas.mobi
-127.0.0.1 bank98.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank99.mi.ads.mp.mydas.mobi
-127.0.0.1 bank99.mi.clicks.mp.mydas.mobi
-127.0.0.1 cvt.mydas.mobi
-127.0.0.1 golds.lp.mydas.mobi
-127.0.0.1 lp.mp.mydas.mobi
-127.0.0.1 lp.mydas.mobi
-127.0.0.1 media.mydas.mobi
 127.0.0.1 mydas.mobi
-127.0.0.1 progressive.lp.mydas.mobi
-127.0.0.1 suo.lp.mydas.mobi
 
 # mydati.com
 127.0.0.1 mydati.com
@@ -16836,7 +16533,6 @@
 127.0.0.1 mypowermall.com
 
 # myroitracking.com
-127.0.0.1 serw.myroitracking.com
 
 # mysanantonio.com
 127.0.0.1 metrics.mysanantonio.com
@@ -16863,19 +16559,6 @@
 127.0.0.1 a615.ac-images.myspacecdn.com
 127.0.0.1 a885.ac-images.myspacecdn.com
 
-# mystat-in.net
-127.0.0.1 060810131024.c.mystat-in.net
-127.0.0.1 061606084448.c.mystat-in.net
-127.0.0.1 070806142521.c.mystat-in.net
-127.0.0.1 090906042103.c.mystat-in.net
-127.0.0.1 092706152958.c.mystat-in.net
-127.0.0.1 102106151057.c.mystat-in.net
-127.0.0.1 112006133326.c.mystat-in.net
-127.0.0.1 121807150325.c.mystat-in.net
-127.0.0.1 122907224924.c.mystat-in.net
-127.0.0.1 c.mystat-in.net
-127.0.0.1 f2.n1.b.mystat-in.net
-127.0.0.1 mystat-in.net
 
 # mystat.hu
 127.0.0.1 stat.mystat.hu
@@ -16889,8 +16572,6 @@
 # mytelus.com
 127.0.0.1 ads.mytelus.com
 
-# mytop-in.net
-127.0.0.1 mytop-in.net
 
 # mytraf.info
 127.0.0.1 mytraf.info
@@ -16907,7 +16588,6 @@
 
 # mywebsearch.com
 127.0.0.1 mywebsearch.com
-127.0.0.1 search.mywebsearch.com
 
 # myx.net
 127.0.0.1 ads.myx.net
@@ -17160,25 +16840,17 @@
 127.0.0.1 c1.nend.net
 127.0.0.1 demo1.nend.net
 127.0.0.1 dev.nend.net
-127.0.0.1 img1.nend.net
 127.0.0.1 impression.nend.net
-127.0.0.1 js1.nend.net
 127.0.0.1 lona.nend.net
 127.0.0.1 lonb.nend.net
 127.0.0.1 mail.nend.net
-127.0.0.1 mtl.nend.net
 127.0.0.1 mx1.nend.net
 127.0.0.1 mx2.nend.net
 127.0.0.1 mx3.nend.net
 127.0.0.1 nend.net
 127.0.0.1 output.nend.net
-127.0.0.1 playable.nend.net
-127.0.0.1 s2.nend.net
-127.0.0.1 static-interactive-api.nend.net
 127.0.0.1 stc.nend.net
 127.0.0.1 stg.nend.net
-127.0.0.1 v1.nend.net
-127.0.0.1 vdappcdn.nend.net
 127.0.0.1 www.nend.net
 127.0.0.1 www1.nend.net
 127.0.0.1 www2.nend.net
@@ -17362,7 +17034,6 @@
 127.0.0.1 ad89.nettravel.com
 
 # netvenda.com
-127.0.0.1 content.netvenda.com
 
 # netvertising.be
 127.0.0.1 netvertising.be
@@ -17766,9 +17437,6 @@
 # oainternetservices.com
 127.0.0.1 track.oainternetservices.com
 
-# object.bg
-127.0.0.1 object.bg
-127.0.0.1 vm3.parabol.object.bg
 
 # observare.de
 127.0.0.1 observare.de
@@ -19012,8 +18680,6 @@
 127.0.0.1 preaf.jp
 127.0.0.1 sp.preaf.jp
 
-# precisioncounter.com
-127.0.0.1 precisioncounter.com
 
 # precisionpop.com
 127.0.0.1 adserve.precisionpop.com
@@ -19074,7 +18740,6 @@
 
 # primead.jp
 127.0.0.1 ad-dev.primead.jp
-127.0.0.1 ad.primead.jp
 127.0.0.1 adcontents.primead.jp
 127.0.0.1 admin.primead.jp
 127.0.0.1 aoe-report-front-stg.primead.jp
@@ -19082,13 +18747,11 @@
 127.0.0.1 bmp.primead.jp
 127.0.0.1 cs.primead.jp
 127.0.0.1 dev-adcontents.primead.jp
-127.0.0.1 main.ad.primead.jp
 127.0.0.1 primead.jp
 127.0.0.1 r.primead.jp
 127.0.0.1 report.primead.jp
 127.0.0.1 s-dev.primead.jp
 127.0.0.1 s.primead.jp
-127.0.0.1 stg-ad.primead.jp
 127.0.0.1 stg-adcontents.primead.jp
 127.0.0.1 stg-admin.primead.jp
 127.0.0.1 stg-bmp.primead.jp
@@ -19898,7 +19561,6 @@
 127.0.0.1 aff.ringtonepartner.com
 
 # riskwaters.com
-127.0.0.1 db.riskwaters.com
 
 # rk400.com
 127.0.0.1 rk400.com
@@ -19914,9 +19576,6 @@
 127.0.0.1 rle.ru
 
 # rmgserving.com
-127.0.0.1 b.rmgserving.com
-127.0.0.1 c.rmgserving.com
-127.0.0.1 d.rmgserving.com
 
 # rne.com
 127.0.0.1 ads1.rne.com
@@ -20081,8 +19740,6 @@
 # s5.com
 127.0.0.1 s5.com
 
-# sabela.com
-127.0.0.1 sabela.com
 
 # sacbee.com
 
@@ -20431,10 +20088,6 @@
 # sexier.com
 127.0.0.1 ads.sexier.com
 
-# sexinyourcity.com
-127.0.0.1 ads.sexinyourcity.com
-127.0.0.1 media.sexinyourcity.com
-127.0.0.1 sexinyourcity.com
 
 # sexkey.com
 127.0.0.1 images.sexkey.com
@@ -21307,8 +20960,6 @@
 127.0.0.1 sparkstudios.com
 
 # spb.ru
-127.0.0.1 alltraff.spb.ru
-127.0.0.1 cracks.spb.ru
 
 # spbland.ru
 127.0.0.1 cnt.spbland.ru
@@ -22010,8 +21661,6 @@
 # t-mobile.com
 127.0.0.1 sdc.t-mobile.com
 
-# t0.ca
-127.0.0.1 t0.ca
 
 # taboola.com
 127.0.0.1 taboola.com
@@ -22418,7 +22067,6 @@
 127.0.0.1 thruport.com
 
 # thumbplay.com
-127.0.0.1 cdn.banner.thumbplay.com
 
 # tic.ru
 127.0.0.1 spytrack.tic.ru
@@ -22916,7 +22564,6 @@
 127.0.0.1 xml2.trafficsyndicate.com
 
 # trafficwave.net
-127.0.0.1 adtrack.trafficwave.net
 127.0.0.1 trafficwave.net
 
 # trafficz.com
@@ -22967,7 +22614,6 @@
 127.0.0.1 tracking.traviangames.com
 
 # travlang.com
-127.0.0.1 advert.travlang.com
 
 # trb.com
 127.0.0.1 m.trb.com
@@ -23498,7 +23144,6 @@
 127.0.0.1 images.vantagenet.com
 
 # vasta.co.jp
-127.0.0.1 lp.vasta.co.jp
 
 # vba.ru
 127.0.0.1 ad.vba.ru
@@ -23760,8 +23405,6 @@
 127.0.0.1 metrics.vodafone.co.uk
 
 # vodone.cn
-127.0.0.1 autou.vodone.cn
-127.0.0.1 stat.vodone.cn
 
 # vodone.com
 127.0.0.1 bus.vodone.com
@@ -23853,8 +23496,6 @@
 127.0.0.1 a.vserv.mobi
 127.0.0.1 admin.vserv.mobi
 127.0.0.1 ads.vserv.mobi
-127.0.0.1 c.vserv.mobi
-127.0.0.1 nx.vserv.mobi
 127.0.0.1 sf.vserv.mobi
 127.0.0.1 vserv.mobi
 
