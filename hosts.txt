@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2024/07/01
-# block hosts: 13919 entry
+# last updated: 2024/08/01
+# block hosts: 13839 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -2209,7 +2209,6 @@
 127.0.0.1 prvadm.ad-link.jp
 127.0.0.1 prvapi.ad-link.jp
 127.0.0.1 sorry.ad-link.jp
-127.0.0.1 sugoroku03.ad-link.jp
 127.0.0.1 sugoroku10.ad-link.jp
 127.0.0.1 sugoroku11.ad-link.jp
 127.0.0.1 sugoroku64.ad-link.jp
@@ -3877,8 +3876,6 @@
 127.0.0.1 adsoftware.com
 
 
-# adsolutions.nl
-127.0.0.1 adsolutions.nl
 
 # adsonar.com
 127.0.0.1 foxnews.adsonar.com
@@ -6032,16 +6029,6 @@
 127.0.0.1 bluemountain.com
 
 # blueseek.com
-127.0.0.1 3151.77152.blueseek.com
-127.0.0.1 4802.170.blueseek.com
-127.0.0.1 5740.4785.blueseek.com
-127.0.0.1 5882.1158.blueseek.com
-127.0.0.1 5990.findit.blueseek.com
-127.0.0.1 7457.accessaw.blueseek.com
-127.0.0.1 7457.pownit.blueseek.com
-127.0.0.1 7979.nosubid.blueseek.com
-127.0.0.1 itc.2081.blueseek.com
-127.0.0.1 itcg3.c5369.blueseek.com
 
 # bluesq.com
 127.0.0.1 bluesq.com
@@ -6167,7 +6154,6 @@
 127.0.0.1 ads.brand.net
 
 # brandreachsys.com
-127.0.0.1 adbcache.brandreachsys.com
 127.0.0.1 adbucks.brandreachsys.com
 127.0.0.1 adc.brandreachsys.com
 127.0.0.1 brandreachsys.com
@@ -6175,7 +6161,6 @@
 127.0.0.1 lg1.brandreachsys.com
 127.0.0.1 mad2.brandreachsys.com
 127.0.0.1 media.brandreachsys.com
-127.0.0.1 rkcache.brandreachsys.com
 
 # bravediary.com
 127.0.0.1 yoursubdomain.bravediary.com
@@ -6887,8 +6872,6 @@
 127.0.0.1 chapm.com
 
 
-# chargecards.com
-127.0.0.1 chargecards.com
 
 # chart.dk
 127.0.0.1 chart.dk
@@ -7191,8 +7174,6 @@
 127.0.0.1 clickshare.com
 
 # clickshield.net
-127.0.0.1 2183.jsjmlejl.clickshield.net
-127.0.0.1 redirect.clickshield.net
 
 # clicksite.com
 127.0.0.1 clicksite.com
@@ -7288,7 +7269,6 @@
 127.0.0.1 d1miuq6afqay8u.cloudfront.net
 127.0.0.1 d1ros97qkrwjf5.cloudfront.net
 127.0.0.1 d1yt8zt4633tzi.cloudfront.net
-127.0.0.1 d25jbgvg9kmxad.cloudfront.net
 127.0.0.1 d28nwox1gdjlve.cloudfront.net
 127.0.0.1 d2cjo8xlt6fbwy.cloudfront.net
 127.0.0.1 d2x2losda9vsjs.cloudfront.net
@@ -7664,8 +7644,6 @@
 127.0.0.1 convulse.com
 
 # cookpad-ads.com
-127.0.0.1 a.cookpad-ads.com
-127.0.0.1 staging.cookpad-ads.com
 
 # cooks.com
 127.0.0.1 ad.cooks.com
@@ -8160,7 +8138,6 @@
 127.0.0.1 mb.datingadzone.com
 
 # datingyes.com
-127.0.0.1 ads.datingyes.com
 
 # daum-img.net
 127.0.0.1 amsimg.daum-img.net
@@ -9106,8 +9083,6 @@
 
 # dt07.net
 127.0.0.1 imgg.dt07.net
-127.0.0.1 jsg.dt07.net
-127.0.0.1 jsn.dt07.net
 127.0.0.1 mg.dt07.net
 
 # dtiblog.com
@@ -9320,7 +9295,6 @@
 127.0.0.1 bill.ecsuite.com
 
 # edbindex.dk
-127.0.0.1 ads.edbindex.dk
 
 # edgeio.com
 127.0.0.1 edgeio.com
@@ -10367,7 +10341,6 @@
 127.0.0.1 ads.filez.com
 
 # filez.nl
-127.0.0.1 ads.filez.nl
 
 # fimserve.com
 127.0.0.1 fimserve.com
@@ -10751,7 +10724,6 @@
 
 
 # fplive.net
-127.0.0.1 msnads-wm9.fplive.net
 
 # fractionalmedia.com
 127.0.0.1 fractionalmedia.com
@@ -10950,7 +10922,6 @@
 127.0.0.1 static.fxcm.co.uk
 
 # fxdefx.com
-127.0.0.1 image.fxdefx.com
 
 # fxstyle.net
 127.0.0.1 fxstyle.net
@@ -11487,7 +11458,6 @@
 127.0.0.1 ads.gmodules.com
 
 # gmossp-sp.jp
-127.0.0.1 adn-j.sp.gmossp-sp.jp
 127.0.0.1 dmpjs.sp.gmossp-sp.jp
 127.0.0.1 gmossp-sp.jp
 127.0.0.1 minerva-js.sp.gmossp-sp.jp
@@ -11770,7 +11740,6 @@
 127.0.0.1 qksrv.growhope.com
 
 # grown-zero-breeze-belong.xyz
-127.0.0.1 trk.grown-zero-breeze-belong.xyz
 
 # gs-ad.jp
 127.0.0.1 ad.gs-ad.jp
@@ -11840,7 +11809,6 @@
 # gunosy.com
 127.0.0.1 ad.gunosy.com
 127.0.0.1 adapi.gunosy.com
-127.0.0.1 adntokyo.gunosy.com
 127.0.0.1 ads-delivery-cdn.gunosy.com
 127.0.0.1 ads-delivery.gunosy.com
 127.0.0.1 ads-stg.gunosy.com
@@ -13122,8 +13090,6 @@
 # images-amazon.com
 127.0.0.1 ec3.images-amazon.com
 
-# imarketservices.com
-127.0.0.1 imarketservices.com
 
 # imeem.com
 127.0.0.1 ads.imeem.com
@@ -14589,8 +14555,6 @@
 # linkwithin.com
 127.0.0.1 linkwithin.com
 
-# linkybank.com
-127.0.0.1 linkybank.com
 
 # linkz.com
 127.0.0.1 linkz.com
@@ -14617,9 +14581,7 @@
 127.0.0.1 ad7.literotica.com
 
 # live.com
-127.0.0.1 analytics.live.com
 127.0.0.1 choice.live.com
-127.0.0.1 digg.analytics.live.com
 127.0.0.1 rad.live.com
 
 # live2chat.tv
@@ -15417,8 +15379,6 @@
 # mair.net
 127.0.0.1 mair.net
 
-# maist.jp
-127.0.0.1 maist.jp
 
 # makemytrip.com
 127.0.0.1 metric.makemytrip.com
@@ -15857,7 +15817,6 @@
 
 # microad.co.jp
 127.0.0.1 app.microad.co.jp
-127.0.0.1 blade-bi.microad.co.jp
 127.0.0.1 ceo.microad.co.jp
 127.0.0.1 clinear.microad.co.jp
 127.0.0.1 developers.microad.co.jp
@@ -16274,11 +16233,9 @@
 # msads.net
 127.0.0.1 a.ads1.msads.net
 127.0.0.1 a.ads2.msads.net
-127.0.0.1 a.global.msads.net
 127.0.0.1 ads1.msads.net
 127.0.0.1 ads2.msads.net
 127.0.0.1 b.ads2.msads.net
-127.0.0.1 global.msads.net
 
 # msimg.com
 127.0.0.1 msimg.com
@@ -16297,19 +16254,11 @@
 127.0.0.1 adtag.msn.ca
 
 # msn.com
-127.0.0.1 0.r.msn.com
-127.0.0.1 a.ads1.msn.com
 127.0.0.1 ads.eu.msn.com
 127.0.0.1 ads.jp.msn.com
 127.0.0.1 ads.msn.com
-127.0.0.1 ads1.msn.com
-127.0.0.1 adsyndication.msn.com
 127.0.0.1 advertising.jp.msn.com
-127.0.0.1 analytics.msn.com
-127.0.0.1 analytics.r.msn.com
-127.0.0.1 b.ads1.msn.com
 127.0.0.1 c.jp.msn.com
-127.0.0.1 images.adsyndication.msn.com
 127.0.0.1 popup.msn.com
 127.0.0.1 rmads.eu.msn.com
 127.0.0.1 rmads.msn.com
@@ -17376,7 +17325,6 @@
 
 # ntv.co.jp
 127.0.0.1 ad.ntv.co.jp
-127.0.0.1 cu-cdn-ad.ntv.co.jp
 127.0.0.1 stg-ad.ntv.co.jp
 
 # ntvmsnbc.com
@@ -17435,7 +17383,6 @@
 127.0.0.1 a.o2u.jp
 
 # oainternetservices.com
-127.0.0.1 track.oainternetservices.com
 
 
 # observare.de
@@ -17961,8 +17908,6 @@
 # pacinocash.com
 127.0.0.1 tools.pacinocash.com
 
-# page-not-found.net
-127.0.0.1 page-not-found.net
 
 # pagecount.com
 127.0.0.1 pagecount.com
@@ -18577,8 +18522,6 @@
 # popin.cc
 127.0.0.1 a.popin.cc
 
-# popinads.com
-127.0.0.1 popinads.com
 
 # popub.com
 127.0.0.1 popub.com
@@ -18682,8 +18625,6 @@
 
 
 # precisionpop.com
-127.0.0.1 adserve.precisionpop.com
-127.0.0.1 context.precisionpop.com
 127.0.0.1 precisionpop.com
 
 # predictad.com
@@ -19735,7 +19676,6 @@
 127.0.0.1 s-e-arch.com
 
 # s2ch.com
-127.0.0.1 ranklink.s2ch.com
 
 # s5.com
 127.0.0.1 s5.com
@@ -20987,29 +20927,6 @@
 # spectate.com
 127.0.0.1 cdn.spectate.com
 
-# speead.jp
-127.0.0.1 107008.speead.jp
-127.0.0.1 107254.speead.jp
-127.0.0.1 107498.speead.jp
-127.0.0.1 107554.speead.jp
-127.0.0.1 107680.speead.jp
-127.0.0.1 107681.speead.jp
-127.0.0.1 107785.speead.jp
-127.0.0.1 107937.speead.jp
-127.0.0.1 108532.speead.jp
-127.0.0.1 108553.speead.jp
-127.0.0.1 109143.speead.jp
-127.0.0.1 admin.speead.jp
-127.0.0.1 ads.speead.jp
-127.0.0.1 bx.speead.jp
-127.0.0.1 js.speead.jp
-127.0.0.1 learning.speead.jp
-127.0.0.1 med.speead.jp
-127.0.0.1 offical.speead.jp
-127.0.0.1 online.speead.jp
-127.0.0.1 speead.jp
-127.0.0.1 static.speead.jp
-127.0.0.1 xy.speead.jp
 
 # speedbit.com
 127.0.0.1 ad1.speedbit.com
@@ -21280,7 +21197,6 @@
 127.0.0.1 analyze.step-bb.jp
 
 # stephensmedia.com
-127.0.0.1 ads.stephensmedia.com
 
 # stepstone.be
 127.0.0.1 ads.stepstone.be
@@ -21819,7 +21735,6 @@
 127.0.0.1 banner.techarp.com
 
 # technews.bg
-127.0.0.1 advert.technews.bg
 
 # technorail.com
 127.0.0.1 banner.technorail.com
@@ -22479,7 +22394,6 @@
 127.0.0.1 trafficflare.com
 
 # trafficforce.com
-127.0.0.1 cdn.trafficforce.com
 127.0.0.1 delivery.trafficforce.com
 127.0.0.1 dev.trafficforce.com
 
@@ -22716,8 +22630,6 @@
 # tubemogul.com
 127.0.0.1 tubemogul.com
 
-# tubeololo.org
-127.0.0.1 tubeololo.org
 
 # tucows.com
 127.0.0.1 adclient1.tucows.com
@@ -23835,7 +23747,6 @@
 127.0.0.1 banner.webtools24.net
 
 # webtracker.jp
-127.0.0.1 a.t.webtracker.jp
 
 # webtrackerplus.com
 127.0.0.1 webtrackerplus.com
@@ -24191,8 +24102,6 @@
 # xanga.com
 127.0.0.1 a.xanga.com
 
-# xb11766.com
-127.0.0.1 xb11766.com
 
 # xbiz.com
 127.0.0.1 ads.xbiz.com
@@ -24637,8 +24546,6 @@
 # yourfuckbook.com
 127.0.0.1 delivery.yourfuckbook.com
 
-# yourtracking.net
-127.0.0.1 yourtracking.net
 
 # youtube.com
 127.0.0.1 ads.youtube.com
