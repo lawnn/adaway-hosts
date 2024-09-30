@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2024/09/01
-# block hosts: 14161 entry
+# last updated: 2024/10/01
+# block hosts: 13952 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -1670,7 +1670,6 @@
 127.0.0.1 openx.4shared.com
 
 # 4tube.com
-127.0.0.1 ads.4tube.com
 
 # 4u.pl
 127.0.0.1 ad.stat.4u.pl
@@ -4179,7 +4178,6 @@
 127.0.0.1 advertisementbanners.com
 
 # advertising.com
-127.0.0.1 uac.advertising.com
 
 # advertising.de
 127.0.0.1 advertising.de
@@ -4504,7 +4502,6 @@
 127.0.0.1 adserver.airmiles.ca
 
 # airpush.com
-127.0.0.1 api.airpush.com
 
 # airseed.org
 127.0.0.1 airseed.org
@@ -4665,7 +4662,6 @@
 127.0.0.1 cb.amazingcounters.com
 
 # amazingmedia.com
-127.0.0.1 ads.amazingmedia.com
 
 # amazon-adsystem.com
 127.0.0.1 aax-us-east.amazon-adsystem.com
@@ -5222,8 +5218,6 @@
 127.0.0.1 ads.autotrader.com
 127.0.0.1 adserving.autotrader.com
 
-# avatarcash.com
-127.0.0.1 avatarcash.com
 
 # avazu.net
 127.0.0.1 ads.avazu.net
@@ -5839,7 +5833,6 @@
 127.0.0.1 billingsupportcenter.com
 
 # bimedia.net
-127.0.0.1 images.bimedia.net
 
 # bin-layer.ru
 127.0.0.1 bin-layer.ru
@@ -6957,7 +6950,6 @@
 127.0.0.1 pub.chez.com
 
 # chicashumedas.com
-127.0.0.1 banners.chicashumedas.com
 
 # chickclick.com
 127.0.0.1 ads.chickclick.com
@@ -8567,7 +8559,6 @@
 127.0.0.1 dogcustom-works.com
 
 # dogfart.com
-127.0.0.1 banners.dogfart.com
 
 # dogpile.com
 127.0.0.1 ad.dogpile.com
@@ -9383,8 +9374,6 @@
 # efrontier.com
 127.0.0.1 efrontier.com
 
-# egeosoftware.com
-127.0.0.1 egeosoftware.com
 
 # egloos.com
 
@@ -10757,7 +10746,6 @@
 127.0.0.1 d.foxadd.com
 
 # foxnetworks.com
-127.0.0.1 ad.foxnetworks.com
 
 # foxnews.com
 127.0.0.1 tracking.foxnews.com
@@ -11665,8 +11653,6 @@
 # googlle.in
 127.0.0.1 googlle.in
 
-# googlus.com
-127.0.0.1 googlus.com
 
 # gopopup.com
 127.0.0.1 gopopup.com
@@ -12807,7 +12793,6 @@
 127.0.0.1 hc2.humanclick.com
 
 # hurricanedigitalmedia.com
-127.0.0.1 custom1.hurricanedigitalmedia.com
 
 # hw.net
 127.0.0.1 ads2000.hw.net
@@ -12899,22 +12884,8 @@
 127.0.0.1 adimg.i2i.jp
 127.0.0.1 ads.i2i.jp
 127.0.0.1 adsp1.i2i.jp
-127.0.0.1 cc.i2i.jp
-127.0.0.1 cc2.i2i.jp
 127.0.0.1 i2i.jp
 127.0.0.1 i2iads.i2i.jp
-127.0.0.1 rc.i2i.jp
-127.0.0.1 rc2.i2i.jp
-127.0.0.1 rc3.i2i.jp
-127.0.0.1 rc4.i2i.jp
-127.0.0.1 rc5.i2i.jp
-127.0.0.1 rc6.i2i.jp
-127.0.0.1 rc7.i2i.jp
-127.0.0.1 rc8.i2i.jp
-127.0.0.1 rc9.i2i.jp
-127.0.0.1 sg.i2i.jp
-127.0.0.1 sh.i2i.jp
-127.0.0.1 sr.i2i.jp
 
 # i2idata.com
 127.0.0.1 ac.i2idata.com
@@ -17268,7 +17239,6 @@
 127.0.0.1 ra1.newswatch.co.jp
 
 # newtabtv.com
-127.0.0.1 ja.newtabtv.com
 127.0.0.1 newtabtv.com
 
 # newworldiq.com
@@ -19149,8 +19119,6 @@
 127.0.0.1 za1.quebec-bin.com
 
 # quebec-lea.com
-127.0.0.1 usa.quebec-lea.com
-127.0.0.1 use.quebec-lea.com
 
 # queendom.com
 127.0.0.1 ads.queendom.com
@@ -19188,12 +19156,7 @@
 127.0.0.1 a76.p.f.qz3.net
 
 # r-ad.ne.jp
-127.0.0.1 bd-fl-stg.r-ad.ne.jp
-127.0.0.1 bd-fl.r-ad.ne.jp
 127.0.0.1 cdn-t.r-ad.ne.jp
-127.0.0.1 cs-fl2.r-ad.ne.jp
-127.0.0.1 cs-stg.r-ad.ne.jp
-127.0.0.1 cs.r-ad.ne.jp
 127.0.0.1 dr-stg.r-ad.ne.jp
 127.0.0.1 dr.r-ad.ne.jp
 127.0.0.1 mb.r-ad.ne.jp
@@ -20378,8 +20341,6 @@
 # sexystat.com
 127.0.0.1 sexystat.com
 
-# sezwho.com
-127.0.0.1 sezwho.com
 
 # sf.net
 127.0.0.1 ads.sf.net
@@ -21402,7 +21363,6 @@
 127.0.0.1 ads.stepstone.be
 
 # stepstone.no
-127.0.0.1 ads.stepstone.no
 
 # stileproject.com
 127.0.0.1 ads.stileproject.com
@@ -22169,7 +22129,6 @@
 127.0.0.1 webtrends.thisis.co.uk
 
 # thoughtsmedia.com
-127.0.0.1 sponsors.thoughtsmedia.com
 
 # three.co.uk
 127.0.0.1 metrics.three.co.uk
@@ -22339,8 +22298,6 @@
 # toplist.sk
 127.0.0.1 toplist.sk
 
-# topmeds10.com
-127.0.0.1 topmeds10.com
 
 # topmmorpgsites.com
 127.0.0.1 topmmorpgsites.com
@@ -22576,8 +22533,6 @@
 # traffic.ru
 127.0.0.1 traffic.ru
 
-# traffic4you.de
-127.0.0.1 traffic4you.de
 
 # trafficads.com
 127.0.0.1 trafficads.com
@@ -22588,8 +22543,6 @@
 # trafficcenter.com
 127.0.0.1 trafficcenter.com
 
-# trafficconverter.in
-127.0.0.1 trafficconverter.in
 
 # trafficfactory.biz
 127.0.0.1 media.trafficfactory.biz
@@ -22632,14 +22585,6 @@
 
 # trafficjunky.net
 127.0.0.1 ads.trafficjunky.net
-127.0.0.1 delivery.trafficjunky.net
-127.0.0.1 delivery1.trafficjunky.net
-127.0.0.1 delivery2.trafficjunky.net
-127.0.0.1 delivery3.trafficjunky.net
-127.0.0.1 delivery4.trafficjunky.net
-127.0.0.1 delivery5.trafficjunky.net
-127.0.0.1 delivery6.trafficjunky.net
-127.0.0.1 delivery9.trafficjunky.net
 127.0.0.1 ht-cdn.trafficjunky.net
 127.0.0.1 media.trafficjunky.net
 127.0.0.1 tracking.trafficjunky.net
@@ -22756,8 +22701,6 @@
 # tremormedia.com
 127.0.0.1 objects.tremormedia.com
 
-# trendcounter.com
-127.0.0.1 trendcounter.com
 
 # trendmicro.com
 127.0.0.1 wdcs.trendmicro.com
@@ -23401,7 +23344,6 @@
 127.0.0.1 vimage.com
 
 # vinden.nl
-127.0.0.1 adtracking.vinden.nl
 
 # vindicosuite.com
 127.0.0.1 addirector.vindicosuite.com
@@ -23973,8 +23915,6 @@
 # webtrends.org
 127.0.0.1 webtrends.org
 
-# webtrendslive.com
-127.0.0.1 webtrendslive.com
 
 # webuytraffic.com
 127.0.0.1 webuytraffic.com
@@ -23991,8 +23931,6 @@
 # wesh.com
 127.0.0.1 scrooge.wesh.com
 
-# west-city.jp
-127.0.0.1 west-city.jp
 
 # west263.com
 127.0.0.1 count.west263.com
@@ -24897,7 +24835,6 @@
 127.0.0.1 zirve100.com
 
 # zive.net
-127.0.0.1 hellos.zive.net
 
 # ziyu.net
 127.0.0.1 js1.ziyu.net
