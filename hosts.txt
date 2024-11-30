@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2024/11/01
-# block hosts: 13853 entry
+# last updated: 2024/12/01
+# block hosts: 13790 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -1726,7 +1726,6 @@
 127.0.0.1 6ms.biz
 
 # 6rooms.com
-127.0.0.1 pole.6rooms.com
 
 # 718unlimited.com
 127.0.0.1 718unlimited.com
@@ -4004,7 +4003,6 @@
 127.0.0.1 adtrade.ro
 
 # adtrk22.com
-127.0.0.1 trk.adtrk22.com
 
 # adturns.com
 127.0.0.1 adturns.com
@@ -4362,8 +4360,6 @@
 # affiliatewindow.com
 127.0.0.1 affiliatewindow.com
 
-# affina.com
-127.0.0.1 affina.com
 
 # affinity.com
 127.0.0.1 js.syn.affinity.com
@@ -5987,13 +5983,6 @@
 127.0.0.1 affiliate.blucigs.com
 127.0.0.1 bluhostedbanners.blucigs.com
 
-# blueadvertise.com
-127.0.0.1 ads.blueadvertise.com
-127.0.0.1 adserver2.blueadvertise.com
-127.0.0.1 blueadvertise.com
-127.0.0.1 creditburner.blueadvertise.com
-127.0.0.1 my.blueadvertise.com
-127.0.0.1 scripts.blueadvertise.com
 
 # bluecava.com
 
@@ -6978,7 +6967,6 @@
 
 # citygridmedia.com
 127.0.0.1 api.citygridmedia.com
-127.0.0.1 pfpc.citygridmedia.com
 
 # citypaper.com
 127.0.0.1 dp.citypaper.com
@@ -7032,7 +7020,6 @@
 127.0.0.1 click-here-to-listen.com
 
 # click-internet.fr
-127.0.0.1 stats.click-internet.fr
 
 # click2boost.com
 127.0.0.1 click2boost.com
@@ -7575,7 +7562,6 @@
 127.0.0.1 metrics.consumerreports.org
 
 # contactmusic.com
-127.0.0.1 ads.contactmusic.com
 
 # content-cooperation.com
 127.0.0.1 content-cooperation.com
@@ -7939,7 +7925,6 @@
 127.0.0.1 ctnetwork.hu
 
 # ctv.ca
-127.0.0.1 metrics.ctv.ca
 
 # ctvdigital.net
 127.0.0.1 metrics.ctvdigital.net
@@ -9771,7 +9756,6 @@
 127.0.0.1 textad.eroticmatch.com
 
 # erotism.com
-127.0.0.1 ads.erotism.com
 
 # erotism.nl
 127.0.0.1 ads.erotism.nl
@@ -11044,9 +11028,6 @@
 # gayfriendfinder.com
 127.0.0.1 banners.gayfriendfinder.com
 
-# gaysexswap.com
-127.0.0.1 cgi.gaysexswap.com
-127.0.0.1 gaysexswap.com
 
 # gazeta.pl
 127.0.0.1 ad.gazeta.pl
@@ -12366,10 +12347,6 @@
 # hitwise.co.uk
 127.0.0.1 images.hitwise.co.uk
 
-# hitx.net
-127.0.0.1 gif.hitx.net
-127.0.0.1 hitx.net
-127.0.0.1 ns1.hitx.net
 
 # hjlas.com
 127.0.0.1 hjlas.com
@@ -13735,7 +13712,6 @@
 127.0.0.1 barafranca.iwarp.com
 
 # iwoop.com
-127.0.0.1 track.iwoop.com
 
 # ixbt.com
 127.0.0.1 rose.ixbt.com
@@ -14013,8 +13989,6 @@
 # keygen.us
 127.0.0.1 keygen.us
 
-# keymedia.hu
-127.0.0.1 keymedia.hu
 
 # keywordblocks.com
 127.0.0.1 ads.keywordblocks.com
@@ -15518,14 +15492,6 @@
 127.0.0.1 158264.measurementapi.com
 
 # medi-8.net
-127.0.0.1 ad.medi-8.net
-127.0.0.1 ads.medi-8.net
-127.0.0.1 js.medi-8.net
-127.0.0.1 ww1.js.medi-8.net
-127.0.0.1 ww17.ads.medi-8.net
-127.0.0.1 ww17.js.medi-8.net
-127.0.0.1 ww25.js.medi-8.net
-127.0.0.1 ww38.js.medi-8.net
 
 # media-click.ru
 127.0.0.1 media-click.ru
@@ -15604,7 +15570,6 @@
 127.0.0.1 mediahorizons.com
 
 # medialeopard.com
-127.0.0.1 toolbarmodal.medialeopard.com
 
 # medialytics.com
 
@@ -15775,7 +15740,6 @@
 127.0.0.1 ceo.microad.co.jp
 127.0.0.1 clinear.microad.co.jp
 127.0.0.1 developers.microad.co.jp
-127.0.0.1 mushu.microad.co.jp
 127.0.0.1 origin-www.microad.co.jp
 127.0.0.1 pachinet.microad.co.jp
 127.0.0.1 recruit.microad.co.jp
@@ -16014,7 +15978,6 @@
 127.0.0.1 mola77.mobilenobo.com
 
 # mobilesidewalk.com
-127.0.0.1 banners.mobilesidewalk.com
 
 # mobilityware.com
 127.0.0.1 ads.mobilityware.com
@@ -16516,9 +16479,6 @@
 127.0.0.1 ftp.nacorp.com
 
 
-# naiadsystems.com
-127.0.0.1 dyn.naiadsystems.com
-127.0.0.1 naiadsystems.com
 
 # naj.sk
 127.0.0.1 naj.sk
@@ -17149,8 +17109,6 @@
 127.0.0.1 log.newsvine.com
 
 # newswatch.co.jp
-127.0.0.1 ra0.newswatch.co.jp
-127.0.0.1 ra1.newswatch.co.jp
 
 # newtabtv.com
 127.0.0.1 newtabtv.com
@@ -17313,8 +17271,6 @@
 
 # nozonedata.com
 
-# npmpecd.com
-127.0.0.1 npmpecd.com
 
 # npr.org
 127.0.0.1 metrics.npr.org
@@ -17794,8 +17750,6 @@
 # orbitel.bg
 127.0.0.1 ad.orbitel.bg
 
-# orbitscripts.com
-127.0.0.1 orbitscripts.com
 
 # oregonlive.com
 127.0.0.1 geoip.oregonlive.com
@@ -18503,7 +18457,6 @@
 127.0.0.1 cnt2.pocitadlo.cz
 
 # pocitadlo.sk
-127.0.0.1 c.pocitadlo.sk
 
 
 # poconorecord.com
@@ -18746,14 +18699,12 @@
 127.0.0.1 ad-dev.primead.jp
 127.0.0.1 adcontents.primead.jp
 127.0.0.1 admin.primead.jp
-127.0.0.1 aoe-report-front-stg.primead.jp
 127.0.0.1 bmp-admin.primead.jp
 127.0.0.1 bmp.primead.jp
 127.0.0.1 cs.primead.jp
 127.0.0.1 dev-adcontents.primead.jp
 127.0.0.1 primead.jp
 127.0.0.1 r.primead.jp
-127.0.0.1 report.primead.jp
 127.0.0.1 s-dev.primead.jp
 127.0.0.1 s.primead.jp
 127.0.0.1 stg-adcontents.primead.jp
@@ -19043,8 +18994,6 @@
 # quickinfo247.com
 127.0.0.1 quickinfo247.com
 
-# quickinspirations.com
-127.0.0.1 quickinspirations.com
 
 # quinst.com
 127.0.0.1 quinst.com
@@ -19475,14 +19424,6 @@
 127.0.0.1 aa.reviewplus.jp
 
 # revolvermaps.com
-127.0.0.1 ja.revolvermaps.com
-127.0.0.1 jc.revolvermaps.com
-127.0.0.1 jf.revolvermaps.com
-127.0.0.1 jg.revolvermaps.com
-127.0.0.1 jh.revolvermaps.com
-127.0.0.1 rc.revolvermaps.com
-127.0.0.1 rg.revolvermaps.com
-127.0.0.1 rh.revolvermaps.com
 
 # rewardsengine.com
 127.0.0.1 rewardsengine.com
@@ -19775,7 +19716,6 @@
 127.0.0.1 ad3.sbs.co.kr
 
 # scabee.com
-127.0.0.1 ads.scabee.com
 
 # scadnet.com
 127.0.0.1 ad.scadnet.com
@@ -20339,7 +20279,6 @@
 127.0.0.1 dr-nights.shinobi.jp
 127.0.0.1 dr-picmo.shinobi.jp
 127.0.0.1 dr-shop.shinobi.jp
-127.0.0.1 dr-upstage-02.shinobi.jp
 127.0.0.1 dr-vanilla.shinobi.jp
 127.0.0.1 file.hanagatamikimono.blog.shinobi.jp
 127.0.0.1 file.kanchigai.blog.shinobi.jp
@@ -20719,8 +20658,6 @@
 # smart-c.jp
 127.0.0.1 smart-c.jp
 
-# smart-ip.net
-127.0.0.1 smart-ip.net
 
 # smartaccess.biz
 127.0.0.1 smartaccess.biz
@@ -20918,8 +20855,6 @@
 # sophus3.com
 127.0.0.1 scripts.sophus3.com
 
-# soraad.jp
-127.0.0.1 soraad.jp
 
 # sourceforge.net
 127.0.0.1 ads.sourceforge.net
@@ -21855,7 +21790,6 @@
 127.0.0.1 test.com
 
 # textad.net
-127.0.0.1 mx01.textad.net
 127.0.0.1 textad.net
 
 # textads.biz
@@ -22137,10 +22071,6 @@
 127.0.0.1 webcounter.together.net
 
 # tongji123.com
-127.0.0.1 ww1.tongji123.com
-127.0.0.1 ww2.tongji123.com
-127.0.0.1 ww3.tongji123.com
-127.0.0.1 ww4.tongji123.com
 
 # tonosama.jp
 127.0.0.1 x6.tonosama.jp
@@ -23323,7 +23253,6 @@
 127.0.0.1 dev.visualwebsiteoptimizer.com
 
 # vitalads.net
-127.0.0.1 optimized.by.vitalads.net
 
 # vitalix.net
 127.0.0.1 ads.vitalix.net
@@ -23375,11 +23304,7 @@
 # volvo.com
 127.0.0.1 webstats.volvo.com
 
-# vomba.com
-127.0.0.1 vomba.com
 
-# vombashots.com
-127.0.0.1 vombashots.com
 
 # vonage.com
 127.0.0.1 a.vonage.com
