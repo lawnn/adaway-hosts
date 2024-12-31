@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2024/12/01
-# block hosts: 13790 entry
+# last updated: 2025/01/01
+# block hosts: 13723 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -1711,8 +1711,6 @@
 127.0.0.1 ads.5ci.lt
 
 # 5i8xkqjmqubv.top
-127.0.0.1 claim-reward.5i8xkqjmqubv.top
-127.0.0.1 downloadapp.5i8xkqjmqubv.top
 
 # 6.cn
 127.0.0.1 shrek.6.cn
@@ -2586,11 +2584,7 @@
 127.0.0.1 addthis.com
 127.0.0.1 cf.addthis.com
 127.0.0.1 p.addthis.com
-127.0.0.1 s3.addthis.com
-127.0.0.1 s5.addthis.com
-127.0.0.1 s7.addthis.com
 127.0.0.1 s8.addthis.com
-127.0.0.1 s9.addthis.com
 127.0.0.1 vp-www.addthis.com
 127.0.0.1 vp2-www.addthis.com
 
@@ -3951,10 +3945,8 @@
 127.0.0.1 en.adtech.info
 
 # adtechus.com
-127.0.0.1 adserver.adtechus.com
 127.0.0.1 aka-cdn-ns.adtechus.com
 127.0.0.1 aka-cdn.adtechus.com
-127.0.0.1 glb.adtechus.com
 
 # adtegrity.com
 127.0.0.1 adtegrity.com
@@ -4058,7 +4050,6 @@
 127.0.0.1 adultmoviemax.com
 
 # adultpartnership.com
-127.0.0.1 adv.adultpartnership.com
 
 # adultplex.com
 127.0.0.1 adultplex.com
@@ -4593,8 +4584,6 @@
 # amateur-porn-links.com
 127.0.0.1 amateur-porn-links.com
 
-# amateurdevils.com
-127.0.0.1 amateurdevils.com
 
 # amateurgalls.com
 
@@ -4691,7 +4680,6 @@
 127.0.0.1 measure.ameblo.jp
 
 # amfibi.com
-127.0.0.1 banners.amfibi.com
 
 # amgdgt.com
 127.0.0.1 ad.amgdgt.com
@@ -5140,7 +5128,6 @@
 127.0.0.1 audiopal.com
 
 # auditude.com
-127.0.0.1 ad.auditude.com
 
 # aureate.com
 127.0.0.1 aureate.com
@@ -5189,8 +5176,6 @@
 # avsforum.com
 127.0.0.1 rev.avsforum.com
 
-# avsystemcare.com
-127.0.0.1 avsystemcare.com
 
 # avusa.co.za
 127.0.0.1 ads.avusa.co.za
@@ -5414,8 +5399,6 @@
 # bannercity.ru
 127.0.0.1 bannercity.ru
 
-# bannerco-op.com
-127.0.0.1 bannerco-op.com
 
 # bannerconnect.com
 127.0.0.1 bannerconnect.com
@@ -5448,8 +5431,6 @@
 # bannermall.com
 127.0.0.1 bannermall.com
 
-# bannermarkt.nl
-127.0.0.1 bannermarkt.nl
 
 # bannermat.com
 127.0.0.1 bannermat.com
@@ -5467,8 +5448,6 @@
 # bannerserver.com
 127.0.0.1 bannerserver.com
 
-# bannersgomlm.com
-127.0.0.1 bannersgomlm.com
 
 # bannerspace.com
 127.0.0.1 bannerspace.com
@@ -5505,7 +5484,6 @@
 127.0.0.1 basemultimedia.com
 
 # batanga.com
-127.0.0.1 ad.batanga.com
 
 # bauerverlag.de
 127.0.0.1 ad.bauerverlag.de
@@ -5842,7 +5820,6 @@
 127.0.0.1 feed.bizzclick.com
 
 # bkrtx.com
-127.0.0.1 tags.bkrtx.com
 
 # black-diamond.asia
 127.0.0.1 black-diamond.asia
@@ -5992,7 +5969,6 @@
 
 # bluekai.com
 127.0.0.1 bluekai.com
-127.0.0.1 tags.bluekai.com
 
 # bluemongoose.com
 127.0.0.1 ads.bluemongoose.com
@@ -6074,9 +6050,6 @@
 127.0.0.1 bongacams.com
 
 # bonnint.net
-127.0.0.1 ads.bonnint.net
-127.0.0.1 media.bonnint.net
-127.0.0.1 stocker.bonnint.net
 
 # bookingbuddy.com
 127.0.0.1 stats.bookingbuddy.com
@@ -7865,9 +7838,6 @@
 127.0.0.1 sapatoru.widget.criteo.com
 127.0.0.1 widget.criteo.com
 
-# criteo.net
-127.0.0.1 criteo.net
-127.0.0.1 static.eu.criteo.net
 
 # crooz.jp
 127.0.0.1 adck.crooz.jp
@@ -8062,8 +8032,6 @@
 # damnpervert.com
 127.0.0.1 ad.damnpervert.com
 
-# danban.com
-127.0.0.1 danban.com
 
 # daoblocks.com
 127.0.0.1 daoblocks.com
@@ -8210,8 +8178,6 @@
 127.0.0.1 mark001.deqwas.net
 127.0.0.1 sv2.deqwas.net
 
-# dermadoctoraffiliates.com
-127.0.0.1 dermadoctoraffiliates.com
 
 # deseoasiatico.com
 127.0.0.1 banners.deseoasiatico.com
@@ -8790,8 +8756,6 @@
 # dotcom-monitor.com
 127.0.0.1 dotcom-monitor.com
 
-# dotcommedia.de
-127.0.0.1 dotcommedia.de
 
 # doteasy.com
 127.0.0.1 adserve.doteasy.com
@@ -10897,7 +10861,6 @@
 127.0.0.1 psp.g123.jp
 127.0.0.1 reward-sc.g123.jp
 127.0.0.1 s.g123.jp
-127.0.0.1 shop.g123.jp
 127.0.0.1 stg.g123.jp
 127.0.0.1 yyhijp.g123.jp
 
@@ -11566,8 +11529,6 @@
 127.0.0.1 buttons.googlesyndication.com
 127.0.0.1 tpc.googlesyndication.com
 
-# googlle.in
-127.0.0.1 googlle.in
 
 
 # gopopup.com
@@ -13321,7 +13282,6 @@
 127.0.0.1 stats.infomedia.net
 
 # infomediainc.com
-127.0.0.1 ads.infomediainc.com
 
 # information.com
 127.0.0.1 information.com
@@ -13341,7 +13301,6 @@
 127.0.0.1 infotop.jp
 
 # ingatlan.com
-127.0.0.1 img.ingatlan.com
 
 # initgroup.com
 127.0.0.1 initgroup.com
@@ -13810,8 +13769,6 @@
 # join4free.com
 
 # joinaxxess.com
-127.0.0.1 ad.joinaxxess.com
-127.0.0.1 content.joinaxxess.com
 
 # joins.com
 127.0.0.1 counter.joins.com
@@ -14052,7 +14009,6 @@
 127.0.0.1 kiwicasino.com
 
 # kleinezeitung.at
-127.0.0.1 static.kleinezeitung.at
 
 # klick4u.de
 127.0.0.1 klick4u.de
@@ -14142,7 +14098,6 @@
 # krxd.net
 
 # ksl.com
-127.0.0.1 ads.ksl.com
 127.0.0.1 banners.ksl.com
 
 
@@ -14265,8 +14220,6 @@
 # leadzu.com
 127.0.0.1 play.leadzu.com
 
-# leaffi.jp
-127.0.0.1 leaffi.jp
 
 # lef.org
 
@@ -14386,9 +14339,6 @@
 127.0.0.1 linkads.de
 
 # linkbucks.com
-127.0.0.1 6f307e35.linkbucks.com
-127.0.0.1 ad3.linkbucks.com
-127.0.0.1 ads.linkbucks.com
 
 # linkbuddies.com
 127.0.0.1 banners.linkbuddies.com
@@ -15451,7 +15401,6 @@
 127.0.0.1 banner.maxximum.org
 
 # maxymiser.net
-127.0.0.1 service.maxymiser.net
 
 # mb01.com
 127.0.0.1 mb01.com
@@ -15738,13 +15687,10 @@
 # microad.co.jp
 127.0.0.1 app.microad.co.jp
 127.0.0.1 ceo.microad.co.jp
-127.0.0.1 clinear.microad.co.jp
 127.0.0.1 developers.microad.co.jp
 127.0.0.1 origin-www.microad.co.jp
-127.0.0.1 pachinet.microad.co.jp
 127.0.0.1 recruit.microad.co.jp
 127.0.0.1 shirareru.microad.co.jp
-127.0.0.1 syukatsu-ad.microad.co.jp
 127.0.0.1 universe-entry.microad.co.jp
 127.0.0.1 universe.microad.co.jp
 127.0.0.1 universeblog.microad.co.jp
@@ -15948,7 +15894,6 @@
 127.0.0.1 ft.moad.cn
 
 # moatads.com
-127.0.0.1 js.moatads.com
 127.0.0.1 moatads.com
 
 # moba8.net
@@ -16004,7 +15949,6 @@
 127.0.0.1 mobus.cn
 
 # mobvault.com
-127.0.0.1 track.mobvault.com
 
 # mocean.mobi
 127.0.0.1 mocean.mobi
@@ -17095,7 +17039,6 @@
 127.0.0.1 oascentral.newsmax.com
 
 # newsnet5.com
-127.0.0.1 scrooge.newsnet5.com
 
 # newsok.com
 
@@ -17123,10 +17066,6 @@
 127.0.0.1 connect.newzia.jp
 
 # nexac.com
-127.0.0.1 e.nexac.com
-127.0.0.1 p.nexac.com
-127.0.0.1 tmp.nexac.com
-127.0.0.1 turn.nexac.com
 
 # nexage.com
 127.0.0.1 admax.nexage.com
@@ -17387,7 +17326,6 @@
 127.0.0.1 ads.nzcity.co.nz
 
 # o-networkaffiliates.com
-127.0.0.1 ads.o-networkaffiliates.com
 
 # o2.pl
 127.0.0.1 adfiles.o2.pl.sds.o2.pl
@@ -17455,7 +17393,6 @@
 127.0.0.1 offermatica.com
 
 # offsidebet.com
-127.0.0.1 ads.offsidebet.com
 
 # ofsnetwork.com
 
@@ -18155,8 +18092,6 @@
 # peakclick.com
 127.0.0.1 peakclick.com
 
-# peakcounter.dk
-127.0.0.1 peakcounter.dk
 
 # pearch.net
 127.0.0.1 pearch.net
@@ -19194,7 +19129,6 @@
 127.0.0.1 adserver.realhomesex.net
 
 # realist.gen.tr
-127.0.0.1 ad.realist.gen.tr
 
 # realitycash.com
 127.0.0.1 banners.realitycash.com
@@ -19934,7 +19868,6 @@
 127.0.0.1 seervicee.info
 
 # seesaa.jp
-127.0.0.1 match.seesaa.jp
 127.0.0.1 sda.seesaa.jp
 
 # seesaa.net
@@ -20067,15 +20000,10 @@
 # sexspaces.net
 127.0.0.1 ads.sexspaces.net
 
-# sexswap.com
-127.0.0.1 cgi.sexswap.com
-127.0.0.1 sexswap.com
 
 # sexswap2.com
-127.0.0.1 cgi.sexswap2.com
 
 # sexswap2000.com
-127.0.0.1 cgi.sexswap2000.com
 
 # sextracker.be
 127.0.0.1 banners.sextracker.be
@@ -21309,7 +21237,6 @@
 127.0.0.1 ads.sup.com
 
 # superclix.de
-127.0.0.1 clix.superclix.de
 127.0.0.1 superclix.de
 
 # supereva.it
@@ -21349,9 +21276,6 @@
 # superstats.de
 127.0.0.1 superstats.de
 
-# superstats.nl
-127.0.0.1 stats.superstats.nl
-127.0.0.1 superstats.nl
 
 # supertop.ru
 127.0.0.1 supertop.ru
@@ -23170,7 +23094,6 @@
 127.0.0.1 web.vindicosuite.com
 
 # vipstat.com
-127.0.0.1 stat1.vipstat.com
 
 # viraladnetwork.net
 127.0.0.1 syndication1.viraladnetwork.net
@@ -23429,8 +23352,6 @@
 127.0.0.1 js.waqool.com
 127.0.0.1 waqool.com
 
-# warlog.ru
-127.0.0.1 warlog.ru
 
 # warnerbros.com
 127.0.0.1 ng3.ads.warnerbros.com
@@ -23574,7 +23495,6 @@
 127.0.0.1 ad.webdice.jp
 
 # webdifusao-server.com
-127.0.0.1 advert.webdifusao-server.com
 
 # webgains.com
 127.0.0.1 track.webgains.com
@@ -24224,7 +24144,6 @@
 127.0.0.1 ad-personalize-center.yahoo.co.jp
 127.0.0.1 ads-developers.yahoo.co.jp
 127.0.0.1 ads-feedback.yahoo.co.jp
-127.0.0.1 ads-help.yahoo.co.jp
 127.0.0.1 ads-promo.yahoo.co.jp
 127.0.0.1 ads.yahoo.co.jp
 127.0.0.1 ard.yahoo.co.jp
@@ -24653,7 +24572,6 @@
 127.0.0.1 x5.zouri.jp
 
 # zryydi.com
-127.0.0.1 ssp.zryydi.com
 
 # ztrack.net
 127.0.0.1 ztrack.net
