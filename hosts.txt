@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2025/01/01
-# block hosts: 13723 entry
+# last updated: 2025/02/01
+# block hosts: 13669 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -61,8 +61,6 @@
 
 
 # 123go.net
-127.0.0.1 ns1.123go.net
-127.0.0.1 ns2.123go.net
 
 # 123stat.com
 127.0.0.1 123stat.com
@@ -115,7 +113,6 @@
 127.0.0.1 2001positions.com
 
 # 2020search.com
-127.0.0.1 ws1.2020search.com
 
 # 207.net
 127.0.0.1 10.122.207.net
@@ -1973,7 +1970,6 @@
 127.0.0.1 itr.ad.abema.io
 127.0.0.1 kickback.ad.abema.io
 127.0.0.1 ltrk.ad.abema.io
-127.0.0.1 sponsored.ad.abema.io
 127.0.0.1 stg-bs.ad.abema.io
 127.0.0.1 stg-etc.ad.abema.io
 127.0.0.1 stg-kickback.ad.abema.io
@@ -2103,7 +2099,6 @@
 127.0.0.1 uk.activeshopper.com
 
 # activestate.com
-127.0.0.1 ads.activestate.com
 
 # actualdeals.com
 127.0.0.1 actualdeals.com
@@ -2582,9 +2577,7 @@
 
 # addthis.com
 127.0.0.1 addthis.com
-127.0.0.1 cf.addthis.com
 127.0.0.1 p.addthis.com
-127.0.0.1 s8.addthis.com
 127.0.0.1 vp-www.addthis.com
 127.0.0.1 vp2-www.addthis.com
 
@@ -2631,7 +2624,6 @@
 127.0.0.1 adfair.se
 
 # adfclick1.com
-127.0.0.1 xml.adfclick1.com
 
 # adfirmative.com
 127.0.0.1 222-33544_999.pub.adfirmative.com
@@ -3701,8 +3693,6 @@
 # ads-bg.net
 127.0.0.1 ads-bg.net
 
-# ads-click.com
-127.0.0.1 ads-click.com
 
 # ads-connect.com
 127.0.0.1 ads-connect.com
@@ -4526,8 +4516,6 @@
 # alleliteads.com
 127.0.0.1 cdn.alleliteads.com
 
-# allinsearch.net
-127.0.0.1 allinsearch.net
 
 # allposters.com
 127.0.0.1 affiliates.allposters.com
@@ -5438,9 +5426,6 @@
 # bannernetwork.it
 127.0.0.1 ad.bannernetwork.it
 
-# bannerpoint.ru
-127.0.0.1 ad.bannerpoint.ru
-127.0.0.1 bannerpoint.ru
 
 # bannerpower.com
 127.0.0.1 bannerpower.com
@@ -5477,8 +5462,6 @@
 127.0.0.1 adserver.barrapunto.com
 
 # basal.ca
-127.0.0.1 admin.ads.basal.ca
-127.0.0.1 ads.basal.ca
 
 # basemultimedia.com
 127.0.0.1 basemultimedia.com
@@ -5575,7 +5558,6 @@
 127.0.0.1 belstat.nl
 
 # belugaboost.com
-127.0.0.1 ad.belugaboost.com
 
 # bemobtrk.com
 127.0.0.1 4s2g1.bemobtrk.com
@@ -6433,7 +6415,6 @@
 127.0.0.1 show.buzzcity.net
 
 # buzzsession.com
-127.0.0.1 tgp.buzzsession.com
 
 # bwin90.com
 127.0.0.1 bwin90.com
@@ -9827,8 +9808,6 @@
 # eurorevenue.com
 127.0.0.1 geoads.eurorevenue.com
 
-# euros4click.de
-127.0.0.1 euros4click.de
 
 # eurosponsor.de
 127.0.0.1 eurosponsor.de
@@ -10568,7 +10547,6 @@
 127.0.0.1 forex-affiliate.net
 
 # formulas.jp
-127.0.0.1 opr.formulas.jp
 
 # fortunecity.com
 127.0.0.1 ads.fortunecity.com
@@ -11358,7 +11336,6 @@
 127.0.0.1 stg-ads-eg.glossom.jp
 
 # glossymedia.pl
-127.0.0.1 ad.glossymedia.pl
 
 # glssp.jp
 127.0.0.1 glssp.jp
@@ -11588,7 +11565,6 @@
 127.0.0.1 ads.goyk.com
 
 # gplusmedia.com
-127.0.0.1 ads.gplusmedia.com
 
 # gpr.hu
 127.0.0.1 gpr.hu
@@ -14310,8 +14286,6 @@
 # linezing.com
 127.0.0.1 js.tongji.linezing.com
 
-# link-a.net
-127.0.0.1 link-a.net
 
 # link-ag.net
 127.0.0.1 link-ag.net
@@ -14404,11 +14378,7 @@
 127.0.0.1 links-ranking.de
 
 # linkshare.com
-127.0.0.1 imap.linkshare.com
 127.0.0.1 linkshare.com
-127.0.0.1 mail.linkshare.com
-127.0.0.1 staging-goldcrown.linkshare.com
-127.0.0.1 staging-hallmark.linkshare.com
 
 # linkshare.jp
 127.0.0.1 r-ad.linkshare.jp
@@ -14989,8 +14959,6 @@
 127.0.0.1 linkexchange.lk.net
 
 # llnwd.net
-127.0.0.1 appnext.hs.llnwd.net
-127.0.0.1 wbads.vo.llnwd.net
 
 # loading-delivery2.com
 127.0.0.1 loading-delivery2.com
@@ -15697,50 +15665,34 @@
 127.0.0.1 www.microad.co.jp
 
 # microad.jp
-127.0.0.1 adf.send.microad.jp
-127.0.0.1 adfp.send.microad.jp
 127.0.0.1 aid.send.microad.jp
-127.0.0.1 cache.microad.jp
 127.0.0.1 cache.send.microad.jp
-127.0.0.1 cache.ssend.microad.jp
 127.0.0.1 caumii.microad.jp
 127.0.0.1 cdn.microad.jp
-127.0.0.1 cm.send.microad.jp
 127.0.0.1 compass.microad.jp
 127.0.0.1 cross-border.microad.jp
-127.0.0.1 d-cache.microad.jp
-127.0.0.1 d-track.send.microad.jp
 127.0.0.1 deb.send.microad.jp
 127.0.0.1 demand-services-lp.microad.jp
 127.0.0.1 demand-services.microad.jp
 127.0.0.1 dex.microad.jp
-127.0.0.1 dex.send.microad.jp
 127.0.0.1 east.microad.jp
 127.0.0.1 item.microad.jp
 127.0.0.1 kyushu.microad.jp
 127.0.0.1 ld.send.microad.jp
-127.0.0.1 linx-cache.microad.jp
 127.0.0.1 linx.microad.jp
 127.0.0.1 linx.send.microad.jp
 127.0.0.1 machiage.microad.jp
 127.0.0.1 microad.jp
-127.0.0.1 msend.microad.jp
-127.0.0.1 prcache.microad.jp
 127.0.0.1 redash.microad.jp
-127.0.0.1 s-cm.send.microad.jp
 127.0.0.1 s-cs.send.microad.jp
 127.0.0.1 s-rtb-pb.send.microad.jp
 127.0.0.1 s-rtb.send.microad.jp
 127.0.0.1 send.microad.jp
 127.0.0.1 shirareru-match.microad.jp
-127.0.0.1 spvsc.send.microad.jp
-127.0.0.1 ssend.microad.jp
 127.0.0.1 ssp.send.microad.jp
-127.0.0.1 track.send.microad.jp
 127.0.0.1 u-dynamic-item.microad.jp
 127.0.0.1 universe.send.microad.jp
 127.0.0.1 v6.send.microad.jp
-127.0.0.1 vsc.send.microad.jp
 
 # microad.net
 127.0.0.1 i.microad.net
@@ -16233,8 +16185,6 @@
 # muwmedia.com
 127.0.0.1 muwmedia.com
 
-# mvmads.com
-127.0.0.1 mvmads.com
 
 # mw.hu
 127.0.0.1 toplista.mw.hu
@@ -17564,8 +17514,6 @@
 # onlybestsex.com
 127.0.0.1 onlybestsex.com
 
-# onlybigmovies.com
-127.0.0.1 onlybigmovies.com
 
 # onlyfind.net
 127.0.0.1 onlyfind.net
@@ -17671,7 +17619,6 @@
 
 # orangeads.fr
 127.0.0.1 all.orfr.adgtw.orangeads.fr
-127.0.0.1 ap.read.mediation.pns.ap.orangeads.fr
 
 # orangesoda.com
 127.0.0.1 orangesoda.com
@@ -18732,8 +18679,6 @@
 127.0.0.1 www.promosocialjp.com
 
 # promosrv.com
-127.0.0.1 cdn.g.promosrv.com
-127.0.0.1 g.promosrv.com
 
 # pronetadvertising.com
 127.0.0.1 pronetadvertising.com
@@ -19213,8 +19158,6 @@
 127.0.0.1 ru.redtram.com
 
 
-# redvertisment.com
-127.0.0.1 redvertisment.com
 
 # redzip.com
 127.0.0.1 redzip.com
@@ -19862,7 +19805,6 @@
 127.0.0.1 seekio.com
 
 # seenon.com
-127.0.0.1 metrics.seenon.com
 
 # seervicee.info
 127.0.0.1 seervicee.info
@@ -20175,7 +20117,6 @@
 127.0.0.1 dmm-ac.shinobi.jp
 127.0.0.1 dmm-dj.shinobi.jp
 127.0.0.1 dmm-drt.shinobi.jp
-127.0.0.1 dr-cocoa.shinobi.jp
 127.0.0.1 dr-dlsite-01.shinobi.jp
 127.0.0.1 dr-dlsite-02.shinobi.jp
 127.0.0.1 dr-dmm-order-pc.shinobi.jp
@@ -20201,7 +20142,6 @@
 127.0.0.1 dr-heaven-56.shinobi.jp
 127.0.0.1 dr-heaven-57.shinobi.jp
 127.0.0.1 dr-heaven-58.shinobi.jp
-127.0.0.1 dr-heaven-gate.shinobi.jp
 127.0.0.1 dr-mens-vanilla.shinobi.jp
 127.0.0.1 dr-mgstage.shinobi.jp
 127.0.0.1 dr-nights.shinobi.jp
@@ -21164,7 +21104,6 @@
 127.0.0.1 clicks.stripsaver.com
 
 # stznews.bg
-127.0.0.1 adv.stznews.bg
 
 # subcul.net
 127.0.0.1 g.subcul.net
@@ -22029,8 +21968,6 @@
 # topc.org
 127.0.0.1 hit.topc.org
 
-# topflownews.com
-127.0.0.1 topflownews.com
 
 # toplist.cz
 127.0.0.1 toplist.cz
@@ -22241,7 +22178,6 @@
 127.0.0.1 adserver.trader.ca
 
 # traderonline.com
-127.0.0.1 sdc.traderonline.com
 
 # tradetracker.net
 127.0.0.1 rotator.tradetracker.net
@@ -22564,8 +22500,6 @@
 127.0.0.1 ct2.turubeotoshi.com
 127.0.0.1 x8.turubeotoshi.com
 
-# tutvp.com
-127.0.0.1 tutvp.com
 
 # tv-tokyo.co.jp
 127.0.0.1 videoad.tv-tokyo.co.jp
@@ -23701,8 +23635,6 @@
 # whoisonline.net
 127.0.0.1 whoisonline.net
 
-# wholeactualjournal.com
-127.0.0.1 wholeactualjournal.com
 
 # wholesalegopher.com
 127.0.0.1 wholesalegopher.com
