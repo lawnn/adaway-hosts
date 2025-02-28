@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2025/02/01
-# block hosts: 13669 entry
+# last updated: 2025/03/01
+# block hosts: 13599 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -2322,7 +2322,6 @@
 127.0.0.1 ad-x.com
 
 # ad1data.com
-127.0.0.1 go.ad1data.com
 
 # ad20.net
 127.0.0.1 content.ad20.net
@@ -2335,7 +2334,6 @@
 127.0.0.1 ad.ad24.ru
 
 # ad2click.nl
-127.0.0.1 cms.ad2click.nl
 
 
 # ad4game.com
@@ -3736,8 +3734,6 @@
 # adsafeprotected.com
 127.0.0.1 pixel.adsafeprotected.com
 
-# adsage.com
-127.0.0.1 adsage.com
 
 # adsame.com
 127.0.0.1 adsame.com
@@ -3914,17 +3910,11 @@
 
 # adtdp.com
 127.0.0.1 acs.adtdp.com
-127.0.0.1 adp-pubd-static.adtdp.com
 127.0.0.1 as.amanad.adtdp.com
 127.0.0.1 cdn.amanad.adtdp.com
 
 # adtech.de
-127.0.0.1 ad-dc2.adtech.de
-127.0.0.1 adserver.adtech.de
 127.0.0.1 adtech.de
-127.0.0.1 glbad.adtech.de
-127.0.0.1 im.adtech.de
-127.0.0.1 secserv.adtech.de
 
 # adtech.fr
 127.0.0.1 corba.adtech.fr
@@ -3935,8 +3925,6 @@
 127.0.0.1 en.adtech.info
 
 # adtechus.com
-127.0.0.1 aka-cdn-ns.adtechus.com
-127.0.0.1 aka-cdn.adtechus.com
 
 # adtegrity.com
 127.0.0.1 adtegrity.com
@@ -4135,7 +4123,6 @@
 127.0.0.1 advertisingbanners.com
 
 # advertist.com
-127.0.0.1 adserver.advertist.com
 
 # advertmarket.com
 127.0.0.1 advertmarket.com
@@ -4267,8 +4254,6 @@
 # af-ad.co.uk
 127.0.0.1 af-ad.co.uk
 
-# af-next.com
-127.0.0.1 af-next.com
 
 # afdads.com
 127.0.0.1 d.afdads.com
@@ -5066,8 +5051,6 @@
 
 # atwola.com
 127.0.0.1 ar.atwola.com
-127.0.0.1 at.atwola.com
-127.0.0.1 cdn.at.atwola.com
 127.0.0.1 cdn.atwola.com
 
 # atype.jp
@@ -5244,8 +5227,6 @@
 127.0.0.1 b3d.com
 
 # baazee.com
-127.0.0.1 ads.baazee.com
-127.0.0.1 affiliate.baazee.com
 
 # babe-girls.com
 127.0.0.1 babe-girls.com
@@ -5275,7 +5256,6 @@
 127.0.0.1 backtype.com
 
 # badische-zeitung.de
-127.0.0.1 ads.badische-zeitung.de
 
 # badoink.com
 127.0.0.1 badoink.com
@@ -5484,10 +5464,7 @@
 127.0.0.1 img.bbchat.tv
 
 # bbelements.com
-127.0.0.1 bbcdn.go.cz.bbelements.com
 127.0.0.1 bbelements.com
-127.0.0.1 go.cz.bbelements.com
-127.0.0.1 go.eu.bbelements.com
 
 # bbs7.com
 127.0.0.1 bbs7.com
@@ -5509,7 +5486,6 @@
 127.0.0.1 bde3d.com
 
 # be2hand.com
-127.0.0.1 ads.be2hand.com
 
 # become.co.jp
 127.0.0.1 partner.become.co.jp
@@ -6363,7 +6339,6 @@
 127.0.0.1 bullseye-media.net
 
 # bumq.com
-127.0.0.1 ads.bumq.com
 
 # burstnet.com
 127.0.0.1 ads.burstnet.com
@@ -7224,7 +7199,6 @@
 127.0.0.1 cmsmulti.com
 
 # cnbc.com
-127.0.0.1 ads.cnbc.com
 
 # cnet.co.uk
 127.0.0.1 om.cnet.co.uk
@@ -7802,8 +7776,6 @@
 127.0.0.1 metrics.creditreport.com
 
 # crispadvertising.com
-127.0.0.1 cdn1.crispadvertising.com
-127.0.0.1 cdn2.crispadvertising.com
 127.0.0.1 crispadvertising.com
 
 # criteo.com
@@ -7878,7 +7850,6 @@
 # ctv.ca
 
 # ctvdigital.net
-127.0.0.1 metrics.ctvdigital.net
 
 # current.com
 127.0.0.1 i2.current.com
@@ -8083,7 +8054,6 @@
 127.0.0.1 decknetwork.net
 
 # declicnet.com
-127.0.0.1 cgi.declicnet.com
 
 # deepcom.com
 127.0.0.1 deepcom.com
@@ -9845,7 +9815,6 @@
 127.0.0.1 a.evo.co.uk
 
 # evolvemediametrics.com
-127.0.0.1 cdn.siteanalytics.evolvemediametrics.com
 
 # evtv1.com
 127.0.0.1 ads.evtv1.com
@@ -9946,7 +9915,6 @@
 127.0.0.1 click.expandsearchanswers.com
 
 # expat-blog.biz
-127.0.0.1 ads.expat-blog.biz
 
 # expaus.in
 127.0.0.1 affiliates.expaus.in
@@ -10381,7 +10349,6 @@
 127.0.0.1 flexbanner.com
 
 # flightsim.com
-127.0.0.1 ads.flightsim.com
 
 # fliks.net
 127.0.0.1 img.fliks.net
@@ -10497,10 +10464,6 @@
 127.0.0.1 sj-g-lbs.focalink.com
 
 # focas.jp
-127.0.0.1 adroute.focas.jp
-127.0.0.1 pc-adroute.focas.jp
-127.0.0.1 static.adroute.focas.jp
-127.0.0.1 static.pc-adroute.focas.jp
 
 # focus-news.net
 127.0.0.1 ads.focus-news.net
@@ -10812,9 +10775,6 @@
 # fx-on.com
 127.0.0.1 fx-on.com
 
-# fxclix.com
-127.0.0.1 ads.fxclix.com
-127.0.0.1 fxclix.com
 
 # fxcm.co.uk
 127.0.0.1 static.fxcm.co.uk
@@ -10912,7 +10872,6 @@
 127.0.0.1 adserver.gameparty.net
 
 # gamesbannernet.com
-127.0.0.1 ads.gamesbannernet.com
 
 # gamesites200.com
 127.0.0.1 gamesites200.com
@@ -12233,7 +12192,6 @@
 127.0.0.1 wwd.hitbox.com
 
 # hitcents.com
-127.0.0.1 ads.hitcents.com
 
 # hitfire.com
 127.0.0.1 hitfire.com
@@ -13942,7 +13900,6 @@
 127.0.0.1 adserve.kikizo.com
 
 # king.com
-127.0.0.1 adtrack.king.com
 
 # king5.com
 127.0.0.1 metrics.king5.com
@@ -15264,7 +15221,6 @@
 127.0.0.1 marchex.com
 
 # mariuana.it
-127.0.0.1 ads.mariuana.it
 
 # marketbrowser.com
 127.0.0.1 marketbrowser.com
@@ -15310,8 +15266,6 @@
 127.0.0.1 masterstats.com
 
 # match.com
-127.0.0.1 ads.affiliates.match.com
-127.0.0.1 associmage.match.com
 
 # matchbin.com
 127.0.0.1 ads.matchbin.com
@@ -16771,7 +16725,6 @@
 127.0.0.1 netagent.cz
 
 # netapp.com
-127.0.0.1 ometrics.netapp.com
 
 # netavenir.com
 127.0.0.1 engine.espace.netavenir.com
@@ -16831,18 +16784,12 @@
 127.0.0.1 ad.netmedia.hu
 
 # netmining.com
-127.0.0.1 controlroom.netmining.com
-127.0.0.1 evo5-com-netmining.netmining.com
-127.0.0.1 lmdemo.netmining.com
-127.0.0.1 nl-moneyou.netmining.com
-127.0.0.1 nl-saab.netmining.com
 
 # netmng.com
 127.0.0.1 a.netmng.com
 127.0.0.1 brnys.netmng.com
 127.0.0.1 com-kodak.netmng.com
 127.0.0.1 nbcustr.netmng.com
-127.0.0.1 rakujp.netmng.com
 127.0.0.1 rbk.netmng.com
 127.0.0.1 si.netmng.com
 
@@ -16992,8 +16939,6 @@
 
 # newsok.com
 
-# newstarads.com
-127.0.0.1 newstarads.com
 
 # newstogram.com
 127.0.0.1 da.newstogram.com
@@ -17286,7 +17231,6 @@
 127.0.0.1 o2onbusiness.de
 
 # o2u.jp
-127.0.0.1 a.o2u.jp
 
 # oainternetservices.com
 
@@ -17525,7 +17469,6 @@
 127.0.0.1 onstunkyr.com
 
 # ontargetjobs.com
-127.0.0.1 at.ontargetjobs.com
 
 # onvictinitor.com
 127.0.0.1 onvictinitor.com
@@ -18784,8 +18727,6 @@
 # pvk.jp
 127.0.0.1 pvk.jp
 
-# pwwysydh.com
-127.0.0.1 pwwysydh.com
 
 # qckjmp.com
 127.0.0.1 c.qckjmp.com
@@ -19325,8 +19266,6 @@
 # rg1.com
 127.0.0.1 rg1.com
 
-# rg4.com
-127.0.0.1 rg4.com
 
 # rg6.com
 127.0.0.1 rg6.com
@@ -19697,8 +19636,6 @@
 127.0.0.1 ad.searchhound.com
 
 # searchingbooth.com
-127.0.0.1 ads.searchingbooth.com
-127.0.0.1 banners.searchingbooth.com
 
 # searchmagnified.com
 127.0.0.1 searchmagnified.com
@@ -19876,8 +19813,6 @@
 127.0.0.1 errors.servik.com
 
 # serving-sys.com
-127.0.0.1 activity.serving-sys.com
-127.0.0.1 ds.serving-sys.com
 
 # setcounter.com
 127.0.0.1 setcounter.com
@@ -21751,7 +21686,6 @@
 127.0.0.1 gcirm.theolympian.com
 
 # theonering.net
-127.0.0.1 adserver.theonering.net
 
 # theonion.com
 127.0.0.1 oascentral.theonion.com
@@ -21858,8 +21792,6 @@
 # tinami.com
 127.0.0.1 webstat.tinami.com
 
-# tinbuadserv.com
-127.0.0.1 tinbuadserv.com
 
 # tinet.ie
 127.0.0.1 ads.tinet.ie
@@ -22530,7 +22462,6 @@
 127.0.0.1 gts-ads.twistbox.com
 
 # twistyscash.com
-127.0.0.1 promo.twistyscash.com
 
 # twitpic.com
 127.0.0.1 adserver.twitpic.com
@@ -22545,8 +22476,6 @@
 127.0.0.1 ads.twitter.com
 
 # twyn.com
-127.0.0.1 et.twyn.com
-127.0.0.1 tracknet.twyn.com
 
 # tx2.ru
 127.0.0.1 tx2.ru
@@ -22753,7 +22682,6 @@
 127.0.0.1 usachoice.net
 
 # usagc.org
-127.0.0.1 html.usagc.org
 
 # usatoday.com
 127.0.0.1 ad.usatoday.com
@@ -22956,8 +22884,6 @@
 # veryfunnyads.com
 127.0.0.1 metrics.veryfunnyads.com
 
-# vexacion.com
-127.0.0.1 vexacion.com
 
 # vgchartz.com
 127.0.0.1 ads.vgchartz.com
@@ -22978,8 +22904,6 @@
 # viaarena.com
 127.0.0.1 ads.viaarena.com
 
-# vibrantmedia.com
-127.0.0.1 vibrantmedia.com
 
 # vicp.net
 127.0.0.1 goldbye.vicp.net
@@ -23172,8 +23096,6 @@
 # vortexmediagroup.com
 127.0.0.1 ads2.vortexmediagroup.com
 
-# vote4me.de
-127.0.0.1 vote4me.de
 
 # voyages-sncf.com
 127.0.0.1 stats.voyages-sncf.com
@@ -23463,7 +23385,6 @@
 127.0.0.1 ads2.weblogssl.com
 
 # webmasterplan.com
-127.0.0.1 partners.webmasterplan.com
 
 # webmasterplan.de
 127.0.0.1 webmasterplan.de
