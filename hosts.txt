@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2025/03/01
-# block hosts: 13599 entry
+# last updated: 2025/04/01
+# block hosts: 13463 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -2467,14 +2467,12 @@
 # adcolony.com
 127.0.0.1 adc-launch-gcp-dev.adcolony.com
 127.0.0.1 adc-launch-gcp-stage.adcolony.com
-127.0.0.1 adc3-assets.adcolony.com
 127.0.0.1 adc3-launch.adcolony.com
 127.0.0.1 adcolony.com
 127.0.0.1 ads.adcolony.com
 127.0.0.1 ads20.adcolony.com
 127.0.0.1 ads30.adcolony.com
 127.0.0.1 adserver-gcp-v2.adcolony.com
-127.0.0.1 alpha-assets.adcolony.com
 127.0.0.1 androidads20.adcolony.com
 127.0.0.1 androidads20staging.adcolony.com
 127.0.0.1 androidads21.adcolony.com
@@ -3510,8 +3508,6 @@
 # administrator.de
 127.0.0.1 ads.administrator.de
 
-# adminshop.com
-127.0.0.1 adminshop.com
 
 # admission.net
 127.0.0.1 appcache.admission.net
@@ -3656,8 +3652,6 @@
 # adreactor.com
 127.0.0.1 adserver.adreactor.com
 
-# adreadytractions.com
-127.0.0.1 adreadytractions.com
 
 # adrenalads.com
 127.0.0.1 api.adrenalads.com
@@ -4656,7 +4650,6 @@
 
 # amgdgt.com
 127.0.0.1 ad.amgdgt.com
-127.0.0.1 at.amgdgt.com
 127.0.0.1 cdn.amgdgt.com
 
 # amh.sh
@@ -4904,13 +4897,6 @@
 127.0.0.1 zenpie-adoption.appspot.com
 
 # appstores.com
-127.0.0.1 austin2011.appstores.com
-127.0.0.1 infochimps.appstores.com
-127.0.0.1 nick.appstores.com
-127.0.0.1 photohackday.appstores.com
-127.0.0.1 sfmusictech.appstores.com
-127.0.0.1 techcrunch.appstores.com
-127.0.0.1 topix.appstores.com
 
 # apptornado.com
 127.0.0.1 detector.apptornado.com
@@ -4932,8 +4918,6 @@
 127.0.0.1 network.aptimus.com
 
 
-# aqueduct.com
-127.0.0.1 aqueduct.com
 
 # arachne.cz
 127.0.0.1 arachne.cz
@@ -5923,7 +5907,6 @@
 
 # bluehornet.com
 127.0.0.1 bluehornet.com
-127.0.0.1 echo4.bluehornet.com
 
 # bluekai.com
 127.0.0.1 bluekai.com
@@ -6285,7 +6268,6 @@
 127.0.0.1 oascentral.bristolpress.com
 
 # britishgas.co.uk
-127.0.0.1 webtrends1.britishgas.co.uk
 
 # broadjump.com
 127.0.0.1 broadjump.com
@@ -6385,9 +6367,6 @@
 127.0.0.1 ct2.buzama.com
 
 # buzzcity.net
-127.0.0.1 apps.buzzcity.net
-127.0.0.1 click.buzzcity.net
-127.0.0.1 show.buzzcity.net
 
 # buzzsession.com
 
@@ -6974,8 +6953,6 @@
 127.0.0.1 clickagents.com
 127.0.0.1 st.clickagents.com
 
-# clickauditor.net
-127.0.0.1 clickauditor.net
 
 # clickbank.net
 127.0.0.1 hop.clickbank.net
@@ -7030,8 +7007,6 @@
 127.0.0.1 fr.classic.clickintext.net
 127.0.0.1 fr.slidein.clickintext.net
 
-# clicklink.jp
-127.0.0.1 clicklink.jp
 
 # clickmarks.com
 127.0.0.1 clickmarks.com
@@ -7560,7 +7535,6 @@
 # coremetrics.com
 127.0.0.1 data.coremetrics.com
 127.0.0.1 jsfp.coremetrics.com
-127.0.0.1 libs.coremetrics.com
 127.0.0.1 test.coremetrics.com
 
 # coreserver.jp
@@ -7642,7 +7616,6 @@
 127.0.0.1 webaffiliate.covad.com
 
 # coza.com
-127.0.0.1 banner.coza.com
 
 # cp20.com
 127.0.0.1 trk.cp20.com
@@ -7672,11 +7645,7 @@
 # cpmtrafficker.com
 127.0.0.1 cpmtrafficker.com
 
-# cpxadroit.com
-127.0.0.1 cpxadroit.com
 
-# cpxinteractive.com
-127.0.0.1 cpxinteractive.com
 
 # cqcounter.com
 127.0.0.1 1bm.cqcounter.com
@@ -8230,8 +8199,6 @@
 127.0.0.1 geo.digitalpoint.com
 
 # digitalriver.com
-127.0.0.1 affiliates.digitalriver.com
-127.0.0.1 display.digitalriver.com
 
 # digitalwow.ro
 127.0.0.1 ads.digitalwow.ro
@@ -8254,8 +8221,6 @@
 # directbrand.com
 127.0.0.1 directbrand.com
 
-# directfreebies.com
-127.0.0.1 directfreebies.com
 
 # direction-x.com
 127.0.0.1 banners.direction-x.com
@@ -8263,8 +8228,6 @@
 # directionsmag.com
 127.0.0.1 ads.directionsmag.com
 
-# directleads.com
-127.0.0.1 directleads.com
 
 # directlink.jp
 127.0.0.1 directlink.jp
@@ -8272,36 +8235,8 @@
 # directorym.com
 127.0.0.1 directorym.com
 
-# directstuff.com
-127.0.0.1 directstuff.com
 
 # directtrack.com
-127.0.0.1 adultadworld.directtrack.com
-127.0.0.1 affiliace.directtrack.com
-127.0.0.1 ampedmedia.directtrack.com
-127.0.0.1 asseenonpc.directtrack.com
-127.0.0.1 bingorevenue.directtrack.com
-127.0.0.1 cpacampaigns.directtrack.com
-127.0.0.1 dcsmarketing.directtrack.com
-127.0.0.1 dottk.directtrack.com
-127.0.0.1 doubleyourdating.directtrack.com
-127.0.0.1 gozing.directtrack.com
-127.0.0.1 imagecache.directtrack.com
-127.0.0.1 images.directtrack.com
-127.0.0.1 img.directtrack.com
-127.0.0.1 ino.directtrack.com
-127.0.0.1 latin3.directtrack.com
-127.0.0.1 maxxaffiliate.directtrack.com
-127.0.0.1 mysavings.directtrack.com
-127.0.0.1 niteflirt.directtrack.com
-127.0.0.1 nitropayouts.directtrack.com
-127.0.0.1 offersquest.directtrack.com
-127.0.0.1 rapidresponse.directtrack.com
-127.0.0.1 revenuegateway.directtrack.com
-127.0.0.1 secure.directtrack.com
-127.0.0.1 sideshow.directtrack.com
-127.0.0.1 trafficneeds.directtrack.com
-127.0.0.1 varsityads.directtrack.com
 
 # directvalue.nl
 127.0.0.1 directvalue.nl
@@ -8374,13 +8309,6 @@
 127.0.0.1 gcirm.dmregister.com
 
 # dmtracker.com
-127.0.0.1 enom.dmtracker.com
-127.0.0.1 extended.dmtracker.com
-127.0.0.1 external.dmtracker.com
-127.0.0.1 parking.dmtracker.com
-127.0.0.1 search.dmtracker.com
-127.0.0.1 video.dmtracker.com
-127.0.0.1 vs.dmtracker.com
 
 # dn.no
 127.0.0.1 sdc.dn.no
@@ -9423,8 +9351,6 @@
 127.0.0.1 logs.eresmas.com
 127.0.0.1 logs.www.eresmas.com
 
-# ero-advertising.biz
-127.0.0.1 ero-advertising.biz
 
 # ero-advertising.com
 127.0.0.1 0latfee.ero-advertising.com
@@ -9993,8 +9919,6 @@
 # extremetracking.net
 127.0.0.1 extremetracking.net
 
-# extremevideoz.net
-127.0.0.1 extremevideoz.net
 
 # eyeota.net
 127.0.0.1 eyeota.net
@@ -10316,8 +10240,6 @@
 127.0.0.1 s09.flagcounter.com
 127.0.0.1 s10.flagcounter.com
 
-# flamingonetwork.com
-127.0.0.1 flamingonetwork.com
 
 # flash-counter.com
 127.0.0.1 flash-counter.com
@@ -10389,7 +10311,6 @@
 127.0.0.1 adlog.flurry.com
 127.0.0.1 ads.flurry.com
 127.0.0.1 api.flurry.com
-127.0.0.1 data.flurry.com
 127.0.0.1 dev.flurry.com
 127.0.0.1 flurry.com
 
@@ -11547,7 +11468,6 @@
 127.0.0.1 grapeshot.co.uk
 
 # gratuito.st
-127.0.0.1 adv.gratuito.st
 
 # gravityrd.com
 127.0.0.1 saas.gravityrd.com
@@ -12961,44 +12881,25 @@
 # impact-ad.jp
 127.0.0.1 193.impact-ad.jp
 127.0.0.1 a.one.impact-ad.jp
-127.0.0.1 admin.cd.impact-ad.jp
-127.0.0.1 admin.nr.impact-ad.jp
 127.0.0.1 alpha.impact-ad.jp
-127.0.0.1 as.ad.impact-ad.jp
 127.0.0.1 as.ao.impact-ad.jp
-127.0.0.1 as.cd.impact-ad.jp
 127.0.0.1 as.ch.impact-ad.jp
 127.0.0.1 as.cw.impact-ad.jp
 127.0.0.1 as.dc.impact-ad.jp
 127.0.0.1 as.gd.impact-ad.jp
 127.0.0.1 as.gn.impact-ad.jp
-127.0.0.1 as.gq.impact-ad.jp
 127.0.0.1 as.gv.impact-ad.jp
-127.0.0.1 as.hc.impact-ad.jp
 127.0.0.1 as.hi.impact-ad.jp
 127.0.0.1 as.ief.impact-ad.jp
-127.0.0.1 as.ik.impact-ad.jp
 127.0.0.1 as.in.impact-ad.jp
-127.0.0.1 as.it.impact-ad.jp
 127.0.0.1 as.iy.impact-ad.jp
-127.0.0.1 as.kd.impact-ad.jp
-127.0.0.1 as.ko.impact-ad.jp
-127.0.0.1 as.kw.impact-ad.jp
 127.0.0.1 as.mc.impact-ad.jp
-127.0.0.1 as.mv.impact-ad.jp
 127.0.0.1 as.nn.impact-ad.jp
 127.0.0.1 as.oe.impact-ad.jp
-127.0.0.1 as.on.impact-ad.jp
-127.0.0.1 as.op.impact-ad.jp
 127.0.0.1 as.ri.impact-ad.jp
 127.0.0.1 as.se.impact-ad.jp
-127.0.0.1 as.sg.impact-ad.jp
 127.0.0.1 as.sp.impact-ad.jp
 127.0.0.1 as.ss.impact-ad.jp
-127.0.0.1 as.tm.impact-ad.jp
-127.0.0.1 as.ve.impact-ad.jp
-127.0.0.1 as.xa.impact-ad.jp
-127.0.0.1 as.xadev.impact-ad.jp
 127.0.0.1 as.yi.impact-ad.jp
 127.0.0.1 as.yl.impact-ad.jp
 127.0.0.1 as.yp.impact-ad.jp
@@ -13006,9 +12907,6 @@
 127.0.0.1 bot.impact-ad.jp
 127.0.0.1 c.one.impact-ad.jp
 127.0.0.1 crrc.impact-ad.jp
-127.0.0.1 dacdemo.impact-ad.jp
-127.0.0.1 demo.dc.impact-ad.jp
-127.0.0.1 demo.impact-ad.jp
 127.0.0.1 dev.x1.impact-ad.jp
 127.0.0.1 feedback.impact-ad.jp
 127.0.0.1 h.f1.impact-ad.jp
@@ -13330,8 +13228,6 @@
 127.0.0.1 ads1.intelliads.com
 127.0.0.1 intelliads.com
 
-# intellicampaign.com
-127.0.0.1 intellicampaign.com
 
 # intellicontact.com
 127.0.0.1 api1.intellicontact.com
@@ -13886,8 +13782,6 @@
 127.0.0.1 keywordblocks.com
 127.0.0.1 search.keywordblocks.com
 
-# keywordmax.com
-127.0.0.1 keywordmax.com
 
 # kgw.com
 127.0.0.1 metrics.kgw.com
@@ -13907,8 +13801,6 @@
 # kingsofconversion.com
 127.0.0.1 kingsofconversion.com
 
-# kinkycards.com
-127.0.0.1 kinkycards.com
 
 # kinxxx.com
 127.0.0.1 ads.kinxxx.com
@@ -14065,7 +13957,6 @@
 127.0.0.1 taponejs-184e.kxcdn.com
 
 # kyoceramita-europe.com
-127.0.0.1 adserver.kyoceramita-europe.com
 
 # kypost.com
 127.0.0.1 ewstv.kypost.com
@@ -14207,10 +14098,6 @@
 # liftoff.io
 127.0.0.1 click.liftoff.io
 
-# ligatus.com
-127.0.0.1 a.ligatus.com
-127.0.0.1 ads-de.ret01.ligatus.com
-127.0.0.1 ligatus.com
 
 # ligatus.de
 127.0.0.1 ligatus.de
@@ -15314,7 +15201,6 @@
 127.0.0.1 ifa.maxpornlive.com
 
 # maxthon.com
-127.0.0.1 mm.maxthon.com
 
 # maxtrust.ru
 127.0.0.1 maxtrust.ru
@@ -15608,14 +15494,11 @@
 
 # microad.co.jp
 127.0.0.1 app.microad.co.jp
-127.0.0.1 ceo.microad.co.jp
 127.0.0.1 developers.microad.co.jp
 127.0.0.1 origin-www.microad.co.jp
 127.0.0.1 recruit.microad.co.jp
 127.0.0.1 shirareru.microad.co.jp
 127.0.0.1 universe-entry.microad.co.jp
-127.0.0.1 universe.microad.co.jp
-127.0.0.1 universeblog.microad.co.jp
 127.0.0.1 www.microad.co.jp
 
 # microad.jp
@@ -15632,7 +15515,6 @@
 127.0.0.1 east.microad.jp
 127.0.0.1 item.microad.jp
 127.0.0.1 kyushu.microad.jp
-127.0.0.1 ld.send.microad.jp
 127.0.0.1 linx.microad.jp
 127.0.0.1 linx.send.microad.jp
 127.0.0.1 machiage.microad.jp
@@ -15644,7 +15526,6 @@
 127.0.0.1 send.microad.jp
 127.0.0.1 shirareru-match.microad.jp
 127.0.0.1 ssp.send.microad.jp
-127.0.0.1 u-dynamic-item.microad.jp
 127.0.0.1 universe.send.microad.jp
 127.0.0.1 v6.send.microad.jp
 
@@ -15656,7 +15537,6 @@
 # microsoft.com
 127.0.0.1 advertising.microsoft.com
 127.0.0.1 c1.microsoft.com
-127.0.0.1 fp.advertising.microsoft.com
 
 # microstatic.pl
 127.0.0.1 microstatic.pl
@@ -15994,11 +15874,8 @@
 
 
 # msads.net
-127.0.0.1 a.ads1.msads.net
-127.0.0.1 a.ads2.msads.net
 127.0.0.1 ads1.msads.net
 127.0.0.1 ads2.msads.net
-127.0.0.1 b.ads2.msads.net
 
 # msimg.com
 127.0.0.1 msimg.com
@@ -16209,8 +16086,6 @@
 127.0.0.1 uk.myiframe.com
 
 # myjizztube.com
-127.0.0.1 adimages.myjizztube.com
-127.0.0.1 ads.myjizztube.com
 
 # mylifetime.com
 127.0.0.1 o.mylifetime.com
@@ -16733,8 +16608,6 @@
 127.0.0.1 netpool.netbookia.net
 
 # netcommunities.com
-127.0.0.1 ad.netcommunities.com
-127.0.0.1 ads.netcommunities.com
 
 # netconversions.com
 127.0.0.1 spd.netconversions.com
@@ -17160,13 +17033,10 @@
 127.0.0.1 cdn.nsimg.net
 
 # nsmartad.com
-127.0.0.1 n85.nsmartad.com
 
 # nssrv.com
 127.0.0.1 ns2.iad1.nssrv.com
 
-# ntlligent.info
-127.0.0.1 ntlligent.info
 
 # nttnavi.co.jp
 127.0.0.1 ad.nttnavi.co.jp
@@ -17405,11 +17275,8 @@
 # onemodelplace.com
 127.0.0.1 ads.onemodelplace.com
 
-# onenetworkdirect.com
-127.0.0.1 onenetworkdirect.com
 
 # onenetworkdirect.net
-127.0.0.1 show.onenetworkdirect.net
 
 # oneplace.com
 127.0.0.1 ads.oneplace.com
@@ -17539,8 +17406,6 @@
 # opticalnetworks.com
 127.0.0.1 opticalnetworks.com
 
-# optify.net
-127.0.0.1 optify.net
 
 # optimost.com
 127.0.0.1 by.essl.optimost.com
@@ -17795,7 +17660,6 @@
 127.0.0.1 sbx.pagesjaunes.fr
 
 # pagoda56.com
-127.0.0.1 s.pagoda56.com
 
 # paid-work-at-home.com
 127.0.0.1 paid-work-at-home.com
@@ -18623,8 +18487,6 @@
 
 # promosrv.com
 
-# pronetadvertising.com
-127.0.0.1 pronetadvertising.com
 
 # prospect.org
 127.0.0.1 ads.prospect.org
@@ -19131,8 +18993,6 @@
 # registrydefender.com
 127.0.0.1 registrydefender.com
 
-# regnow.com
-127.0.0.1 regnow.com
 
 # regulationprivilegescan.top
 127.0.0.1 regulationprivilegescan.top
@@ -19804,7 +19664,6 @@
 127.0.0.1 servedbyadbutler.com
 
 # server.us
-127.0.0.1 counterstrike.server.us
 
 # servethis.com
 127.0.0.1 servethis.com
@@ -21032,8 +20891,6 @@
 127.0.0.1 server1.streamsend.com
 
 # stripplayer.com
-127.0.0.1 network.stripplayer.com
-127.0.0.1 webmaster.stripplayer.com
 
 # stripsaver.com
 127.0.0.1 clicks.stripsaver.com
@@ -21377,9 +21234,6 @@
 # taggyad.jp
 127.0.0.1 a01.taggyad.jp
 127.0.0.1 c01.taggyad.jp
-127.0.0.1 cds01.dsp.taggyad.jp
-127.0.0.1 clk01.dsp.taggyad.jp
-127.0.0.1 cnv01.dsp.taggyad.jp
 127.0.0.1 d01.taggyad.jp
 127.0.0.1 e01.dev.taggyad.jp
 127.0.0.1 e01.taggyad.jp
@@ -21388,9 +21242,6 @@
 127.0.0.1 mrk01.dsp.taggyad.jp
 127.0.0.1 redash.taggyad.jp
 127.0.0.1 rsrc.taggyad.jp
-127.0.0.1 ssp01.dsp.taggyad.jp
-127.0.0.1 syn01.dsp.taggyad.jp
-127.0.0.1 win01.dsp.taggyad.jp
 
 # tagjunction.com
 127.0.0.1 tagjunction.com
@@ -21870,8 +21721,6 @@
 # tonosama.jp
 127.0.0.1 x6.tonosama.jp
 
-# top-casting-termine.de
-127.0.0.1 top-casting-termine.de
 
 # top.ge
 127.0.0.1 counter.top.ge
@@ -22005,8 +21854,6 @@
 127.0.0.1 ads.track.net
 127.0.0.1 track.net
 
-# track001.com
-127.0.0.1 track001.com
 
 # trackalyzer.com
 127.0.0.1 t1.trackalyzer.com
@@ -22852,8 +22699,6 @@
 # venetian.com
 127.0.0.1 osc.venetian.com
 
-# ventivmedia.com
-127.0.0.1 ventivmedia.com
 
 # veoxa.com
 127.0.0.1 vu.veoxa.com
@@ -23300,7 +23145,6 @@
 127.0.0.1 images.webads.co.uk
 
 # webads.it
-127.0.0.1 images.webads.it
 
 # webads.nl
 127.0.0.1 adserver.webads.nl
@@ -24153,7 +23997,6 @@
 
 # yieldbuild.com
 127.0.0.1 ev.yieldbuild.com
-127.0.0.1 hook.yieldbuild.com
 127.0.0.1 newpayload.yieldbuild.com
 127.0.0.1 payload.yieldbuild.com
 127.0.0.1 yieldbuild.com
@@ -24266,7 +24109,6 @@
 127.0.0.1 adjuggler.yourdictionary.com
 
 # yourfuckbook.com
-127.0.0.1 delivery.yourfuckbook.com
 
 
 # youtube.com
