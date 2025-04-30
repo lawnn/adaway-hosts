@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2025/04/01
-# block hosts: 13463 entry
+# last updated: 2025/05/01
+# block hosts: 13388 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -21,7 +21,6 @@
 127.0.0.1 xads.100links.com
 
 # 100megswebhosting.com
-127.0.0.1 ads.100megswebhosting.com
 
 # 100webads.com
 127.0.0.1 100webads.com
@@ -215,8 +214,6 @@
 127.0.0.1 247media.com
 127.0.0.1 ns1.247media.com
 
-# 247realmedia.co.kr
-127.0.0.1 n1.247realmedia.co.kr
 
 # 247search.com
 127.0.0.1 tracking.247search.com
@@ -1747,8 +1744,6 @@
 # 787787.com
 127.0.0.1 787787.com
 
-# 7art-screensavers.com
-127.0.0.1 7art-screensavers.com
 
 # 7bpeople.com
 127.0.0.1 7bpeople.com
@@ -1949,8 +1944,6 @@
 127.0.0.1 abcsearch.com
 127.0.0.1 admin.abcsearch.com
 
-# abcstats.com
-127.0.0.1 abcstats.com
 
 # abctv.com
 127.0.0.1 ad.abctv.com
@@ -2032,7 +2025,6 @@
 127.0.0.1 sdc.acc.org
 
 # acceleratorusa.com
-127.0.0.1 ad.acceleratorusa.com
 
 # accendo.com
 127.0.0.1 view.accendo.com
@@ -4782,8 +4774,6 @@
 # antispyware.com
 127.0.0.1 antispyware.com
 
-# antiviruspcsuite.com
-127.0.0.1 antiviruspcsuite.com
 
 # antventure.com
 127.0.0.1 antventure.com
@@ -6288,7 +6278,6 @@
 127.0.0.1 cdns.brsrvr.com
 
 # brwz7.com
-127.0.0.1 www.brwz7.com
 
 # bsplayer.com
 127.0.0.1 ads.bsplayer.com
@@ -6775,8 +6764,6 @@
 # cheatscodesguides.com
 127.0.0.1 stats.cheatscodesguides.com
 
-# checkandgo.info
-127.0.0.1 checkandgo.info
 
 
 # checkstat.com
@@ -7393,7 +7380,6 @@
 
 # compete.com
 127.0.0.1 compete.com
-127.0.0.1 siteanalytics.compete.com
 
 # competeinc.com
 127.0.0.1 competeinc.com
@@ -7475,7 +7461,6 @@
 127.0.0.1 static.contentabc.com
 
 # contents-search-windows.com
-127.0.0.1 cdn.contents-search-windows.com
 
 # contextuads.com
 127.0.0.1 bigapple.contextuads.com
@@ -7890,7 +7875,6 @@
 127.0.0.1 ads.d2c.ne.jp
 
 # d2pass.com
-127.0.0.1 api.d2pass.com
 127.0.0.1 aycw-mobile.d2pass.com
 127.0.0.1 click.d2pass.com
 127.0.0.1 gat.d2pass.com
@@ -7903,7 +7887,6 @@
 127.0.0.1 service.d2pass.com
 127.0.0.1 sns.d2pass.com
 127.0.0.1 speedcheck.d2pass.com
-127.0.0.1 sqa.d2pass.com
 127.0.0.1 www.d2pass.com
 
 # d4p.net
@@ -8115,8 +8098,6 @@
 127.0.0.1 ads.desmoinesregister.com
 
 # detelefoongids.nl
-127.0.0.1 adclient.detelefoongids.nl
-127.0.0.1 ads.detelefoongids.nl
 
 # deteql.net
 127.0.0.1 a.deteql.net
@@ -8135,7 +8116,6 @@
 127.0.0.1 ads.devicebondage.com
 
 # devilfishpartners.com
-127.0.0.1 affiliates.devilfishpartners.com
 
 # devo.jp
 127.0.0.1 devo.jp
@@ -8293,7 +8273,6 @@
 # dmipartners.com
 
 # dmm.co.jp
-127.0.0.1 ad.dmm.co.jp
 127.0.0.1 ad.games.dmm.co.jp
 127.0.0.1 al.dmm.co.jp
 127.0.0.1 widget-view.dmm.co.jp
@@ -8590,7 +8569,6 @@
 127.0.0.1 affiliate.domaindirect.net
 
 # domaingateway.com
-127.0.0.1 redir.domaingateway.com
 
 # domainhop.com
 127.0.0.1 domainhop.com
@@ -8819,8 +8797,6 @@
 # dpmsrv.com
 127.0.0.1 s.dpmsrv.com
 
-# dpqingquan.com
-127.0.0.1 dpqingquan.com
 
 # dpstatic.com
 127.0.0.1 x.dpstatic.com
@@ -9851,7 +9827,6 @@
 127.0.0.1 ads.expekt.com
 
 # experts-exchange.com
-127.0.0.1 metrics.experts-exchange.com
 
 # expiatory.com
 127.0.0.1 www.expiatory.com
@@ -10122,7 +10097,6 @@
 127.0.0.1 openx.filestube.com
 
 # filez.com
-127.0.0.1 ads.filez.com
 
 # filez.nl
 127.0.0.1 ads.filez.nl
@@ -10285,7 +10259,6 @@
 127.0.0.1 beacon.flipboard.com
 
 # flipscash.com
-127.0.0.1 webmasters.flipscash.com
 
 # flixfacts.co.uk
 127.0.0.1 flixfacts.co.uk
@@ -10318,8 +10291,6 @@
 127.0.0.1 flux-g.com
 
 # flvdirect.com
-127.0.0.1 a.flvdirect.com
-127.0.0.1 download.flvdirect.com
 
 # flvpro.com
 127.0.0.1 cdn-w.flvpro.com
@@ -10424,7 +10395,6 @@
 127.0.0.1 ads.forbes.net
 
 # foreseeresults.com
-127.0.0.1 controller.foreseeresults.com
 127.0.0.1 foreseeresults.com
 
 # forex-affiliate.net
@@ -10859,8 +10829,6 @@
 # gban.jp
 127.0.0.1 log.gban.jp
 
-# gbscript.com
-127.0.0.1 gbscript.com
 
 # gccx.com
 127.0.0.1 ads1.gccx.com
@@ -13603,8 +13571,6 @@
 # joins.com
 127.0.0.1 counter.joins.com
 
-# jokep.com
-127.0.0.1 jokep.com
 
 # jorudan.co.jp
 127.0.0.1 ad.jorudan.co.jp
@@ -14144,8 +14110,6 @@
 127.0.0.1 script.link-trade.net
 
 
-# link4ads.com
-127.0.0.1 link4ads.com
 
 # link4link.com
 127.0.0.1 link4link.com
@@ -14283,8 +14247,6 @@
 127.0.0.1 choice.live.com
 127.0.0.1 rad.live.com
 
-# live2chat.tv
-127.0.0.1 live2chat.tv
 
 # live365.com
 127.0.0.1 ads.live365.com
@@ -14854,8 +14816,6 @@
 # lookquick.com
 127.0.0.1 clk2.lookquick.com
 
-# looksa.com
-127.0.0.1 looksa.com
 
 # looksmart.com
 127.0.0.1 cnn.looksmart.com
@@ -15164,12 +15124,6 @@
 127.0.0.1 adserver.matchcraft.com
 127.0.0.1 matchcraft.com
 
-# mathtag.com
-127.0.0.1 action.mathtag.com
-127.0.0.1 emea-bidder.mathtag.com
-127.0.0.1 mathtag.com
-127.0.0.1 pixel.mathtag.com
-127.0.0.1 sync.mathtag.com
 
 # matrix-cash.com
 127.0.0.1 adtools.matrix-cash.com
@@ -15227,8 +15181,6 @@
 127.0.0.1 sdc.mcafee.com
 127.0.0.1 smetrics.mcafee.com
 
-# mcnt.jp
-127.0.0.1 mcnt.jp
 
 # mdchoice.com
 127.0.0.1 ads.mdchoice.com
@@ -15310,7 +15262,6 @@
 127.0.0.1 payments.mediadome.ru
 
 # mediaforge.com
-127.0.0.1 ads.mediaforge.com
 127.0.0.1 mediaforge.com
 127.0.0.1 tags.mediaforge.com
 
@@ -15347,8 +15298,6 @@
 127.0.0.1 ads.mediaodyssey.com
 
 # mediaonenetwork.net
-127.0.0.1 acvs.mediaonenetwork.net
-127.0.0.1 acvsrv.mediaonenetwork.net
 
 # mediaplazza.com
 127.0.0.1 mediaplazza.com
@@ -16525,32 +16474,6 @@
 # neimanmarcus.com
 127.0.0.1 om.neimanmarcus.com
 
-# nend.net
-127.0.0.1 ad1.nend.net
-127.0.0.1 ad2.nend.net
-127.0.0.1 ad3.nend.net
-127.0.0.1 ad4.nend.net
-127.0.0.1 api.nend.net
-127.0.0.1 board.nend.net
-127.0.0.1 c1.nend.net
-127.0.0.1 demo1.nend.net
-127.0.0.1 dev.nend.net
-127.0.0.1 impression.nend.net
-127.0.0.1 lona.nend.net
-127.0.0.1 lonb.nend.net
-127.0.0.1 mail.nend.net
-127.0.0.1 mx1.nend.net
-127.0.0.1 mx2.nend.net
-127.0.0.1 mx3.nend.net
-127.0.0.1 nend.net
-127.0.0.1 output.nend.net
-127.0.0.1 stc.nend.net
-127.0.0.1 stg.nend.net
-127.0.0.1 www.nend.net
-127.0.0.1 www1.nend.net
-127.0.0.1 www2.nend.net
-127.0.0.1 yamada2-dev.nend.net
-127.0.0.1 zabbix.nend.net
 
 # nengu.jp
 127.0.0.1 x6.nengu.jp
@@ -16831,7 +16754,6 @@
 127.0.0.1 newyorkcasino.com
 
 # newzia.jp
-127.0.0.1 connect.newzia.jp
 
 # nexac.com
 
@@ -16917,8 +16839,6 @@
 127.0.0.1 geoip.nj.com
 127.0.0.1 metrics.nj.com
 
-# nlbanner.nl
-127.0.0.1 nlbanner.nl
 
 # noblepoker.com
 127.0.0.1 adv.noblepoker.com
@@ -18062,7 +17982,6 @@
 127.0.0.1 pixazza.com
 
 # pixelinteractivemedia.com
-127.0.0.1 pixel-hk.pixelinteractivemedia.com
 
 # pixiv.net
 127.0.0.1 embed.pixiv.net
@@ -18387,8 +18306,6 @@
 # primead.jp
 127.0.0.1 ad-dev.primead.jp
 127.0.0.1 adcontents.primead.jp
-127.0.0.1 admin.primead.jp
-127.0.0.1 bmp-admin.primead.jp
 127.0.0.1 bmp.primead.jp
 127.0.0.1 cs.primead.jp
 127.0.0.1 dev-adcontents.primead.jp
@@ -18397,12 +18314,10 @@
 127.0.0.1 s-dev.primead.jp
 127.0.0.1 s.primead.jp
 127.0.0.1 stg-adcontents.primead.jp
-127.0.0.1 stg-admin.primead.jp
 127.0.0.1 stg-bmp.primead.jp
 127.0.0.1 stg-r.primead.jp
 127.0.0.1 stg-t.primead.jp
 127.0.0.1 t.primead.jp
-127.0.0.1 x.primead.jp
 
 # primecaster.net
 127.0.0.1 api.primecaster.net
@@ -18438,8 +18353,6 @@
 # prizee.com
 127.0.0.1 prizee.com
 
-# prjcq.com
-127.0.0.1 prjcq.com
 
 # pro-market.net
 127.0.0.1 ads.pro-market.net
@@ -18874,7 +18787,6 @@
 127.0.0.1 partners.realgirlsmedia.com
 
 # realhomesex.net
-127.0.0.1 adserver.realhomesex.net
 
 # realist.gen.tr
 
@@ -18884,10 +18796,6 @@
 # realitykings.com
 127.0.0.1 hostedads.realitykings.com
 
-# realmedia.co.kr
-127.0.0.1 ad.realmedia.co.kr
-127.0.0.1 realmedia.co.kr
-127.0.0.1 tech.realmedia.co.kr
 
 # realmedia.fr
 127.0.0.1 pub.realmedia.fr
@@ -20082,7 +19990,6 @@
 127.0.0.1 cache.sidefind.com
 
 # sify.com
-127.0.0.1 dc.sify.com
 
 # signonsandiego.com
 127.0.0.1 ads.signonsandiego.com
@@ -20271,7 +20178,6 @@
 # slashgear.com
 
 # slate.com
-127.0.0.1 metrics.slate.com
 
 # slimcdn.com
 127.0.0.1 dtrk.slimcdn.com
@@ -21801,7 +21707,6 @@
 127.0.0.1 logger.torimochi-ad.net
 127.0.0.1 resources-v1.torimochi-ad.net
 127.0.0.1 resources-v2.torimochi-ad.net
-127.0.0.1 resources.torimochi-ad.net
 127.0.0.1 script.torimochi-ad.net
 127.0.0.1 scripts-v1.torimochi-ad.net
 127.0.0.1 scripts-v2.torimochi-ad.net
@@ -23079,8 +22984,6 @@
 # waterfrontmedia.com
 127.0.0.1 tracking.waterfrontmedia.com
 
-# watube.com
-127.0.0.1 watube.com
 
 # waudit.cz
 127.0.0.1 h.waudit.cz
@@ -23939,7 +23842,6 @@
 127.0.0.1 yarpp.org
 
 # ybcdn.net
-127.0.0.1 rs-staticart.ybcdn.net
 
 # ybex.com
 127.0.0.1 ybex.com
@@ -24247,8 +24149,6 @@
 # zipcodez.com
 127.0.0.1 click.zipcodez.com
 
-# zirve100.com
-127.0.0.1 zirve100.com
 
 # zive.net
 
