@@ -5,14 +5,13 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2025/05/01
-# block hosts: 13388 entry
+# last updated: 2025/06/01
+# block hosts: 13337 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
 
 # 0430.com
-127.0.0.1 cht.0430.com
 
 # 100free.com
 127.0.0.1 adserver.100free.com
@@ -1618,8 +1617,6 @@
 
 # 3g.cn
 127.0.0.1 cache.3g.cn
-127.0.0.1 gostore.3g.cn
-127.0.0.1 launchermsg.3g.cn
 
 # 3gmimo.com
 127.0.0.1 stage.3gmimo.com
@@ -1905,7 +1902,6 @@
 127.0.0.1 www29.a8.net
 
 # a8ww.net
-127.0.0.1 asy.a8ww.net
 
 # a9.com
 127.0.0.1 a9.com
@@ -2033,7 +2029,6 @@
 127.0.0.1 access-analyze.org
 
 # accessdeka.com
-127.0.0.1 keiro.accessdeka.com
 
 # accessport.jp
 127.0.0.1 accessport.jp
@@ -2677,8 +2672,6 @@
 127.0.0.1 adgear.com
 
 # adgger.jp
-127.0.0.1 public.adgger.jp
-127.0.0.1 static.adgger.jp
 
 # adgroups.com
 127.0.0.1 adgroups.com
@@ -3817,8 +3810,6 @@
 # adsklick.de
 127.0.0.1 adsklick.de
 
-# adsmart.com
-127.0.0.1 adsmart.com
 
 # adsmart.net
 127.0.0.1 ad.adsmart.net
@@ -3940,8 +3931,6 @@
 # adtology.com
 127.0.0.1 adtology.com
 
-# adtology2.com
-127.0.0.1 adtology2.com
 
 # adtoolsinc.com
 127.0.0.1 downldcl.adtoolsinc.com
@@ -4093,8 +4082,6 @@
 # advertising.de
 127.0.0.1 advertising.de
 
-# advertising.dk
-127.0.0.1 advertising.dk
 
 # advertising.ie
 127.0.0.1 advertising.ie
@@ -7310,8 +7297,6 @@
 127.0.0.1 ax6.a.cocolog-nifty.com
 127.0.0.1 log.a.cocolog-nifty.com
 
-# code-r.jp
-127.0.0.1 code-r.jp
 
 # codeads.com
 127.0.0.1 codeads.com
@@ -8577,7 +8562,6 @@
 127.0.0.1 domaining.in
 
 # domainoptions.net
-127.0.0.1 ads.domainoptions.net
 
 # domainplayersclub.com
 127.0.0.1 domainplayersclub.com
@@ -9969,7 +9953,6 @@
 127.0.0.1 sv99.fancs.com
 127.0.0.1 tech-blog.fancs.com
 127.0.0.1 techlabo.fancs.com
-127.0.0.1 vap2020.fancs.com
 127.0.0.1 www.fancs.com
 
 # fandango.com
@@ -10281,9 +10264,6 @@
 127.0.0.1 hexusads.fluent.ltd.uk
 
 # flurry.com
-127.0.0.1 adlog.flurry.com
-127.0.0.1 ads.flurry.com
-127.0.0.1 api.flurry.com
 127.0.0.1 dev.flurry.com
 127.0.0.1 flurry.com
 
@@ -11193,15 +11173,12 @@
 
 # gmodmp.jp
 127.0.0.1 dmp.gmodmp.jp
-127.0.0.1 j.gmodmp.jp
 
 # gmodules.com
 127.0.0.1 ads.gmodules.com
 
 # gmossp-sp.jp
-127.0.0.1 dmpjs.sp.gmossp-sp.jp
 127.0.0.1 gmossp-sp.jp
-127.0.0.1 minerva-js.sp.gmossp-sp.jp
 127.0.0.1 sp.gmossp-sp.jp
 
 # go-clicks.de
@@ -11438,7 +11415,6 @@
 # gratuito.st
 
 # gravityrd.com
-127.0.0.1 saas.gravityrd.com
 
 # gravytrainproductions.com
 127.0.0.1 ads.gravytrainproductions.com
@@ -12654,7 +12630,6 @@
 127.0.0.1 icestorm.com
 
 # icetraffic.com
-127.0.0.1 click.icetraffic.com
 
 # icittys.com
 127.0.0.1 hot.icittys.com
@@ -13197,9 +13172,6 @@
 127.0.0.1 intelliads.com
 
 
-# intellicontact.com
-127.0.0.1 api1.intellicontact.com
-127.0.0.1 intellicontact.com
 
 # intelliseek.com
 127.0.0.1 intelliseek.com
@@ -13421,9 +13393,6 @@
 # itcompany.com
 127.0.0.1 itcompany.com
 
-# itgear.jp
-127.0.0.1 cnt1.itgear.jp
-127.0.0.1 itgear.jp
 
 # itmedia.co.jp
 127.0.0.1 fc.itmedia.co.jp
@@ -13819,7 +13788,6 @@
 127.0.0.1 klikklik.nl
 
 # kliks.nl
-127.0.0.1 affiliates.kliks.nl
 127.0.0.1 kliks.nl
 
 # klipmart.com
@@ -15236,9 +15204,6 @@
 127.0.0.1 mediabuilder.com
 
 # mediacharger.com
-127.0.0.1 devfast.mediacharger.com
-127.0.0.1 download.mediacharger.com
-127.0.0.1 fast.mediacharger.com
 
 # mediacorpsingapore.com
 127.0.0.1 ad01.mediacorpsingapore.com
@@ -15641,8 +15606,6 @@
 127.0.0.1 ec-ad.mobadme.jp
 127.0.0.1 script-ad.mobadme.jp
 
-# mobair-ssl.com
-127.0.0.1 mobair-ssl.com
 
 # mobee2.jp
 127.0.0.1 mobee2.jp
@@ -15793,7 +15756,6 @@
 127.0.0.1 moshimo.com
 
 # motiveinteractive.com
-127.0.0.1 ad.motiveinteractive.com
 
 # motormarket.com
 127.0.0.1 motormarket.com
@@ -16657,8 +16619,6 @@
 # network22.com
 127.0.0.1 network22.com
 
-# networkads.net
-127.0.0.1 networkads.net
 
 # networkadvertising.org
 127.0.0.1 networkadvertising.org
@@ -16685,7 +16645,6 @@
 127.0.0.1 netzip.com
 
 # neudesicmediagroup.com
-127.0.0.1 ads.neudesicmediagroup.com
 127.0.0.1 neudesicmediagroup.com
 
 # newbie.com
@@ -16758,10 +16717,6 @@
 # nexac.com
 
 # nexage.com
-127.0.0.1 admax.nexage.com
-127.0.0.1 ads.nexage.com
-127.0.0.1 ads0.nexage.com
-127.0.0.1 bos.ads0.nexage.com
 
 # nexteramedia.com
 127.0.0.1 vte.nexteramedia.com
@@ -16894,7 +16849,6 @@
 127.0.0.1 adv.novinar.bg
 
 # nowvisitors.com
-127.0.0.1 s01.nowvisitors.com
 
 # nozonedata.com
 
@@ -17483,7 +17437,6 @@
 127.0.0.1 ad.owlair.net
 
 # owldata.com
-127.0.0.1 j.owldata.com
 
 # owneriq.net
 127.0.0.1 px.owneriq.net
@@ -19280,8 +19233,6 @@
 127.0.0.1 media.salemwebnetwork.com
 
 # sanomawsoy.fi
-127.0.0.1 adimages.sanomawsoy.fi
-127.0.0.1 adserver.sanomawsoy.fi
 
 # sarashi.com
 127.0.0.1 ct2.sarashi.com
@@ -19451,8 +19402,6 @@
 # secprotection.com
 127.0.0.1 secprotection.com
 
-# secrets40.com
-127.0.0.1 secrets40.com
 
 # secretservice.com
 127.0.0.1 secretservice.com
@@ -20190,8 +20139,6 @@
 127.0.0.1 ifa.slutloadlive.com
 127.0.0.1 static.ifa.slutloadlive.com
 
-# sm-ac.jp
-127.0.0.1 sm-ac.jp
 
 # smaad.jp
 127.0.0.1 ad.smaad.jp
@@ -20871,7 +20818,6 @@
 127.0.0.1 suntimes.com
 
 # sup.com
-127.0.0.1 ads.sup.com
 
 # superclix.de
 127.0.0.1 superclix.de
@@ -21454,7 +21400,6 @@
 127.0.0.1 oascentral.thephoenix.com
 
 # theroot.com
-127.0.0.1 id.theroot.com
 
 # thesearchagency.net
 127.0.0.1 thesearchagency.net
