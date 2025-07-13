@@ -47,3 +47,5 @@ analytics.twitter.com
 ad-api-v01.uliza.jp
 s.yimg.jp
 resize.blogsys.jp
+himasoku.com
+i.imgur.com
