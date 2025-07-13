@@ -188,6 +188,20 @@ def write_if_changed(lines: list[str], path: str):
         os.remove(tmp_path)
         logging.info(f"🟡 '{path}' に変更はありません。")
 
+def change_current_directory():
+    script_directly = os.path.dirname(os.path.abspath(__file__))
+    os.chdir(script_directly)
+
+def git_pull():
+    change_current_directory()
+    os.system('git pull')
+
+def git_command():
+    change_current_directory()
+    comment = datetime.datetime.now().strftime("%Y/%m/%d")
+    os.system(f'git commit -a -m "Update {comment}"')
+    os.system('git push')
+
 # ========== メイン処理 ==========
 def main():
     os.chdir(os.path.dirname(os.path.abspath(__file__)))
@@ -224,4 +238,6 @@ def main():
     update_readme_block_count("README.md", block_count)
 
 if __name__ == "__main__":
+    git_pull()
     main()
+    git_command()
