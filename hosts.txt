@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2025/07/13
-# block hosts: 13396 entry
+# last updated: 2025/08/01
+# block hosts: 13371 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -89,7 +89,6 @@
 127.0.0.1 affiliate.1800flowers.com
 
 # 180hits.de
-127.0.0.1 180hits.de
 
 # 192.com
 127.0.0.1 192.com
@@ -246,7 +245,6 @@
 127.0.0.1 2blo.net
 
 # 2ch.live
-127.0.0.1 ad.2ch.live
 
 # 2ch2.net
 127.0.0.1 ad.2ch2.net
@@ -2092,7 +2090,6 @@
 # ad-clcount.com
 
 # ad-clix.com
-127.0.0.1 ad-clix.com
 
 # ad-cloud.jp
 
@@ -3962,7 +3959,6 @@
 127.0.0.1 tgp.adultfriendfinder.com
 
 # adultgames.fun
-127.0.0.1 adultgames.fun
 
 # adultking.com
 127.0.0.1 ads.adultking.com
@@ -4901,7 +4897,6 @@
 127.0.0.1 ariboo.com
 
 # arlinadzgn.com
-127.0.0.1 www.arlinadzgn.com
 
 # arrow.com
 127.0.0.1 adserv.arrow.com
@@ -5916,7 +5911,6 @@
 127.0.0.1 ads.bninews.com
 
 # bnmjjwinf292.com
-127.0.0.1 bnmjjwinf292.com
 
 # bnmq.com
 127.0.0.1 cm3.bnmq.com
@@ -7125,7 +7119,6 @@
 127.0.0.1 d1miuq6afqay8u.cloudfront.net
 127.0.0.1 d1ros97qkrwjf5.cloudfront.net
 127.0.0.1 d1yt8zt4633tzi.cloudfront.net
-127.0.0.1 d28nwox1gdjlve.cloudfront.net
 127.0.0.1 d2cjo8xlt6fbwy.cloudfront.net
 127.0.0.1 d2x2losda9vsjs.cloudfront.net
 127.0.0.1 d2y9h8w1ydnujs.cloudfront.net
@@ -7855,7 +7848,6 @@
 127.0.0.1 ads.cybersales.cz
 
 # cybershop-affiliate.jp
-127.0.0.1 widget.cybershop-affiliate.jp
 
 # cybertown.ru
 127.0.0.1 cybertown.ru
@@ -8910,7 +8902,6 @@
 127.0.0.1 dtscout.com
 
 # duapp.com
-127.0.0.1 agentchannel.api.duapp.com
 127.0.0.1 channel.api.duapp.com
 
 # duapps.com
@@ -10683,7 +10674,6 @@
 
 # fwmrm.net
 127.0.0.1 adm.fwmrm.net
-127.0.0.1 bea4.v.fwmrm.net
 127.0.0.1 m2.fwmrm.net
 
 # fx-on.com
@@ -13343,7 +13333,6 @@
 127.0.0.1 adsrv.iol.co.za
 
 # iol.it
-127.0.0.1 adv-banner.iol.it
 
 # iop.org
 127.0.0.1 banners.iop.org
@@ -13412,7 +13401,6 @@
 127.0.0.1 ads.isboost.co.jp
 
 # isea-sonora.gob.mx
-127.0.0.1 www.isea-sonora.gob.mx
 
 # isearch.com
 127.0.0.1 auto.isearch.com
@@ -16577,14 +16565,11 @@
 127.0.0.1 neofield.click
 
 # neogen.bg
-127.0.0.1 ads.neogen.bg
-127.0.0.1 monitor.neogen.bg
 
 # neondollars.com
 127.0.0.1 promo.neondollars.com
 
 # net-communities.co.uk
-127.0.0.1 ads2.net-communities.co.uk
 
 # net-filter.com
 127.0.0.1 db0.net-filter.com
@@ -17830,7 +17815,6 @@
 127.0.0.1 www.pchelpsoft.net
 
 # pchome.net
-127.0.0.1 stat.pchome.net
 
 # pcmightymax.net
 127.0.0.1 pcmightymax.net
@@ -18406,14 +18390,10 @@
 127.0.0.1 cs.primead.jp
 127.0.0.1 dev-adcontents.primead.jp
 127.0.0.1 primead.jp
-127.0.0.1 r.primead.jp
 127.0.0.1 s-dev.primead.jp
 127.0.0.1 s.primead.jp
 127.0.0.1 stg-adcontents.primead.jp
 127.0.0.1 stg-bmp.primead.jp
-127.0.0.1 stg-r.primead.jp
-127.0.0.1 stg-t.primead.jp
-127.0.0.1 t.primead.jp
 
 # primecaster.net
 127.0.0.1 api.primecaster.net
@@ -20588,7 +20568,6 @@
 127.0.0.1 cnt.spbland.ru
 
 # spctl.com
-127.0.0.1 adserver.spctl.com
 
 # specificclick.net
 127.0.0.1 adopt.specificclick.net
@@ -21870,7 +21849,6 @@
 127.0.0.1 stats.townnews.com
 
 # toxity.biz
-127.0.0.1 ams.toxity.biz
 
 # toyota.com
 127.0.0.1 metrics.toyota.com
@@ -22464,7 +22442,6 @@
 127.0.0.1 umeng.com
 
 # umsns.com
-127.0.0.1 log.umsns.com
 
 # uncn.jp
 127.0.0.1 cf.uncn.jp
@@ -23483,7 +23460,6 @@
 127.0.0.1 statistics.wibiya.com
 
 # widespace.com
-127.0.0.1 widespace.com
 
 # widgetserver.com
 127.0.0.1 ad.widgetserver.com
@@ -23713,7 +23689,6 @@
 127.0.0.1 x-lift.jp
 
 # x-road.co.kr
-127.0.0.1 x-road.co.kr
 
 # x-traceur.com
 127.0.0.1 a1.x-traceur.com
