@@ -1,7 +1,7 @@
 # 日本環境向け AdAway 用 hosts :no_entry_sign:
 
 ![ホワイトリスト数](https://img.shields.io/badge/allow-48-brightgreen)
-![ブロック数](https://img.shields.io/badge/block-13396-red)
+![ブロック数](https://img.shields.io/badge/block-13226-red)
 
 
 ---
@@ -15,12 +15,24 @@ AdAway 用の hosts ファイルです。
 https://raw.githubusercontent.com/lawnn/adaway-hosts/refs/heads/master/hosts.txt
 ```
 
+## hosts_allow.txt
+***ホワイトリストファイルです***
+```
+https://raw.githubusercontent.com/lawnn/adaway-hosts/refs/heads/master/hosts_allow.txt
+```
+
 ## uBO-to-hosts.txt
 
 ***yuki氏豆腐氏のuBO用フィルターをhostsに変換してます。***
 ```
 https://raw.githubusercontent.com/lawnn/adaway-hosts/refs/heads/master/uBO-to-hosts.txt
 ```
+
+## regex-block.txt
+***Pi-hole 正規表現用***
+1. [このリンク](https://raw.githubusercontent.com/lawnn/adaway-hosts/refs/heads/master/regex-block.txt)で全体を選択しコピー`ctrl + a` `ctrl + c`
+2. Pi-hole の Web 管理画面にアクセス
+3. `Group Management -> Domain -> RegEx filter` に貼り付け `Add to denied domains`を押下 *Group を作成することを推奨します.
 
 ### 名前解決ができなくなった domain は随時削除しています。
 
