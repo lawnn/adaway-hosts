@@ -24265,3 +24265,4 @@
 127.0.0.1 w.isx.unity3d.com
 127.0.0.1 zedo.com
 127.0.0.1 dlaf.jp
+127.0.0.1 tr.ssp.bance.jp
