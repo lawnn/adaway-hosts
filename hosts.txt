@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2025/08/09
-# block hosts: 13226 entry
+# last updated: 2025/09/01
+# block hosts: 13203 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -231,7 +231,6 @@
 
 # 29g.net
 127.0.0.1 co.29g.net
-127.0.0.1 i2.29g.net
 
 # 2bee.jp
 127.0.0.1 2bee.jp
@@ -2107,7 +2106,6 @@
 
 # ad-link.jp
 127.0.0.1 click.ad-link.jp
-127.0.0.1 contentsmng.ad-link.jp
 127.0.0.1 frdoki.ad-link.jp
 127.0.0.1 panasonic90.ad-link.jp
 127.0.0.1 prvadm.ad-link.jp
@@ -2601,8 +2599,6 @@
 127.0.0.1 adgear.com
 
 # adgger.jp
-127.0.0.1 public.adgger.jp
-127.0.0.1 static.adgger.jp
 
 # adgroups.com
 127.0.0.1 adgroups.com
@@ -3522,7 +3518,6 @@
 127.0.0.1 adpon.net
 
 # adpowerzone.com
-127.0.0.1 adpowerzone.com
 
 # adpro.com.ua
 
@@ -3880,8 +3875,6 @@
 127.0.0.1 abtracker.adultbouncer.com
 
 # adultcash.com
-127.0.0.1 exits.adultcash.com
-127.0.0.1 popfree.adultcash.com
 
 # adultcomix.biz
 127.0.0.1 adultcomix.biz
@@ -5442,7 +5435,6 @@
 127.0.0.1 webtrends.besite.be
 
 # best-lucky-cat.xyz
-127.0.0.1 best-lucky-cat.xyz
 
 # best-meds.biz
 127.0.0.1 best-meds.biz
@@ -5518,7 +5510,6 @@
 127.0.0.1 campaign.bharatmatrimony.com
 
 # bhg.com
-127.0.0.1 metrics.bhg.com
 
 # bianca.net
 127.0.0.1 ads.bianca.net
@@ -8706,13 +8697,6 @@
 127.0.0.1 sidesearch.dropspam.com
 
 # drsnsrch.com
-127.0.0.1 404.drsnsrch.com
-127.0.0.1 dlkw.drsnsrch.com
-127.0.0.1 kw.drsnsrch.com
-127.0.0.1 ron.drsnsrch.com
-127.0.0.1 search2.drsnsrch.com
-127.0.0.1 toolbar.drsnsrch.com
-127.0.0.1 welcome.drsnsrch.com
 
 # drtuber.com
 127.0.0.1 adv.drtuber.com
@@ -8777,7 +8761,6 @@
 127.0.0.1 dtscout.com
 
 # duapp.com
-127.0.0.1 agentchannel.api.duapp.com
 127.0.0.1 channel.api.duapp.com
 
 # duapps.com
@@ -8855,7 +8838,6 @@
 127.0.0.1 e2give.com
 
 # e7c.net
-127.0.0.1 toy.e7c.net
 
 # eads.nl
 127.0.0.1 eads.nl
@@ -8904,7 +8886,6 @@
 127.0.0.1 mailer.ebates.com
 
 # ebayrtm.com
-127.0.0.1 srx.de.ebayrtm.com
 127.0.0.1 srx.main.ebayrtm.com
 
 # eblocs.com
@@ -9455,7 +9436,6 @@
 # erotism.com
 
 # erotism.nl
-127.0.0.1 ads.erotism.nl
 
 # erovideo.ru
 127.0.0.1 ban.erovideo.ru
@@ -10538,7 +10518,6 @@
 
 # fwmrm.net
 127.0.0.1 adm.fwmrm.net
-127.0.0.1 bea4.v.fwmrm.net
 127.0.0.1 m2.fwmrm.net
 
 # fx-on.com
@@ -11262,7 +11241,6 @@
 127.0.0.1 monster.gostats.ru
 
 # gothamistllc.com
-127.0.0.1 gothamistllc.com
 
 # gotoast.com
 127.0.0.1 gotoast.com
@@ -11411,7 +11389,6 @@
 127.0.0.1 c.gumgum.com
 127.0.0.1 cdn.gumgum.com
 127.0.0.1 g2.gumgum.com
-127.0.0.1 gonzogrape.gumgum.com
 
 # gunosy.com
 127.0.0.1 ad.gunosy.com
@@ -12877,12 +12854,7 @@
 # indieclick.com
 
 # industrybrains.com
-127.0.0.1 gflinks.industrybrains.com
-127.0.0.1 ilinks.industrybrains.com
 127.0.0.1 industrybrains.com
-127.0.0.1 jlinks.industrybrains.com
-127.0.0.1 links.industrybrains.com
-127.0.0.1 shlinks.industrybrains.com
 
 # indystar.com
 127.0.0.1 ads.indystar.com
@@ -13159,7 +13131,6 @@
 127.0.0.1 static.inviziads.com
 
 # inwind.it
-127.0.0.1 adserver.inwind.it
 
 # inyourpocket.com
 127.0.0.1 banner.inyourpocket.com
@@ -13315,7 +13286,6 @@
 127.0.0.1 banner.itweb.co.za
 
 # itworld.com
-127.0.0.1 log.itworld.com
 
 # ivwbox.de
 127.0.0.1 ns.ivwbox.de
@@ -15382,7 +15352,6 @@
 127.0.0.1 shirareru-match.microad.jp
 127.0.0.1 ssp.send.microad.jp
 127.0.0.1 universe.send.microad.jp
-127.0.0.1 v6.send.microad.jp
 
 # microad.net
 127.0.0.1 i.microad.net
@@ -15733,8 +15702,6 @@
 # ms-mvp.org
 
 # msads.net
-127.0.0.1 ads1.msads.net
-127.0.0.1 ads2.msads.net
 
 # msimg.com
 127.0.0.1 msimg.com
@@ -16573,7 +16540,6 @@
 127.0.0.1 ads.networkwcs.net
 
 # networkworld.com
-127.0.0.1 a.networkworld.com
 
 # netzero.net
 127.0.0.1 track.netzero.net
@@ -16634,7 +16600,6 @@
 # newstarads.com
 
 # newstogram.com
-127.0.0.1 da.newstogram.com
 
 # newsvine.com
 127.0.0.1 log.newsvine.com
@@ -17028,7 +16993,6 @@
 127.0.0.1 trk.omegatrak.com
 
 # omgpop.com
-127.0.0.1 api.analytics.omgpop.com
 
 # omguk.com
 127.0.0.1 track.omguk.com
@@ -17466,7 +17430,6 @@
 127.0.0.1 87c948ad-36b7-b157-05fc-94c12d3e9807-ci.pages.dev
 127.0.0.1 9b553ae1-ad79-4722-b534-5bdc7aa6cbc8.pages.dev
 127.0.0.1 adtest.pages.dev
-127.0.0.1 apollo-ahemdabad.pages.dev
 127.0.0.1 b2c3f28b-cea2-4d98-ad5b-06cae252069f.pages.dev
 127.0.0.1 bancopopular-seguridad.pages.dev
 127.0.0.1 desku-chat-widget-js.pages.dev
@@ -17516,7 +17479,6 @@
 127.0.0.1 pi.pardot.com
 
 # parents.com
-127.0.0.1 metrics.parents.com
 
 # parisvoyeur.com
 127.0.0.1 htmldialer.parisvoyeur.com
@@ -18039,7 +18001,6 @@
 127.0.0.1 cdn.popcash.net
 
 # popcornvod.com
-127.0.0.1 www.popcornvod.com
 
 # popcpm.com
 127.0.0.1 ads1.popcpm.com
@@ -18231,11 +18192,6 @@
 127.0.0.1 ad1.primorye.ru
 
 # primosearch.com
-127.0.0.1 4133.88.primosearch.com
-127.0.0.1 4654.2465.primosearch.com
-127.0.0.1 5486.winxp.primosearch.com
-127.0.0.1 5490.spedads.primosearch.com
-127.0.0.1 6266.570204.primosearch.com
 127.0.0.1 primosearch.com
 
 # prisacom.com
@@ -19553,10 +19509,8 @@
 127.0.0.1 wt.sexsearchcom.com
 
 # sexspaces.com
-127.0.0.1 ads.sexspaces.com
 
 # sexspaces.net
-127.0.0.1 ads.sexspaces.net
 
 # sexswap.com
 
@@ -22045,7 +21999,6 @@
 127.0.0.1 trk-optimize.com
 
 # troglod.com
-127.0.0.1 bannerexchange.troglod.com
 
 # trrsf.com
 127.0.0.1 s1.trrsf.com
@@ -22261,7 +22214,6 @@
 127.0.0.1 umeng.com
 
 # umsns.com
-127.0.0.1 log.umsns.com
 
 # uncn.jp
 127.0.0.1 cf.uncn.jp
@@ -22436,7 +22388,6 @@
 127.0.0.1 ad-image.val.jp
 127.0.0.1 ad-info.val.jp
 127.0.0.1 ad.val.jp
-127.0.0.1 s3.mobile.val.jp
 
 # validclick.com
 127.0.0.1 feed.validclick.com
@@ -22968,7 +22919,6 @@
 127.0.0.1 odc.weather.com
 
 # web-marketolog.ru
-127.0.0.1 counter.web-marketolog.ru
 
 # web-master.biz
 127.0.0.1 web-master.biz
@@ -23217,7 +23167,6 @@
 127.0.0.1 scrooge.wesh.com
 
 # west-city.jp
-127.0.0.1 west-city.jp
 
 # west263.com
 127.0.0.1 count.west263.com
@@ -23238,7 +23187,6 @@
 127.0.0.1 whatseek.com
 
 # where.com
-127.0.0.1 ad.where.com
 
 # whippedass.com
 127.0.0.1 ads.whippedass.com
@@ -24192,7 +24140,6 @@
 # zylom.com
 127.0.0.1 adserver.zylom.com
 
-127.0.0.1 aarki.net
 127.0.0.1 aax-fe.amazon-adsystem.com
 127.0.0.1 aax.amazon-adsystem.com
 127.0.0.1 adclick.g.doubleclick.net
@@ -24210,7 +24157,6 @@
 127.0.0.1 beacons2.gvt2.com
 127.0.0.1 bnc.lt
 127.0.0.1 branch.io
-127.0.0.1 byteoversea.com
 127.0.0.1 cdn-f.adsmoloco.com
 127.0.0.1 cdn.iads.unity3d.com
 127.0.0.1 cdn.liftoff-creatives.io
@@ -24228,21 +24174,15 @@
 127.0.0.1 google-ohttp-relay-safebrowsing.fastly-edge.com
 127.0.0.1 goo.gl
 127.0.0.1 gw.mediation.unity3d.com
-127.0.0.1 ia d s.unity3d.com
 127.0.0.1 i-adq.mediation.unity3d.com
 127.0.0.1 i-sdk.mediation.unity3d.com
-127.0.0.1 ibyteimg.com
-127.0.0.1 im pression-asia.liftoff.io
 127.0.0.1 inmobi.com
-127.0.0.1 isx.unity3d.com
 127.0.0.1 kochava.com
 127.0.0.1 l.facebook.com
 127.0.0.1 lm.facebook.com
 127.0.0.1 ms4.applovin.com
 127.0.0.1 moatads.com
 127.0.0.1 ogads-pa.clients6.google.com
-127.0.0.1 ogads-pa.clients7.google.com
-127.0.0.1 ogads-pa.clients8.google.com
 127.0.0.1 p16-sign-sg.tiktokcdn.com
 127.0.0.1 p16-ttam-va.ibyteimg.com
 127.0.0.1 prod-mediate-events.applovin.com
@@ -24254,12 +24194,10 @@
 127.0.0.1 sf16-teko.tiktokcdn.com
 127.0.0.1 spire.aarki.net
 127.0.0.1 singular.net
-127.0.0.1 s upersonicads.com
 127.0.0.1 t.appsflyer.com
 127.0.0.1 taskassist-pa.googleapis.com
 127.0.0.1 tapjoy.com
 127.0.0.1 tr-asia.adsmoloco.com
-127.0.0.1 trk.singular.net
 127.0.0.1 v16-ad.byteoversea.com
 127.0.0.1 vungle.com
 127.0.0.1 w.isx.unity3d.com
@@ -24271,3 +24209,4 @@
 127.0.0.1 tornado-horse.com
 127.0.0.1 ssp.getallmedia.com
 127.0.0.1 www.jikobukkenkanteishi.com
+
