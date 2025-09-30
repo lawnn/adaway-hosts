@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2025/09/01
-# block hosts: 13203 entry
+# last updated: 2025/10/01
+# block hosts: 13151 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -59,7 +59,6 @@
 # 123counters.com
 
 # 123go.com
-127.0.0.1 123go.com
 
 # 123go.net
 
@@ -1707,7 +1706,6 @@
 127.0.0.1 787787.com
 
 # 7art-screensavers.com
-127.0.0.1 7art-screensavers.com
 
 # 7bpeople.com
 127.0.0.1 7bpeople.com
@@ -1800,7 +1798,6 @@
 127.0.0.1 document.a8.net
 127.0.0.1 ecsales-api.a8.net
 127.0.0.1 email01.a8.net
-127.0.0.1 feed.a8.net
 127.0.0.1 guide-adv.a8.net
 127.0.0.1 ifrb.a8.net
 127.0.0.1 image.a8.net
@@ -1990,7 +1987,6 @@
 # accesstrade.net
 127.0.0.1 ad-verification.accesstrade.net
 127.0.0.1 h.accesstrade.net
-127.0.0.1 img.accesstrade.net
 127.0.0.1 sp.accesstrade.net
 127.0.0.1 xml.accesstrade.net
 
@@ -3768,7 +3764,6 @@
 # adstore.jp
 
 # adsunion.com
-127.0.0.1 cctv.adsunion.com
 
 # adsurve.com
 127.0.0.1 aff.adsurve.com
@@ -3847,7 +3842,6 @@
 127.0.0.1 rek.adtotal.pl
 
 # adtrackers.net
-127.0.0.1 ox-d.adtrackers.net
 
 # adtrade.net
 127.0.0.1 adtrade.net
@@ -4092,7 +4086,6 @@
 
 # adzerk.net
 127.0.0.1 engine.adzerk.net
-127.0.0.1 engine2.adzerk.net
 127.0.0.1 static.adzerk.net
 
 # adzerver.com
@@ -4827,7 +4820,6 @@
 127.0.0.1 ariboo.com
 
 # arlinadzgn.com
-127.0.0.1 www.arlinadzgn.com
 
 # arrow.com
 127.0.0.1 adserv.arrow.com
@@ -5569,7 +5561,6 @@
 127.0.0.1 bunseki.kingdom.biglobe.ne.jp
 
 # bigpoint.com
-127.0.0.1 adin.bigpoint.com
 
 # bigredcoupon.com
 127.0.0.1 bigredcoupon.com
@@ -6502,7 +6493,6 @@
 127.0.0.1 crbanner.casinopays.com
 
 # casinorewards.com
-127.0.0.1 affiliate.casinorewards.com
 127.0.0.1 casinorewards.com
 
 # casinotraffic.com
@@ -6936,11 +6926,6 @@
 127.0.0.1 clickthruserver.com
 
 # clicktracks.com
-127.0.0.1 clicktracks.com
-127.0.0.1 stats.clicktracks.com
-127.0.0.1 stats1.clicktracks.com
-127.0.0.1 stats2.clicktracks.com
-127.0.0.1 stats3.clicktracks.com
 
 # clicktrade.com
 127.0.0.1 images.clicktrade.com
@@ -7572,7 +7557,6 @@
 127.0.0.1 crackway.com
 
 # crakmedia.com
-127.0.0.1 corporate.crakmedia.com
 127.0.0.1 crakmedia.com
 
 # craktraffic.com
@@ -7628,16 +7612,13 @@
 127.0.0.1 dis.eu.criteo.com
 127.0.0.1 dis.us.criteo.com
 127.0.0.1 info.criteo.com
-127.0.0.1 rakuten.dis.criteo.com
 127.0.0.1 rtax.criteo.com
-127.0.0.1 sapatoru.widget.criteo.com
 127.0.0.1 widget.criteo.com
 
 # criteo.net
 127.0.0.1 static.eu.criteo.net
 
 # crooz.jp
-127.0.0.1 adck.crooz.jp
 127.0.0.1 cdn.pic.crooz.jp
 
 # cross-a.net
@@ -7702,7 +7683,6 @@
 127.0.0.1 ap101.curves.com
 
 # custom-click.com
-127.0.0.1 custom-click.com
 
 # customcoupon.com
 127.0.0.1 gcirm.customcoupon.com
@@ -7854,8 +7834,6 @@
 127.0.0.1 dateroute.com
 
 # datingadzone.com
-127.0.0.1 cdn.mb.datingadzone.com
-127.0.0.1 mb.datingadzone.com
 
 # datingyes.com
 127.0.0.1 ads.datingyes.com
@@ -8644,7 +8622,6 @@
 127.0.0.1 adserver.download3000.com
 
 # downloadaccelerator.com
-127.0.0.1 ads.downloadaccelerator.com
 
 # downloadcounter.de
 127.0.0.1 downloadcounter.de
@@ -8817,7 +8794,6 @@
 127.0.0.1 e-m.fr
 
 # e-mailcom.co.uk
-127.0.0.1 images.e-mailcom.co.uk
 
 # e-messenger.net
 127.0.0.1 vad.e-messenger.net
@@ -9481,7 +9457,6 @@
 127.0.0.1 banners.espiasadictos.com
 
 # estat.com
-127.0.0.1 prof.estat.com
 127.0.0.1 w.estat.com
 
 # etahub.com
@@ -9592,7 +9567,6 @@
 127.0.0.1 dynamic.exaccess.ru
 
 # exactseek.com
-127.0.0.1 ads.exactseek.com
 127.0.0.1 exactseek.com
 
 # exacttarget.com
@@ -10540,7 +10514,6 @@
 127.0.0.1 g-i2.com
 
 # g123.jp
-127.0.0.1 ai.g123.jp
 127.0.0.1 api.g123.jp
 127.0.0.1 cdn-new.g123.jp
 127.0.0.1 courier-comet.g123.jp
@@ -11203,7 +11176,6 @@
 127.0.0.1 tpc.googlesyndication.com
 
 # googlle.in
-127.0.0.1 googlle.in
 
 # googlus.com
 127.0.0.1 googlus.com
@@ -11634,7 +11606,6 @@
 127.0.0.1 ad.himediadx.com
 
 # hirekmedia.hu
-127.0.0.1 ad.hirekmedia.hu
 
 # hishaku.com
 127.0.0.1 x6.hishaku.com
@@ -11974,7 +11945,6 @@
 127.0.0.1 images.hitwise.co.uk
 
 # hitx.net
-127.0.0.1 gif.hitx.net
 127.0.0.1 hitx.net
 127.0.0.1 ns1.hitx.net
 
@@ -12651,7 +12621,6 @@
 127.0.0.1 ec3.images-amazon.com
 
 # imarketservices.com
-127.0.0.1 imarketservices.com
 
 # imeem.com
 127.0.0.1 ads.imeem.com
@@ -12739,7 +12708,6 @@
 127.0.0.1 ad.impactify.media
 
 # imprese.cz
-127.0.0.1 imprese.cz
 
 # impresionesweb.com
 
@@ -13614,7 +13582,6 @@
 127.0.0.1 upload.kipa.co.il
 
 # kir.jp
-127.0.0.1 burning-phoenix.kir.jp
 
 # kissmetrics.com
 127.0.0.1 i.kissmetrics.com
@@ -14658,7 +14625,6 @@
 # lonelypartners.com
 
 # lookery.com
-127.0.0.1 lookery.com
 
 # lookquick.com
 127.0.0.1 clk2.lookquick.com
@@ -16798,12 +16764,6 @@
 127.0.0.1 staging-synthetics-horde.nr-data.net
 127.0.0.1 synthetics-horde-gpc.nr-data.net
 127.0.0.1 synthetics-horde.nr-data.net
-127.0.0.1 vortex-alb-http2-fed-stg-purple-price.nr-data.net
-127.0.0.1 vortex-alb-http2-fed-us-hungry-menu.nr-data.net
-127.0.0.1 vortex-alb-http2-fed-us-taut-purple.nr-data.net
-127.0.0.1 vortex-nlb-http2-fed-stg-purple-price.nr-data.net
-127.0.0.1 vortex-nlb-http2-fed-us-hungry-menu.nr-data.net
-127.0.0.1 vortex-nlb-http2-fed-us-taut-purple.nr-data.net
 
 # nscash.com
 127.0.0.1 creative.nscash.com
@@ -17043,7 +17003,6 @@
 127.0.0.1 top.one.ru
 
 # oneandonlynetwork.com
-127.0.0.1 oneandonlynetwork.com
 
 # onecenter.com
 127.0.0.1 ads.onecenter.com
@@ -17760,7 +17719,6 @@
 127.0.0.1 pgpartner.com
 
 # phatmax.net
-127.0.0.1 adserver.phatmax.net
 
 # phillipsdata.us
 127.0.0.1 ads.phillipsdata.us
@@ -18264,7 +18222,6 @@
 127.0.0.1 pronetadvertising.com
 
 # prospect.org
-127.0.0.1 ads.prospect.org
 
 # protect-x.com
 127.0.0.1 protect-x.com
@@ -18707,7 +18664,6 @@
 127.0.0.1 mtrcs.redhat.com
 
 # redherring.com
-127.0.0.1 oascentral.redherring.com
 
 # rediff.com
 127.0.0.1 adworks.rediff.com
@@ -19168,7 +19124,6 @@
 127.0.0.1 ad3.sbs.co.kr
 
 # scabee.com
-127.0.0.1 ads.scabee.com
 
 # scadnet.com
 127.0.0.1 ad.scadnet.com
@@ -19479,7 +19434,6 @@
 # sexinyourcity.com
 
 # sexkey.com
-127.0.0.1 images.sexkey.com
 
 # sexlist.com
 127.0.0.1 cgi.sexlist.com
@@ -19659,7 +19613,6 @@
 127.0.0.1 beacon.shazam.com
 
 # shedad.com
-127.0.0.1 shedad.com
 
 # shidareyanagi.com
 127.0.0.1 ct2.shidareyanagi.com
@@ -19842,7 +19795,6 @@
 127.0.0.1 ou.shutterfly.com
 
 # si.com
-127.0.0.1 metrics.si.com
 
 # sibulla.com
 127.0.0.1 wl005.sibulla.com
@@ -20422,7 +20374,6 @@
 127.0.0.1 vsii.spinbox.net
 
 # sponichi.co.jp
-127.0.0.1 shopping.sponichi.co.jp
 
 # sponsorhispano.com
 127.0.0.1 dialer.sponsorhispano.com
@@ -20455,7 +20406,6 @@
 127.0.0.1 spycash.biz
 
 # spylog.com
-127.0.0.1 spylog.com
 
 # spylog.ru
 127.0.0.1 dir.spylog.ru
@@ -20906,7 +20856,6 @@
 127.0.0.1 counter.surfcounters.com
 
 # surfernetwork.com
-127.0.0.1 rd1.surfernetwork.com
 
 # surfingprizes.com
 127.0.0.1 surfingprizes.com
@@ -22074,7 +22023,6 @@
 127.0.0.1 x8.turubeotoshi.com
 
 # tutvp.com
-127.0.0.1 tutvp.com
 
 # tv-tokyo.co.jp
 127.0.0.1 videoad.tv-tokyo.co.jp
