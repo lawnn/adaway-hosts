@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2025/10/01
-# block hosts: 13151 entry
+# last updated: 2025/11/01
+# block hosts: 13091 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -1695,7 +1695,6 @@
 127.0.0.1 777blogz.com
 
 # 777seo.com
-127.0.0.1 777seo.com
 
 # 77search.com
 
@@ -2102,7 +2101,6 @@
 
 # ad-link.jp
 127.0.0.1 click.ad-link.jp
-127.0.0.1 frdoki.ad-link.jp
 127.0.0.1 panasonic90.ad-link.jp
 127.0.0.1 prvadm.ad-link.jp
 127.0.0.1 prvapi.ad-link.jp
@@ -3007,7 +3005,6 @@
 127.0.0.1 fromerrrypornstemerrrypornsd-1.adjust.com
 127.0.0.1 fronpromotionalcdsinglesv2nd-1.adjust.com
 127.0.0.1 frontend-1-dash-staging.adjust.com
-127.0.0.1 frontend-1.adjust.com
 127.0.0.1 frontend-1griffiss-am1.adjust.com
 127.0.0.1 frontend-1thepinkpeonyoflejardin.adjust.com
 127.0.0.1 frontenyanghengjunbk-1.adjust.com
@@ -3201,7 +3198,6 @@
 127.0.0.1 sandboxhost81-102.adjust.com
 127.0.0.1 sandfly.adjust.com
 127.0.0.1 sap-ams-zbx-frontend-1.adjust.com
-127.0.0.1 search.adjust.com
 127.0.0.1 secure.adjust.com
 127.0.0.1 seg-1.adjust.com
 127.0.0.1 seg-2.adjust.com
@@ -3394,9 +3390,6 @@
 127.0.0.1 adminshop.com
 
 # admission.net
-127.0.0.1 appcache.admission.net
-127.0.0.1 apps.admission.net
-127.0.0.1 view.admission.net
 
 # admob.com
 127.0.0.1 admob.com
@@ -3700,7 +3693,6 @@
 127.0.0.1 adsit.cn
 
 # adskape.ru
-127.0.0.1 adskape.ru
 
 # adsklick.de
 127.0.0.1 adsklick.de
@@ -3830,7 +3822,6 @@
 127.0.0.1 code3.adtlgc.com
 
 # adtology.com
-127.0.0.1 adtology.com
 
 # adtology2.com
 127.0.0.1 adtology2.com
@@ -4230,7 +4221,6 @@
 127.0.0.1 ads.afixi.com
 
 # afreehome.com
-127.0.0.1 afreehome.com
 
 # aftrk.com
 127.0.0.1 aftrk.com
@@ -4735,7 +4725,6 @@
 
 # apple.com
 127.0.0.1 iadcontent-s2.apple.com
-127.0.0.1 iadcontent-tst.apple.com
 127.0.0.1 iadsdk.apple.com
 127.0.0.1 iphone-services.apple.com
 
@@ -4873,7 +4862,6 @@
 127.0.0.1 n339.asp-cc.com
 
 # aspalliance.com
-127.0.0.1 ads.aspalliance.com
 
 # aspectgroup.co.uk
 127.0.0.1 ads.aspectgroup.co.uk
@@ -5466,7 +5454,6 @@
 127.0.0.1 ads.betsafe.com
 
 # betshucklean.com
-127.0.0.1 betshucklean.com
 
 # betteradvertising.com
 127.0.0.1 cdn.betteradvertising.com
@@ -6893,7 +6880,6 @@
 127.0.0.1 clickochet.com
 
 # clickpotato.com
-127.0.0.1 cdn.clickpotato.com
 
 # clickquick.com
 127.0.0.1 clickquick.com
@@ -7041,7 +7027,6 @@
 # cnbc.com
 
 # cnet.co.uk
-127.0.0.1 om.cnet.co.uk
 
 # cnet.com
 
@@ -7836,7 +7821,6 @@
 # datingadzone.com
 
 # datingyes.com
-127.0.0.1 ads.datingyes.com
 
 # daum-img.net
 127.0.0.1 amsimg.daum-img.net
@@ -8082,7 +8066,6 @@
 127.0.0.1 banners.direction-x.com
 
 # directionsmag.com
-127.0.0.1 ads.directionsmag.com
 
 # directleads.com
 127.0.0.1 directleads.com
@@ -8099,7 +8082,6 @@
 # directtrack.com
 
 # directvalue.nl
-127.0.0.1 directvalue.nl
 
 # discountclick.com
 127.0.0.1 discountclick.com
@@ -8408,7 +8390,6 @@
 127.0.0.1 vcen.dolphin-browser.com
 
 # dolphinbrowser.com
-127.0.0.1 tracking.dolphinbrowser.com
 
 # domainadvertising.com
 127.0.0.1 publishers.domainadvertising.com
@@ -8875,7 +8856,6 @@
 127.0.0.1 hbads.eboz.com
 
 # ebtmarketing.com
-127.0.0.1 ebtmarketing.com
 
 # ec-images.com
 127.0.0.1 ec-images.com
@@ -9670,7 +9650,6 @@
 127.0.0.1 www.expiatory.com
 
 # expired-targeted.com
-127.0.0.1 expired-targeted.com
 
 # exploader.net
 127.0.0.1 img3.exploader.net
@@ -11117,12 +11096,10 @@
 127.0.0.1 adcdn.goo.ne.jp
 127.0.0.1 advertising.goo.ne.jp
 127.0.0.1 ashiato.goo.ne.jp
-127.0.0.1 bwb101.goo.ne.jp
 127.0.0.1 jira.ad.goo.ne.jp
 127.0.0.1 jupyter.ad.goo.ne.jp
 127.0.0.1 log000.goo.ne.jp
 127.0.0.1 stash.ad.goo.ne.jp
-127.0.0.1 tools.ad.goo.ne.jp
 127.0.0.1 xad200.goo.ne.jp
 
 # goodad.jp
@@ -12069,17 +12046,8 @@
 127.0.0.1 hooqy.com
 
 # hopfeed.com
-127.0.0.1 2008eg.hopfeed.com
-127.0.0.1 awfulps.hopfeed.com
-127.0.0.1 guard1.hopfeed.com
-127.0.0.1 hopfeed.com
-127.0.0.1 joefriday1.hopfeed.com
-127.0.0.1 pornprapal.hopfeed.com
-127.0.0.1 robtex.hopfeed.com
-127.0.0.1 soracha.hopfeed.com
 
 # horsehero.com
-127.0.0.1 ads.horsehero.com
 
 # horvitznewspapers.net
 127.0.0.1 ad.horvitznewspapers.net
@@ -12702,7 +12670,6 @@
 127.0.0.1 y.one.impact-ad.jp
 
 # impactengine.com
-127.0.0.1 content-ads.impactengine.com
 
 # impactify.media
 127.0.0.1 ad.impactify.media
@@ -13228,13 +13195,11 @@
 127.0.0.1 dlv.itmedia.jp
 
 # itnuzleafan.com
-127.0.0.1 itnuzleafan.com
 
 # itop.cz
 127.0.0.1 itop.cz
 
 # itpaystolearn.com
-127.0.0.1 itpaystolearn.com
 
 # itpro.co.uk
 127.0.0.1 a.itpro.co.uk
@@ -13363,7 +13328,6 @@
 # joinaxxess.com
 
 # joins.com
-127.0.0.1 counter.joins.com
 
 # jokep.com
 
@@ -13532,7 +13496,6 @@
 127.0.0.1 x7.kemuridama.com
 
 # kentonline.co.uk
-127.0.0.1 ads.kentonline.co.uk
 
 # ketchapp.org
 127.0.0.1 ketchapp.org
@@ -13744,8 +13707,6 @@
 127.0.0.1 st.ladycash.ru
 
 # lakequincy.com
-127.0.0.1 a.lakequincy.com
-127.0.0.1 lakequincy.com
 
 # lamp-shade.net
 127.0.0.1 lamp-shade.net
@@ -13926,7 +13887,6 @@
 127.0.0.1 link4link.com
 
 # link4u.de
-127.0.0.1 link4u.de
 
 # linkads.de
 127.0.0.1 linkads.de
@@ -14853,7 +14813,6 @@
 127.0.0.1 maist.jp
 
 # makemytrip.com
-127.0.0.1 metric.makemytrip.com
 
 # mako.co.il
 127.0.0.1 stats.mako.co.il
@@ -15128,7 +15087,6 @@
 127.0.0.1 median.hu
 
 # medianext.com
-127.0.0.1 emd10.medianext.com
 
 # mediaodyssey.com
 127.0.0.1 ads.mediaodyssey.com
@@ -15509,7 +15467,6 @@
 127.0.0.1 ex.mobmore.com
 
 # mobpartner.mobi
-127.0.0.1 media.mobpartner.mobi
 
 # mobra.in
 
@@ -16783,7 +16740,6 @@
 127.0.0.1 banner.nttnavi.co.jp
 
 # nttr.co.jp
-127.0.0.1 advertising.nttr.co.jp
 
 # ntv.co.jp
 127.0.0.1 ad.ntv.co.jp
@@ -17017,7 +16973,6 @@
 127.0.0.1 onenetworkdirect.com
 
 # onenetworkdirect.net
-127.0.0.1 show.onenetworkdirect.net
 
 # oneplace.com
 127.0.0.1 ads.oneplace.com
@@ -17179,9 +17134,6 @@
 127.0.0.1 cdn.orbengine.com
 
 # orbitcycle.com
-127.0.0.1 banners.orbitcycle.com
-127.0.0.1 orbitcycle.com
-127.0.0.1 usbytecom.orbitcycle.com
 
 # orbitel.bg
 127.0.0.1 ad.orbitel.bg
@@ -17416,7 +17368,6 @@
 127.0.0.1 promote.pair.com
 
 # pajamasmedia.com
-127.0.0.1 commons.pajamasmedia.com
 
 # palsol.com
 127.0.0.1 palsol.com
@@ -18558,7 +18509,6 @@
 127.0.0.1 kakkoii.razil.jp
 
 # rbc.ru
-127.0.0.1 banner.rbc.ru
 
 # rbistats.com
 127.0.0.1 sdc.rbistats.com
@@ -19701,7 +19651,6 @@
 127.0.0.1 rcm.shinobi.jp
 127.0.0.1 recommend.shinobi.jp
 127.0.0.1 ssp-swarm.shinobi.jp
-127.0.0.1 swarm-tmp.shinobi.jp
 127.0.0.1 swarm.shinobi.jp
 127.0.0.1 sync.shinobi.jp
 127.0.0.1 v2st.shinobi.jp
@@ -19783,7 +19732,6 @@
 127.0.0.1 adserve.shopzilla.com
 
 # showbehind.com
-127.0.0.1 showbehind.com
 
 # showdeinfieis.com
 127.0.0.1 banners.showdeinfieis.com
@@ -22040,7 +21988,6 @@
 127.0.0.1 oascentral.tvnewscheck.com
 
 # tvnorge.no
-127.0.0.1 openads.tvnorge.no
 
 # tvplusnewtab.com
 127.0.0.1 tvplusnewtab.com
@@ -23178,7 +23125,6 @@
 # widespace.com
 
 # widgetserver.com
-127.0.0.1 ad.widgetserver.com
 
 # wiezoekje.nl
 127.0.0.1 ads.wiezoekje.nl
@@ -23203,12 +23149,6 @@
 127.0.0.1 down.winads.cn
 
 # winc-ad.com
-127.0.0.1 hostmaster.winc-ad.com
-127.0.0.1 js.winc-ad.com
-127.0.0.1 mailer.winc-ad.com
-127.0.0.1 relay.winc-ad.com
-127.0.0.1 smtp1.winc-ad.com
-127.0.0.1 ssp.winc-ad.com
 
 # windows.net
 127.0.0.1 open8video.blob.core.windows.net
