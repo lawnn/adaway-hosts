@@ -24097,4 +24097,12 @@
 127.0.0.1 tornado-horse.com
 127.0.0.1 ssp.getallmedia.com
 127.0.0.1 www.jikobukkenkanteishi.com
-
+127.0.0.1 sterlingkialafayette.com
+127.0.0.1 app.shein.com
+127.0.0.1 eventfnt-asia.dsp-api.moloco.com
+127.0.0.1 www.anrdoezrs.net
+127.0.0.1 connectivitycheck.gstatic.com
+127.0.0.1 o-iab-notifications.mediation.unity3d.com
+127.0.0.1 o-iab-imp-counters.mediation.unity3d.com
+127.0.0.1 api16-event-sg2.pangle.io
+127.0.0.1 gw1.mediation.unity3d.com
