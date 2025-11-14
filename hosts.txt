@@ -24106,3 +24106,9 @@
 127.0.0.1 o-iab-imp-counters.mediation.unity3d.com
 127.0.0.1 api16-event-sg2.pangle.io
 127.0.0.1 gw1.mediation.unity3d.com
+127.0.0.1 spdlvlogging-direct.i-mobile.co.jp
+127.0.0.1 img.dlsite.jp
+127.0.0.1 www.dlsite.com
+127.0.0.1 media.dlsite.com
+127.0.0.1 js.ssp.bance.jp
+127.0.0.1 bid.ssp.bance.jp
