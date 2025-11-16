@@ -24129,3 +24129,6 @@
 127.0.0.1 events.ads.vungle.com
 127.0.0.1 noti-asia.adsmoloco.com
 127.0.0.1 img.lmadps.jp
+127.0.0.1 ms.applovin.com
+127.0.0.1 i.l-new.inmobicdn.net
+127.0.0.1 i.l.inmobicdn.net
