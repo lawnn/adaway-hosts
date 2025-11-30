@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2025/11/01
-# block hosts: 13091 entry
+# last updated: 2025/12/01
+# block hosts: 13088 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -2598,8 +2598,6 @@
 127.0.0.1 adgroups.com
 
 # adhall.com
-127.0.0.1 ads.adhall.com
-127.0.0.1 landing.adhall.com
 
 # adhands.ru
 
@@ -3470,7 +3468,6 @@
 127.0.0.1 vbbg.adocean.pl
 
 # adoftheyear.com
-127.0.0.1 ace.adoftheyear.com
 
 # adonspot.com
 127.0.0.1 adonspot.com
@@ -3550,7 +3547,6 @@
 127.0.0.1 adrotator.com
 
 # adrunnr.com
-127.0.0.1 adrunnr.com
 
 # ads-bg.net
 127.0.0.1 ads-bg.net
@@ -4232,7 +4228,6 @@
 127.0.0.1 err.agava.ru
 
 # agcdn.com
-127.0.0.1 dni.agcdn.com
 
 # agent.co.il
 127.0.0.1 stats.agent.co.il
@@ -4364,7 +4359,6 @@
 127.0.0.1 affiliates.allposters.com
 
 # allrecipes.com
-127.0.0.1 metric.allrecipes.com
 
 # allsolutionsnetwork.com
 127.0.0.1 allsolutionsnetwork.com
@@ -4659,7 +4653,6 @@
 127.0.0.1 ad.anuntis.com
 
 # anycracks.com
-127.0.0.1 anycracks.com
 
 # ao.co.uk
 127.0.0.1 ao.co.uk
@@ -5420,7 +5413,6 @@
 127.0.0.1 best-meds.biz
 
 # bestprice.net
-127.0.0.1 ranking.bestprice.net
 
 # bestsearch.com
 
@@ -5456,7 +5448,6 @@
 # betshucklean.com
 
 # betteradvertising.com
-127.0.0.1 cdn.betteradvertising.com
 
 # betterclips.com
 127.0.0.1 betterclips.com
@@ -6660,7 +6651,6 @@
 127.0.0.1 ads.china.com
 
 # chip.de
-127.0.0.1 adx.chip.de
 
 # chitika.net
 127.0.0.1 chitika.net
@@ -6871,7 +6861,6 @@
 127.0.0.1 clickmarks.com
 
 # clickme.com.br
-127.0.0.1 banner.clickme.com.br
 
 # clickmonsters.com
 127.0.0.1 clickmonsters.com
@@ -7435,7 +7424,6 @@
 127.0.0.1 countmaster.com
 
 # countmyvisitors.com
-127.0.0.1 countmyvisitors.com
 
 # countomat.com
 127.0.0.1 countomat.com
@@ -7882,8 +7870,6 @@
 127.0.0.1 gcirm.delawareonline.com
 
 # delfi.ee
-127.0.0.1 ads.delfi.ee
-127.0.0.1 ads2.delfi.ee
 
 # delivere.com
 127.0.0.1 delivere.com
@@ -11444,7 +11430,6 @@
 127.0.0.1 ad.harmony-central.com
 
 # harpercollins.com
-127.0.0.1 analytics.harpercollins.com
 
 # harrenmedia.com
 127.0.0.1 harrenmedia.com
@@ -12617,7 +12602,6 @@
 127.0.0.1 pcash.imlive.com
 
 # immortalnight.com
-127.0.0.1 adwords.immortalnight.com
 
 # imoti.net
 127.0.0.1 openx.imoti.net
@@ -12801,7 +12785,6 @@
 127.0.0.1 ads7.inet1.com
 
 # inetinteractive.com
-127.0.0.1 ads.inetinteractive.com
 
 # inetlog.ru
 127.0.0.1 inetlog.ru
@@ -13654,7 +13637,6 @@
 # krxd.net
 
 # ksl.com
-127.0.0.1 banners.ksl.com
 
 # ktai.pw
 
@@ -14628,7 +14610,6 @@
 127.0.0.1 gcirm.lsj.com
 
 # lucidmedia.com
-127.0.0.1 ads.lucidmedia.com
 127.0.0.1 lucidmedia.com
 
 # luckydays.com
@@ -14909,7 +14890,6 @@
 127.0.0.1 sync.mathtag.com
 
 # matrix-cash.com
-127.0.0.1 adtools.matrix-cash.com
 
 # maxbounty.com
 127.0.0.1 maxbounty.com
@@ -15430,8 +15410,6 @@
 127.0.0.1 moatads.com
 
 # moba8.net
-127.0.0.1 ad.moba8.net
-127.0.0.1 moba8.net
 
 # mobadme.jp
 127.0.0.1 ad.mobadme.jp
@@ -15494,8 +15472,6 @@
 127.0.0.1 metrics.modernpostcard.com
 
 # mofos.com
-127.0.0.1 ads.mofos.com
-127.0.0.1 scripts.mofos.com
 
 # moi-solutions.ca
 127.0.0.1 moi-solutions.ca
@@ -15535,7 +15511,6 @@
 127.0.0.1 live.monitus.net
 
 # monkeybanana3.com
-127.0.0.1 counter.monkeybanana3.com
 
 # monster.com
 127.0.0.1 media.monster.com
@@ -15571,7 +15546,6 @@
 127.0.0.1 moradu.com
 
 # moreniche.com
-127.0.0.1 track.moreniche.com
 
 # moreover.com
 127.0.0.1 d.moreover.com
@@ -16332,7 +16306,6 @@
 127.0.0.1 netdirect.nl
 
 # netflame.cc
-127.0.0.1 netflame.cc
 
 # netgeo.com
 127.0.0.1 netgeo.com
@@ -17036,7 +17009,6 @@
 # ontargetjobs.com
 
 # onvictinitor.com
-127.0.0.1 onvictinitor.com
 
 # ootugomori.com
 127.0.0.1 x7.ootugomori.com
@@ -17302,7 +17274,6 @@
 127.0.0.1 adv.p2pbg.com
 
 # p80.net
-127.0.0.1 aka.p80.net
 
 # pacbell.net
 127.0.0.1 adsl-71-138-149-62.dsl.pltn13.pacbell.net
@@ -17695,8 +17666,6 @@
 # pichunter.com
 
 # pickoftheweb.com
-127.0.0.1 mailpop.pickoftheweb.com
-127.0.0.1 toolbar.pickoftheweb.com
 
 # pimdesign.org
 127.0.0.1 ads.pimdesign.org
@@ -20260,7 +20229,6 @@
 127.0.0.1 specificmedia.com
 
 # spectate.com
-127.0.0.1 cdn.spectate.com
 
 # speead.jp
 
@@ -20554,7 +20522,6 @@
 127.0.0.1 asian.streamate.com
 127.0.0.1 broadcaster.streamate.com
 127.0.0.1 ebony.streamate.com
-127.0.0.1 static.gfx.streamate.com
 127.0.0.1 streamate.com
 127.0.0.1 teen.streamate.com
 
@@ -20562,7 +20529,6 @@
 127.0.0.1 ifa.streamateaccess.com
 
 # streamen.com
-127.0.0.1 static.gfx.streamen.com
 
 # streamray.com
 127.0.0.1 affiliates.streamray.com
@@ -22183,7 +22149,6 @@
 127.0.0.1 secure.upc.ua
 
 # upi.com
-127.0.0.1 oascentral.upi.com
 
 # upliftsearch.com
 127.0.0.1 upliftsearch.com
@@ -23143,7 +23108,6 @@
 127.0.0.1 wildporntube.com
 
 # win-spy.com
-127.0.0.1 win-spy.com
 
 # winads.cn
 127.0.0.1 down.winads.cn
@@ -23471,7 +23435,6 @@
 127.0.0.1 xoads.com
 
 # xoomcounter.com
-127.0.0.1 xoomcounter.com
 
 # xost.ru
 127.0.0.1 neorsoft.xost.ru
@@ -24074,7 +24037,6 @@
 127.0.0.1 p16-sign-sg.tiktokcdn.com
 127.0.0.1 p16-ttam-va.ibyteimg.com
 127.0.0.1 prod-mediate-events.applovin.com
-127.0.0.1 qa-analytics.com
 127.0.0.1 rt.applovin.com
 127.0.0.1 scorecardresearch.com
 127.0.0.1 sf16-muse-va.ibytedtos.com
@@ -24132,3 +24094,4 @@
 127.0.0.1 ms.applovin.com
 127.0.0.1 i.l-new.inmobicdn.net
 127.0.0.1 i.l.inmobicdn.net
+
