@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2025/12/01
-# block hosts: 13088 entry
+# last updated: 2026/01/01
+# block hosts: 13064 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -203,7 +203,6 @@
 127.0.0.1 xbridge.122.207.net
 
 # 20six.net
-127.0.0.1 adserv.20six.net
 
 # 247media.com
 127.0.0.1 247media.com
@@ -1938,8 +1937,6 @@
 127.0.0.1 z.abnad.net
 
 # about.com
-127.0.0.1 clicks.about.com
-127.0.0.1 home.about.com
 
 # aboutwebservices.com
 127.0.0.1 aboutwebservices.com
@@ -3613,7 +3610,6 @@
 # adscale.de
 127.0.0.1 ih.adscale.de
 127.0.0.1 js.adscale.de
-127.0.0.1 opencms.adscale.de
 
 # adscendmedia.com
 127.0.0.1 adscendmedia.com
@@ -4202,7 +4198,6 @@
 127.0.0.1 expo.afi-b.com
 127.0.0.1 fb.afi-b.com
 127.0.0.1 finance.afi-b.com
-127.0.0.1 hello.afi-b.com
 127.0.0.1 lb02t.afi-b.com
 127.0.0.1 mail-admin.afi-b.com
 127.0.0.1 mail.afi-b.com
@@ -4345,7 +4340,6 @@
 127.0.0.1 blog.alivedoors.com
 
 # all4spy.com
-127.0.0.1 all4spy.com
 
 # allegedmedia.com
 127.0.0.1 cdn.allegedmedia.com
@@ -4397,8 +4391,6 @@
 127.0.0.1 altnet.com
 
 # amakings.com
-127.0.0.1 ads.amakings.com
-127.0.0.1 adtools2.amakings.com
 
 # amaland.com
 127.0.0.1 ads.amaland.com
@@ -4569,7 +4561,6 @@
 127.0.0.1 www.ampugi334f.com
 
 # ampxchange.com
-127.0.0.1 pmpt.ampxchange.com
 
 # amung.us
 127.0.0.1 amung.us
@@ -5252,7 +5243,6 @@
 127.0.0.1 bannermat.com
 
 # bannernetwork.it
-127.0.0.1 ad.bannernetwork.it
 
 # bannerpoint.ru
 
@@ -5501,7 +5491,6 @@
 127.0.0.1 match.prod.bidr.io
 
 # bidswitch.net
-127.0.0.1 bidswitch.net
 127.0.0.1 x.bidswitch.net
 
 # bidtheatre.com
@@ -5888,7 +5877,6 @@
 127.0.0.1 usa.bpath.com
 
 # brabys.com
-127.0.0.1 ads.brabys.com
 
 # braincash.com
 127.0.0.1 braincash.com
@@ -7295,8 +7283,6 @@
 127.0.0.1 consumerinfo.com
 
 # consumerreports.org
-127.0.0.1 a.consumerreports.org
-127.0.0.1 metrics.consumerreports.org
 
 # contactmusic.com
 
@@ -7662,7 +7648,6 @@
 
 # cutterbuck.com
 127.0.0.1 cutterbuck.com
-127.0.0.1 ssl-vpn.cutterbuck.com
 
 # cxense.com
 127.0.0.1 comcluster.cxense.com
@@ -9117,7 +9102,6 @@
 127.0.0.1 equitymarketingsolutions.com
 
 # er.cz
-127.0.0.1 top.er.cz
 
 # ere.net
 
@@ -10184,7 +10168,6 @@
 127.0.0.1 ads.fooyoh.com
 
 # forbes.com
-127.0.0.1 klipmart.forbes.com
 127.0.0.1 sc-forbes.forbes.com
 
 # forbes.net
@@ -10806,7 +10789,6 @@
 # gemmir.com
 
 # genericlink.com
-127.0.0.1 ads.genericlink.com
 
 # geniee.jp
 127.0.0.1 geniee.jp
@@ -11343,7 +11325,6 @@
 127.0.0.1 ads.guru3d.com
 
 # guruads.de
-127.0.0.1 guruads.de
 
 # gvt2.com
 127.0.0.1 beacons.gcp.gvt2.com
@@ -12227,8 +12208,6 @@
 
 # httpool.com
 127.0.0.1 httpool.com
-127.0.0.1 relay-mk.ads.httpool.com
-127.0.0.1 relay-rs.ads.httpool.com
 
 # httpool.com.mk
 127.0.0.1 static.httpool.com.mk
@@ -13328,7 +13307,6 @@
 127.0.0.1 jps.ru
 
 # jrtux.com
-127.0.0.1 jrtux.com
 
 # jsfeedget.com
 127.0.0.1 jsfeedget.com
@@ -14707,7 +14685,6 @@
 127.0.0.1 m8z.de
 
 # macandbumble.com
-127.0.0.1 rewards.macandbumble.com
 
 # macromedia.com
 127.0.0.1 affiliates.macromedia.com
@@ -14799,7 +14776,6 @@
 127.0.0.1 stats.mako.co.il
 
 # maleflixxx.tv
-127.0.0.1 ads.maleflixxx.tv
 
 # mammanett.no
 127.0.0.1 ads.mammanett.no
@@ -14937,13 +14913,9 @@
 127.0.0.1 ad.sp.mbga.jp
 
 # mbuyu.nl
-127.0.0.1 mbuyu.nl
 
 # mcafee.com
-127.0.0.1 ads.mcafee.com
-127.0.0.1 directads.mcafee.com
 127.0.0.1 metrics.mcafee.com
-127.0.0.1 sdc.mcafee.com
 127.0.0.1 smetrics.mcafee.com
 
 # mcnt.jp
@@ -15762,7 +15734,6 @@
 127.0.0.1 w.p.mybuys.com
 
 # mycdn2.co
-127.0.0.1 mycdn2.co
 
 # mycomputer.com
 127.0.0.1 123counter.mycomputer.com
@@ -16551,7 +16522,6 @@
 127.0.0.1 nicehunt.com
 
 # nicopon.jp
-127.0.0.1 nicopon.jp
 
 # nicovideo.jp
 127.0.0.1 ads.nicovideo.jp
@@ -16785,9 +16755,6 @@
 127.0.0.1 rm.ocregister.com
 
 # oct-pass.net
-127.0.0.1 log.oct-pass.net
-127.0.0.1 oct-pass.net
-127.0.0.1 static.oct-pass.net
 
 # octopuspop.com
 127.0.0.1 ap.octopuspop.com
@@ -17236,7 +17203,6 @@
 
 # owneriq.net
 127.0.0.1 px.owneriq.net
-127.0.0.1 spx.owneriq.net
 
 # oxado.com
 127.0.0.1 oxado.com
@@ -18405,7 +18371,6 @@
 127.0.0.1 api.plaza.rakuten.co.jp
 127.0.0.1 ashiato.rakuten.co.jp
 127.0.0.1 ba.afl.rakuten.co.jp
-127.0.0.1 count.upc.rakuten.co.jp
 127.0.0.1 dynamic.rakuten.co.jp
 127.0.0.1 grp01.xd.rakuten.co.jp
 127.0.0.1 grp02.trc.ashiato.rakuten.co.jp
@@ -18532,7 +18497,6 @@
 # realist.gen.tr
 
 # realitycash.com
-127.0.0.1 banners.realitycash.com
 
 # realitykings.com
 127.0.0.1 hostedads.realitykings.com
@@ -18620,14 +18584,7 @@
 127.0.0.1 reedbusiness.com
 
 # reemo-ad.jp
-127.0.0.1 click.dsp.reemo-ad.jp
-127.0.0.1 cv.dsp.reemo-ad.jp
-127.0.0.1 image.dsp.reemo-ad.jp
-127.0.0.1 imp.dsp.reemo-ad.jp
 127.0.0.1 js.dsp.reemo-ad.jp
-127.0.0.1 rt.dsp.reemo-ad.jp
-127.0.0.1 sync.dsp.reemo-ad.jp
-127.0.0.1 view.dsp.reemo-ad.jp
 
 # referer.org
 127.0.0.1 referer.org
@@ -19231,7 +19188,6 @@
 127.0.0.1 img.securewebsiteaccess.com
 127.0.0.1 interstitial.powered-by.securewebsiteaccess.com
 127.0.0.1 js.securewebsiteaccess.com
-127.0.0.1 xfreelesbianmovies.com.powered-by.securewebsiteaccess.com
 
 # security-rd.com
 
@@ -21083,7 +21039,6 @@
 127.0.0.1 ad.terra.com.mx
 
 # test.com
-127.0.0.1 test.com
 
 # textad.net
 127.0.0.1 textad.net
@@ -21127,7 +21082,6 @@
 127.0.0.1 thecounter.com
 
 # thecrimson.com
-127.0.0.1 ads.thecrimson.com
 
 # thedenverchannel.com
 127.0.0.1 scrooge.thedenverchannel.com
@@ -21687,7 +21641,6 @@
 127.0.0.1 traffichaus.com
 
 # traffichome.com
-127.0.0.1 traffichome.com
 
 # traffichome.de
 127.0.0.1 traffichome.de
@@ -22286,7 +22239,6 @@
 127.0.0.1 ad.jp.ap.valuecommerce.com
 127.0.0.1 atq.ad.valuecommerce.com
 127.0.0.1 ck.jp.ap.valuecommerce.com
-127.0.0.1 valuecommerce.com
 127.0.0.1 wcsad.valuecommerce.com
 127.0.0.1 wcsjs.valuecommerce.com
 
@@ -23332,7 +23284,6 @@
 127.0.0.1 a.xanga.com
 
 # xb11766.com
-127.0.0.1 xb11766.com
 
 # xbiz.com
 127.0.0.1 ads.xbiz.com
@@ -24119,3 +24070,4 @@
 127.0.0.1 dynamic.criteo.com
 127.0.0.1 static.criteo.net
 127.0.0.1 d.criteo.com
+
