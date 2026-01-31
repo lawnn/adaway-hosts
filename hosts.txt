@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2026/01/01
-# block hosts: 13064 entry
+# last updated: 2026/02/01
+# block hosts: 13001 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -1744,7 +1744,6 @@
 127.0.0.1 9199.jp
 
 # 973.com
-127.0.0.1 973.com
 
 # 980x.com
 127.0.0.1 ad.980x.com
@@ -2236,7 +2235,6 @@
 127.0.0.1 core.ad20.net
 
 # ad2000.org
-127.0.0.1 ad2000.org
 
 # ad24.ru
 127.0.0.1 ad.ad24.ru
@@ -2439,7 +2437,6 @@
 127.0.0.1 privacy.adcolony.com
 127.0.0.1 rtb.adcolony.com
 127.0.0.1 staging.adcolony.com
-127.0.0.1 support.adcolony.com
 127.0.0.1 sv.adcolony.com
 127.0.0.1 tracking.adcolony.com
 127.0.0.1 wd.adcolony.com
@@ -3329,8 +3326,6 @@
 127.0.0.1 t.adlpo.com
 
 # admagnet.net
-127.0.0.1 admagnet.net
-127.0.0.1 n.admagnet.net
 
 # admanage.com
 127.0.0.1 admanage.com
@@ -4358,7 +4353,6 @@
 127.0.0.1 allsolutionsnetwork.com
 
 # allstargaming.net
-127.0.0.1 allstargaming.net
 
 # alltop.com
 127.0.0.1 at-adserver.alltop.com
@@ -4575,8 +4569,6 @@
 127.0.0.1 dynamic2.anandtech.com
 
 # ananzi.co.za
-127.0.0.1 advert.ananzi.co.za
-127.0.0.1 advert2.ananzi.co.za
 
 # anchorfree.com
 127.0.0.1 track.anchorfree.com
@@ -4674,10 +4666,6 @@
 127.0.0.1 apollohq.com
 
 # aport.ru
-127.0.0.1 adv.aport.ru
-127.0.0.1 counter.aport.ru
-127.0.0.1 sm.aport.ru
-127.0.0.1 stat.aport.ru
 
 # app-adforce.jp
 127.0.0.1 analytics.app-adforce.jp
@@ -5824,7 +5812,6 @@
 127.0.0.1 banners.bol.com.br
 
 # boldchat.com
-127.0.0.1 boldchat.com
 
 # boloz.com
 127.0.0.1 boloz.com
@@ -6223,7 +6210,6 @@
 127.0.0.1 c4tracking01.com
 
 # c8.net.ua
-127.0.0.1 b.c8.net.ua
 
 # ca-conv.jp
 127.0.0.1 ad.ca-conv.jp
@@ -6605,15 +6591,7 @@
 127.0.0.1 checkandgo.info
 
 # checkm8.com
-127.0.0.1 abc.checkm8.com
-127.0.0.1 businessweek.checkm8.com
 127.0.0.1 checkm8.com
-127.0.0.1 logiagroupdigital.checkm8.com
-127.0.0.1 minyanville.checkm8.com
-127.0.0.1 ny.checkm8.com
-127.0.0.1 q1digital.checkm8.com
-127.0.0.1 rmm1u.checkm8.com
-127.0.0.1 web2.checkm8.com
 
 # checkstat.com
 127.0.0.1 checkstat.com
@@ -6641,7 +6619,6 @@
 # chip.de
 
 # chitika.net
-127.0.0.1 chitika.net
 
 # chitosedori.com
 127.0.0.1 ct1.chitosedori.com
@@ -6792,7 +6769,6 @@
 # clickbank.net
 127.0.0.1 hop.clickbank.net
 127.0.0.1 ssl.clickbank.net
-127.0.0.1 zzz.clickbank.net
 
 # clickbooth.com
 127.0.0.1 clickbooth.com
@@ -6963,7 +6939,6 @@
 127.0.0.1 d2cjo8xlt6fbwy.cloudfront.net
 127.0.0.1 d2x2losda9vsjs.cloudfront.net
 127.0.0.1 d2y9h8w1ydnujs.cloudfront.net
-127.0.0.1 d2ydccbv7g31yj.cloudfront.net
 127.0.0.1 d3tq7gtaad4z5i.cloudfront.net
 127.0.0.1 dnn506yrbagrg.cloudfront.net
 127.0.0.1 dtym7iokkjlif.cloudfront.net
@@ -7147,7 +7122,6 @@
 127.0.0.1 log.a.cocolog-nifty.com
 
 # code-r.jp
-127.0.0.1 code-r.jp
 
 # codeads.com
 127.0.0.1 codeads.com
@@ -7444,7 +7418,6 @@
 127.0.0.1 cpalead.com
 
 # cpatrac.com
-127.0.0.1 cpatrac.com
 
 # cplaza.ne.jp
 127.0.0.1 adp.cplaza.ne.jp
@@ -7683,7 +7656,6 @@
 127.0.0.1 omotenashi.cygames.jp
 
 # cygo.net
-127.0.0.1 search.cygo.net
 
 # czech-sex.cz
 127.0.0.1 banner.czech-sex.cz
@@ -8115,7 +8087,6 @@
 127.0.0.1 widget-view.dmm.com
 
 # dmpi.net
-127.0.0.1 ad.dmpi.net
 
 # dmregister.com
 127.0.0.1 gcirm.dmregister.com
@@ -8888,7 +8859,6 @@
 127.0.0.1 countus4.editeurjavascript.com
 
 # edomz.com
-127.0.0.1 edomz.com
 
 # effectivebrand.com
 127.0.0.1 search.effectivebrand.com
@@ -9713,7 +9683,6 @@
 127.0.0.1 fam-ad.com
 127.0.0.1 img.fam-ad.com
 127.0.0.1 mail.fam-ad.com
-127.0.0.1 mx1.fam-ad.com
 
 # fancrew.jp
 127.0.0.1 fancrew.jp
@@ -9965,7 +9934,6 @@
 127.0.0.1 firstlightera.com
 
 # firstlook.com
-127.0.0.1 cdn.firstlook.com
 127.0.0.1 firstlook.com
 
 # firstname.com
@@ -11123,7 +11091,6 @@
 # googlle.in
 
 # googlus.com
-127.0.0.1 googlus.com
 
 # gopopup.com
 127.0.0.1 gopopup.com
@@ -12299,7 +12266,6 @@
 127.0.0.1 xid.i-mobile.co.jp
 
 # i1media.no
-127.0.0.1 i1media.no
 
 # i2ad.jp
 127.0.0.1 ad1.i2ad.jp
@@ -13693,7 +13659,6 @@
 127.0.0.1 layer-ads.de
 
 # lbb.org
-127.0.0.1 ad.lbb.org
 
 # lbn.ru
 127.0.0.1 234.media.lbn.ru
@@ -13823,7 +13788,6 @@
 127.0.0.1 js.tongji.linezing.com
 
 # link-a.net
-127.0.0.1 link-a.net
 
 # link-ag.net
 127.0.0.1 link-ag.net
@@ -14661,7 +14625,6 @@
 127.0.0.1 media.m-adx.com
 
 # m-arata.com
-127.0.0.1 m-arata.com
 
 # m-live.jp
 127.0.0.1 m-live.jp
@@ -14906,7 +14869,6 @@
 # maxymiser.net
 
 # mb01.com
-127.0.0.1 mb01.com
 
 # mbga.jp
 127.0.0.1 ad-a.sp.mbga.jp
@@ -16335,7 +16297,6 @@
 127.0.0.1 netprefs.com
 
 # netrefer.com
-127.0.0.1 media.netrefer.com
 
 # netremote.com
 127.0.0.1 netremote.com
@@ -16455,7 +16416,6 @@
 127.0.0.1 ads.newsint.co.uk
 
 # newsland.it
-127.0.0.1 ads.newsland.it
 
 # newsmax.com
 127.0.0.1 oascentral.newsmax.com
@@ -17187,13 +17147,8 @@
 127.0.0.1 data3.perf.overture.com
 127.0.0.1 data4.perf.overture.com
 127.0.0.1 dmxml.smartname.overture.com
-127.0.0.1 html.imeem.overture.com
-127.0.0.1 html.overture.com
 127.0.0.1 overture.com
 127.0.0.1 perf.overture.com
-127.0.0.1 xml.ivillage.overture.com
-127.0.0.1 xml.overture.com
-127.0.0.1 xml.weather.overture.com
 127.0.0.1 ypn-jscs.overture.com
 
 # owlair.net
@@ -17498,7 +17453,6 @@
 # penguin.cz
 
 # penix.nl
-127.0.0.1 penix.nl
 
 # penki.lt
 127.0.0.1 counter.top100.penki.lt
@@ -17739,7 +17693,6 @@
 127.0.0.1 metrics.us.playstation.com
 
 # plexusmedia.net
-127.0.0.1 plexusmedia.net
 
 # plug.it
 127.0.0.1 i.plug.it
@@ -18296,7 +18249,6 @@
 127.0.0.1 quickinfo247.com
 
 # quickinspirations.com
-127.0.0.1 quickinspirations.com
 
 # quinst.com
 127.0.0.1 quinst.com
@@ -18608,7 +18560,6 @@
 127.0.0.1 regulationprivilegescan.top
 
 # reimageplus.com
-127.0.0.1 ja.reimageplus.com
 
 # reklamanet.net
 127.0.0.1 reklamanet.net
@@ -19523,8 +19474,6 @@
 127.0.0.1 dr-dmm-order-sp.shinobi.jp
 127.0.0.1 dr-dmmdouga.shinobi.jp
 127.0.0.1 dr-dmmmono.shinobi.jp
-127.0.0.1 dr-fanza-order-pc.shinobi.jp
-127.0.0.1 dr-fanza-order-sp.shinobi.jp
 127.0.0.1 dr-gate-city-heaven-v2.shinobi.jp
 127.0.0.1 dr-heaven-41.shinobi.jp
 127.0.0.1 dr-heaven-42.shinobi.jp
@@ -19679,7 +19628,6 @@
 127.0.0.1 siccash.com
 
 # sictalk.com
-127.0.0.1 sictalk.com
 
 # sidefind.com
 127.0.0.1 cache.sidefind.com
@@ -20723,7 +20671,6 @@
 127.0.0.1 surfaccuracy.com
 
 # surfcounters.com
-127.0.0.1 counter.surfcounters.com
 
 # surfernetwork.com
 
@@ -20828,7 +20775,6 @@
 127.0.0.1 cdn.taboolasyndication.com
 
 # tafmaster.com
-127.0.0.1 tafmaster.com
 
 # tagcash.com
 127.0.0.1 tagcash.com
@@ -20988,7 +20934,6 @@
 127.0.0.1 img.techweb.com
 
 # teenhost.net
-127.0.0.1 teenhost.net
 
 # teensparty.net
 127.0.0.1 teensparty.net
@@ -20997,7 +20942,6 @@
 127.0.0.1 ad.tek.no
 
 # teknosurf3.com
-127.0.0.1 teknosurf3.com
 
 # teknum.com
 127.0.0.1 s1.teknum.com
@@ -21368,7 +21312,6 @@
 127.0.0.1 topmeds10.com
 
 # topmmorpgsites.com
-127.0.0.1 topmmorpgsites.com
 
 # topmoxie.com
 127.0.0.1 topmoxie.com
@@ -21498,7 +21441,6 @@
 127.0.0.1 trackmysales.com
 
 # trackword.biz
-127.0.0.1 trackword.biz
 
 # trade-in-value.com
 127.0.0.1 trade-in-value.com
@@ -22375,7 +22317,6 @@
 127.0.0.1 ads.videofen.com
 
 # videosz.com
-127.0.0.1 banners.videosz.com
 127.0.0.1 cdn.feeds.videosz.com
 127.0.0.1 feeds.videosz.com
 
@@ -23050,7 +22991,6 @@
 127.0.0.1 api.wifishare.jp
 
 # wikia-beacon.com
-127.0.0.1 a.wikia-beacon.com
 
 # wikia.com
 127.0.0.1 athena-ads.wikia.com
@@ -23831,8 +23771,6 @@
 127.0.0.1 zantracker.com
 
 # zap2it.com
-127.0.0.1 tvlistings3.zap2it.com
-127.0.0.1 tvlistings4.zap2it.com
 
 # zapspot.com
 127.0.0.1 download.zapspot.com
@@ -23886,7 +23824,6 @@
 127.0.0.1 zhopa.net
 
 # ziffdavisinternet.com
-127.0.0.1 enewsletters.ziffdavisinternet.com
 
 # zillow.com
 127.0.0.1 metrics.zillow.com
