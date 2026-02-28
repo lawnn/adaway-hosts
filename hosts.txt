@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2026/02/01
-# block hosts: 13001 entry
+# last updated: 2026/03/01
+# block hosts: 12956 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -99,7 +99,6 @@
 127.0.0.1 1directory.ru
 
 # 1mobile.com
-127.0.0.1 ads.1mobile.com
 
 # 1okunin.com
 127.0.0.1 ad.1okunin.com
@@ -2581,7 +2580,6 @@
 127.0.0.1 adfuzz.com
 
 # adgardener.com
-127.0.0.1 adgardener.com
 
 # adgear.com
 127.0.0.1 adgear.com
@@ -4419,7 +4417,6 @@
 
 # amazon-adsystem.com
 127.0.0.1 aax-us-east.amazon-adsystem.com
-127.0.0.1 ps-jp.amazon-adsystem.com
 127.0.0.1 s.amazon-adsystem.com
 127.0.0.1 wms-fe.amazon-adsystem.com
 
@@ -4959,7 +4956,6 @@
 127.0.0.1 avazudsp.net
 
 # avenfeld.com
-127.0.0.1 avenfeld.com
 
 # avenuea.com
 127.0.0.1 avenuea.com
@@ -4976,7 +4972,6 @@
 127.0.0.1 rev.avsforum.com
 
 # avsystemcare.com
-127.0.0.1 avsystemcare.com
 
 # avusa.co.za
 127.0.0.1 ads.avusa.co.za
@@ -5722,7 +5717,6 @@
 127.0.0.1 adserver.bloodhorse.com
 
 # bloomberg.com
-127.0.0.1 metrics.bloomberg.com
 
 # blowsearch.com
 127.0.0.1 blowsearch.com
@@ -5763,7 +5757,6 @@
 127.0.0.1 bluewhaleweb.com
 
 # bluewin.ch
-127.0.0.1 o.bluewin.ch
 
 # bmmetrix.com
 127.0.0.1 t.bmmetrix.com
@@ -5791,8 +5784,6 @@
 127.0.0.1 ranks.boardtracker.com
 
 # bodisparking.com
-127.0.0.1 11233.bodisparking.com
-127.0.0.1 bodisparking.com
 
 # bodybuilding.com
 127.0.0.1 n.bodybuilding.com
@@ -5867,7 +5858,6 @@
 
 # braincash.com
 127.0.0.1 braincash.com
-127.0.0.1 track.braincash.com
 
 # brand.net
 127.0.0.1 ads.brand.net
@@ -6181,7 +6171,6 @@
 127.0.0.1 show.buzzcity.net
 
 # buzzsession.com
-127.0.0.1 tgp.buzzsession.com
 
 # bwin90.com
 127.0.0.1 bwin90.com
@@ -6236,7 +6225,6 @@
 127.0.0.1 banners.camdough.com
 
 # camelmedia.net
-127.0.0.1 openx.camelmedia.net
 
 # campaignmonitor.com
 127.0.0.1 campaignmonitor.com
@@ -8719,8 +8707,6 @@
 # e-mailcom.co.uk
 
 # e-messenger.net
-127.0.0.1 vad.e-messenger.net
-127.0.0.1 vcontent.e-messenger.net
 
 # e-omnibus.co.jp
 127.0.0.1 e-omnibus.co.jp
@@ -9377,7 +9363,6 @@
 127.0.0.1 banners.espiasadictos.com
 
 # estat.com
-127.0.0.1 w.estat.com
 
 # etahub.com
 127.0.0.1 etahub.com
@@ -9477,7 +9462,6 @@
 # evolvemediametrics.com
 
 # evtv1.com
-127.0.0.1 ads.evtv1.com
 
 # ewordofmouth.com
 127.0.0.1 ewordofmouth.com
@@ -10219,7 +10203,6 @@
 127.0.0.1 popunder.fpctraffic.com
 
 # fpctraffic2.com
-127.0.0.1 fpctraffic2.com
 
 # fplive.net
 
@@ -10949,7 +10932,6 @@
 # go-girly.com
 
 # go-west.nl
-127.0.0.1 stats.go-west.nl
 
 # go.com
 127.0.0.1 ad.family.go.com
@@ -11184,7 +11166,6 @@
 127.0.0.1 gree.jp
 
 # gree.net
-127.0.0.1 reward.gree.net
 
 # greenpixels.com
 127.0.0.1 stats.greenpixels.com
@@ -12400,7 +12381,6 @@
 127.0.0.1 log.idg.no
 
 # idgworldexpo.com
-127.0.0.1 ads.idgworldexpo.com
 
 # idmnet.pl
 127.0.0.1 adidm.idmnet.pl
@@ -12726,8 +12706,6 @@
 127.0.0.1 indystar.com
 
 # inet1.com
-127.0.0.1 ads.inet1.com
-127.0.0.1 ads7.inet1.com
 
 # inetinteractive.com
 
@@ -16330,13 +16308,10 @@
 127.0.0.1 ns1.netster.net
 
 # nettravel.com
-127.0.0.1 ad56.nettravel.com
-127.0.0.1 ad89.nettravel.com
 
 # netvenda.com
 
 # netvertising.be
-127.0.0.1 netvertising.be
 
 # netway.at
 127.0.0.1 pfead1.netway.at
@@ -16385,7 +16360,6 @@
 127.0.0.1 metrics.newcars.com
 
 # newcentury.net
-127.0.0.1 adserv.newcentury.net
 
 # newgrounds.com
 127.0.0.1 ads.newgrounds.com
@@ -16545,7 +16519,6 @@
 127.0.0.1 nomen-est-omen.de
 
 # nonstoppartner.de
-127.0.0.1 banner.nonstoppartner.de
 
 # nope.dk
 127.0.0.1 counter.nope.dk
@@ -16990,7 +16963,6 @@
 127.0.0.1 tracking.opienetwork.com
 
 # opinionbar.com
-127.0.0.1 invitation.opinionbar.com
 
 # opinionlab.com
 127.0.0.1 ccc01.opinionlab.com
@@ -17306,7 +17278,6 @@
 127.0.0.1 parship.co.uk
 
 # partage-facile.com
-127.0.0.1 partage-facile.com
 
 # partner-ads.com
 127.0.0.1 partner-ads.com
@@ -17858,7 +17829,6 @@
 127.0.0.1 track.pornaccess.com
 
 # pornhost.com
-127.0.0.1 toplist.pornhost.com
 
 # pornhublive.com
 127.0.0.1 ifa.pornhublive.com
@@ -18361,7 +18331,6 @@
 # ranking.com
 
 # rankingscout.com
-127.0.0.1 rankingscout.com
 
 # ranks.com
 127.0.0.1 ranks.com
@@ -18536,7 +18505,6 @@
 127.0.0.1 reedbusiness.com
 
 # reemo-ad.jp
-127.0.0.1 js.dsp.reemo-ad.jp
 
 # referer.org
 127.0.0.1 referer.org
@@ -19003,7 +18971,6 @@
 127.0.0.1 register.screensaver.com
 
 # screensavers.com
-127.0.0.1 cachef.screensavers.com
 
 # scripps.com
 127.0.0.1 apptap.scripps.com
@@ -19735,7 +19702,6 @@
 127.0.0.1 sitepal.com
 
 # sitepoint.com
-127.0.0.1 advertpro.sitepoint.com
 
 # sitesense.com
 127.0.0.1 adserver.sitesense.com
@@ -19880,7 +19846,6 @@
 127.0.0.1 cdn1.smartadserver.com
 127.0.0.1 diff.smartadserver.com
 127.0.0.1 diff3.smartadserver.com
-127.0.0.1 im2.smartadserver.com
 127.0.0.1 mobile.smartadserver.com
 127.0.0.1 smartadserver.com
 127.0.0.1 ww1.smartadserver.com
@@ -20273,9 +20238,6 @@
 127.0.0.1 oascentral.stansberryresearch.com
 
 # stardialer.de
-127.0.0.1 help.stardialer.de
-127.0.0.1 install.stardialer.de
-127.0.0.1 stardialer.de
 
 # stardoll.com
 127.0.0.1 ads.stardoll.com
@@ -22308,7 +22270,6 @@
 # vidavee.com
 
 # video-pomp.com
-127.0.0.1 video-pomp.com
 
 # videoegg.com
 127.0.0.1 videoegg.com
@@ -22321,7 +22282,6 @@
 127.0.0.1 feeds.videosz.com
 
 # vidsense.com
-127.0.0.1 ads.vidsense.com
 
 # vidz.com
 127.0.0.1 webdata.vidz.com
@@ -23129,8 +23089,6 @@
 127.0.0.1 ads.world-fusigi.net
 
 # worldbannerexchange.com
-127.0.0.1 links.worldbannerexchange.com
-127.0.0.1 worldbannerexchange.com
 
 # worldcat.org
 127.0.0.1 metric.worldcat.org
@@ -23181,7 +23139,6 @@
 127.0.0.1 wundercounter.com
 
 # wunderground.com
-127.0.0.1 banners.wunderground.com
 
 # wurfl.io
 127.0.0.1 wurfl.io
@@ -23198,7 +23155,6 @@
 127.0.0.1 i.wz.cz
 
 # x-lift.jp
-127.0.0.1 x-lift.jp
 
 # x-road.co.kr
 
@@ -23457,7 +23413,6 @@
 127.0.0.1 yads.yahoo.co.jp
 127.0.0.1 yads.yjtag.yahoo.co.jp
 127.0.0.1 ybx.yahoo.co.jp
-127.0.0.1 yeas.yahoo.co.jp
 
 # yahoo.com
 127.0.0.1 360.yahoo.com
