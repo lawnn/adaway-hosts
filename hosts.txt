@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2026/03/01
-# block hosts: 12956 entry
+# last updated: 2026/04/01
+# block hosts: 12881 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -1663,8 +1663,6 @@
 127.0.0.1 ads.5ci.lt
 
 # 5i8xkqjmqubv.top
-127.0.0.1 claim-reward.5i8xkqjmqubv.top
-127.0.0.1 downloadapp.5i8xkqjmqubv.top
 
 # 6.cn
 127.0.0.1 shrek.6.cn
@@ -3485,7 +3483,6 @@
 127.0.0.1 serverfarm.adplans.info
 
 # adpolestar.net
-127.0.0.1 adpolestar.net
 
 # adpon.jp
 127.0.0.1 ad.adpon.jp
@@ -4327,7 +4324,6 @@
 127.0.0.1 static.alimama.com
 
 # alistcloud.com
-127.0.0.1 cdn.alistcloud.com
 
 # alivedoors.com
 127.0.0.1 blog.alivedoors.com
@@ -4394,7 +4390,6 @@
 127.0.0.1 amateur-porn-links.com
 
 # amateurdevils.com
-127.0.0.1 amateurdevils.com
 
 # amateurgalls.com
 
@@ -6116,7 +6111,6 @@
 # bulletproofsoft.com
 
 # bullseye-media.net
-127.0.0.1 bullseye-media.net
 
 # bumq.com
 
@@ -6390,7 +6384,6 @@
 127.0.0.1 cashpile.com
 
 # cashring.com
-127.0.0.1 stats.cashring.com
 
 # cashspace.com
 127.0.0.1 cashspace.com
@@ -6716,7 +6709,6 @@
 127.0.0.1 stat.cliche.se
 
 # click-123.com
-127.0.0.1 click-123.com
 
 # click-count.info
 127.0.0.1 click-count.info
@@ -7157,7 +7149,6 @@
 # com.ru
 
 # com2us.net
-127.0.0.1 com2ushub.com2us.net
 127.0.0.1 s.com2us.net
 
 # comcast.net
@@ -9651,7 +9642,6 @@
 127.0.0.1 a.facdn.net
 
 # failcube.ru
-127.0.0.1 failcube.ru
 
 # fairfax.com.au
 127.0.0.1 ads.fairfax.com.au
@@ -9732,7 +9722,6 @@
 127.0.0.1 counter.fatcow.com
 
 # favorit-network.com
-127.0.0.1 download.favorit-network.com
 
 # faxo.com
 
@@ -10247,7 +10236,6 @@
 127.0.0.1 securinews.free.fr
 
 # free2try.com
-127.0.0.1 free2try.com
 
 # freebanner.com
 127.0.0.1 freebanner.com
@@ -11079,9 +11067,7 @@
 
 # gorillanation.com
 127.0.0.1 ads.gorillanation.com
-127.0.0.1 cdn.springboard.gorillanation.com
 127.0.0.1 cdn.triggertag.gorillanation.com
-127.0.0.1 cms.springboard.gorillanation.com
 127.0.0.1 images.gorillanation.com
 
 # gorodmsk.ru
@@ -11152,7 +11138,6 @@
 127.0.0.1 grapeshot.co.uk
 
 # gratuito.st
-127.0.0.1 adv.gratuito.st
 
 # gravityrd.com
 
@@ -11991,36 +11976,6 @@
 127.0.0.1 banners.hotlinks.net
 
 # hotlog.ru
-127.0.0.1 click.hotlog.ru
-127.0.0.1 hit.hotlog.ru
-127.0.0.1 hit1.hotlog.ru
-127.0.0.1 hit10.hotlog.ru
-127.0.0.1 hit13.hotlog.ru
-127.0.0.1 hit14.hotlog.ru
-127.0.0.1 hit15.hotlog.ru
-127.0.0.1 hit16.hotlog.ru
-127.0.0.1 hit17.hotlog.ru
-127.0.0.1 hit18.hotlog.ru
-127.0.0.1 hit19.hotlog.ru
-127.0.0.1 hit2.hotlog.ru
-127.0.0.1 hit21.hotlog.ru
-127.0.0.1 hit22.hotlog.ru
-127.0.0.1 hit23.hotlog.ru
-127.0.0.1 hit24.hotlog.ru
-127.0.0.1 hit25.hotlog.ru
-127.0.0.1 hit26.hotlog.ru
-127.0.0.1 hit27.hotlog.ru
-127.0.0.1 hit28.hotlog.ru
-127.0.0.1 hit29.hotlog.ru
-127.0.0.1 hit3.hotlog.ru
-127.0.0.1 hit30.hotlog.ru
-127.0.0.1 hit35.hotlog.ru
-127.0.0.1 hit4.hotlog.ru
-127.0.0.1 hit40.hotlog.ru
-127.0.0.1 hit5.hotlog.ru
-127.0.0.1 hit6.hotlog.ru
-127.0.0.1 hit7.hotlog.ru
-127.0.0.1 hit9.hotlog.ru
 127.0.0.1 hotlog.ru
 
 # hotplugins.com
@@ -13403,7 +13358,6 @@
 # kentonline.co.uk
 
 # ketchapp.org
-127.0.0.1 ketchapp.org
 
 # keygen.us
 127.0.0.1 keygen.us
@@ -13698,7 +13652,6 @@
 127.0.0.1 advert.leo.org
 
 # letssearch.com
-127.0.0.1 search.letssearch.com
 
 # letsstat.nl
 127.0.0.1 engine.letsstat.nl
@@ -13882,7 +13835,6 @@
 127.0.0.1 m.banner.linksynergy.com
 127.0.0.1 merchant.linksynergy.com
 127.0.0.1 mftp.linksynergy.com
-127.0.0.1 r2.linksynergy.com
 
 # linktarget.com
 127.0.0.1 linktarget.com
@@ -14580,9 +14532,6 @@
 127.0.0.1 scripts.lycos.com
 
 # lycos.de
-127.0.0.1 ads.lycos.de
-127.0.0.1 ads.tripod.lycos.de
-127.0.0.1 fe.lea.lycos.de
 
 # lycos.fr
 127.0.0.1 ads.lycos.fr
@@ -14656,7 +14605,6 @@
 127.0.0.1 madserver.net
 
 # madserving.cn
-127.0.0.1 ad1.madserving.cn
 
 # madvertise.de
 127.0.0.1 madvertise.de
@@ -14698,7 +14646,6 @@
 127.0.0.1 ads.mainetoday.com
 
 # mainpean.de
-127.0.0.1 voicecall.mainpean.de
 
 # maio.jp
 127.0.0.1 maio.jp
@@ -14984,8 +14931,6 @@
 127.0.0.1 ads.mediaodyssey.com
 
 # mediaonenetwork.net
-127.0.0.1 acvs.mediaonenetwork.net
-127.0.0.1 acvsrv.mediaonenetwork.net
 
 # mediaplazza.com
 127.0.0.1 mediaplazza.com
@@ -15367,7 +15312,6 @@
 127.0.0.1 get.mobu.jp
 
 # mobus.cn
-127.0.0.1 mobus.cn
 
 # mobvault.com
 
@@ -15773,9 +15717,6 @@
 127.0.0.1 x.myspace.com
 
 # myspacecdn.com
-127.0.0.1 a39.ac-images.myspacecdn.com
-127.0.0.1 a615.ac-images.myspacecdn.com
-127.0.0.1 a885.ac-images.myspacecdn.com
 
 # mystat-in.net
 127.0.0.1 mystat-in.net
@@ -16222,7 +16163,6 @@
 127.0.0.1 netgeo.com
 
 # netgoo.com
-127.0.0.1 ad.netgoo.com
 
 # netidentity.com
 127.0.0.1 netidentity.com
@@ -16357,7 +16297,6 @@
 127.0.0.1 newbie.com
 
 # newcars.com
-127.0.0.1 metrics.newcars.com
 
 # newcentury.net
 
@@ -17065,7 +17004,6 @@
 127.0.0.1 img1.us4.outblaze.com
 
 # outboundlink.me
-127.0.0.1 outboundlink.me
 
 # outboundlink.net
 127.0.0.1 outboundlink.net
@@ -17950,10 +17888,8 @@
 127.0.0.1 stg-bmp.primead.jp
 
 # primecaster.net
-127.0.0.1 api.primecaster.net
 
 # primetime.net
-127.0.0.1 primetime.net
 
 # primorye.ru
 127.0.0.1 ad1.primorye.ru
@@ -18107,7 +18043,6 @@
 127.0.0.1 puchipura.com
 
 # pudo.no
-127.0.0.1 pudo.no
 
 # pulse360.com
 127.0.0.1 pulse360.com
@@ -18396,8 +18331,6 @@
 # realbannerads.com
 
 # realcastmedia.com
-127.0.0.1 ads.realcastmedia.com
-127.0.0.1 my.realcastmedia.com
 
 # realcities.com
 127.0.0.1 ads.realcities.com
@@ -20749,7 +20682,6 @@
 127.0.0.1 e01.taggyad.jp
 127.0.0.1 imp01.taggyad.jp
 127.0.0.1 imp04.taggyad.jp
-127.0.0.1 mrk01.dsp.taggyad.jp
 127.0.0.1 redash.taggyad.jp
 127.0.0.1 rsrc.taggyad.jp
 
@@ -21016,7 +20948,6 @@
 127.0.0.1 adcounter.theglobeandmail.com
 127.0.0.1 adrates.theglobeandmail.com
 127.0.0.1 ecestats.theglobeandmail.com
-127.0.0.1 visit.theglobeandmail.com
 
 # thehour.com
 127.0.0.1 ads.thehour.com
@@ -22686,7 +22617,6 @@
 127.0.0.1 banners.webcams.com
 
 # webcashmaker.com
-127.0.0.1 webcashmaker.com
 
 # webclients.net
 127.0.0.1 webclients.net
@@ -22820,10 +22750,6 @@
 127.0.0.1 websitesponsor.de
 
 # websponsors.com
-127.0.0.1 a.websponsors.com
-127.0.0.1 g.websponsors.com
-127.0.0.1 ocs.websponsors.com
-127.0.0.1 websponsors.com
 
 # webstat.com
 127.0.0.1 hits.webstat.com
@@ -23659,7 +23585,6 @@
 127.0.0.1 adjuggler.yourdictionary.com
 
 # yourfuckbook.com
-127.0.0.1 delivery.yourfuckbook.com
 
 # yourtracking.net
 127.0.0.1 yourtracking.net
