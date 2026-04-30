@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2026/04/01
-# block hosts: 12881 entry
+# last updated: 2026/05/01
+# block hosts: 12822 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -2018,7 +2018,6 @@
 127.0.0.1 ads.activepower.net
 
 # activeshopper.com
-127.0.0.1 bestoffers.activeshopper.com
 127.0.0.1 e-zshopper.activeshopper.com
 127.0.0.1 mini.activeshopper.com
 127.0.0.1 mobile.activeshopper.com
@@ -2228,8 +2227,6 @@
 # ad1data.com
 
 # ad20.net
-127.0.0.1 content.ad20.net
-127.0.0.1 core.ad20.net
 
 # ad2000.org
 
@@ -2302,7 +2299,6 @@
 127.0.0.1 adblade.com
 127.0.0.1 static.cdn.adblade.com
 127.0.0.1 web.adblade.com
-127.0.0.1 y.cdn.adblade.com
 
 # adbn.ru
 127.0.0.1 ad.pop1.adbn.ru
@@ -3692,7 +3688,6 @@
 127.0.0.1 adsoftware.com
 
 # adsoldier.com
-127.0.0.1 adsoldier.com
 
 # adsolutions.nl
 127.0.0.1 adsolutions.nl
@@ -4349,7 +4344,6 @@
 # allstargaming.net
 
 # alltop.com
-127.0.0.1 at-adserver.alltop.com
 
 # allwords.com
 127.0.0.1 allwords.com
@@ -4588,7 +4582,6 @@
 127.0.0.1 ad.angel-live.com
 
 # angelfire.com
-127.0.0.1 sidebar.angelfire.com
 
 # angelsgroup.org.uk
 127.0.0.1 openx.angelsgroup.org.uk
@@ -4597,8 +4590,6 @@
 127.0.0.1 metric.angieslist.com
 
 # angloinfo.com
-127.0.0.1 mediax.angloinfo.com
-127.0.0.1 mediaz.angloinfo.com
 
 # anm.co.uk
 127.0.0.1 iad.anm.co.uk
@@ -5625,7 +5616,6 @@
 127.0.0.1 taf.blingbucks.com
 
 # blip.tv
-127.0.0.1 ads.static.blip.tv
 
 # blizzard.com
 127.0.0.1 ads.blizzard.com
@@ -6084,7 +6074,6 @@
 127.0.0.1 cdns.brsrvr.com
 
 # brwz7.com
-127.0.0.1 www.brwz7.com
 
 # bsplayer.com
 127.0.0.1 ads.bsplayer.com
@@ -6769,7 +6758,6 @@
 127.0.0.1 promo.clickcash.com
 
 # clickcompare.co.uk
-127.0.0.1 clickcompare.co.uk
 
 # clickedyclick.com
 127.0.0.1 clickedyclick.com
@@ -7175,7 +7163,6 @@
 127.0.0.1 competeinc.com
 
 # complex.com
-127.0.0.1 content.complex.com
 
 # comprabanner.it
 127.0.0.1 comprabanner.it
@@ -7244,7 +7231,6 @@
 
 # contentabc.com
 127.0.0.1 ads2.contentabc.com
-127.0.0.1 cdn1.ads.contentabc.com
 127.0.0.1 static.contentabc.com
 
 # contents-search-windows.com
@@ -7976,7 +7962,6 @@
 127.0.0.1 r5.dir.bg
 
 # direct-xxx-access.com
-127.0.0.1 direct-xxx-access.com
 
 # directbrand.com
 127.0.0.1 directbrand.com
@@ -8901,13 +8886,11 @@
 127.0.0.1 elitedollars.com
 
 # elitemediagroup.net
-127.0.0.1 elitemediagroup.net
 
 # elitepartners.ru
 127.0.0.1 elitepartners.ru
 
 # elitetrader.com
-127.0.0.1 ads.elitetrader.com
 
 # elmaz.com
 127.0.0.1 ads.elmaz.com
@@ -10385,8 +10368,6 @@
 127.0.0.1 fx-on.com
 
 # fxclix.com
-127.0.0.1 ads.fxclix.com
-127.0.0.1 fxclix.com
 
 # fxcm.co.uk
 127.0.0.1 static.fxcm.co.uk
@@ -10550,7 +10531,6 @@
 127.0.0.1 analytics.gazeta.pl
 
 # gban.jp
-127.0.0.1 log.gban.jp
 
 # gbscript.com
 127.0.0.1 gbscript.com
@@ -11255,7 +11235,6 @@
 127.0.0.1 npad.gunosy.com
 
 # guru3d.com
-127.0.0.1 ads.guru3d.com
 
 # guruads.de
 
@@ -12138,7 +12117,6 @@
 127.0.0.1 ads2000.hw.net
 
 # hwoxt.com
-127.0.0.1 hwoxt.com
 
 # hwupgrade.it
 127.0.0.1 adv.hwupgrade.it
@@ -12178,7 +12156,6 @@
 
 # i-mobile.co.jp
 127.0.0.1 abm-ad.i-mobile.co.jp
-127.0.0.1 cgi.i-mobile.co.jp
 127.0.0.1 i-mobile.co.jp
 127.0.0.1 spad.i-mobile.co.jp
 127.0.0.1 spadp.i-mobile.co.jp
@@ -12946,7 +12923,6 @@
 127.0.0.1 ip.ro
 
 # ip193.cn
-127.0.0.1 ip193.cn
 
 # ipcount.net
 127.0.0.1 ipcount.net
@@ -13042,7 +13018,6 @@
 127.0.0.1 stat.it168.com
 
 # itarea.org
-127.0.0.1 ads.itarea.org
 
 # itcompany.com
 127.0.0.1 itcompany.com
@@ -13240,7 +13215,6 @@
 127.0.0.1 juicyads.com
 127.0.0.1 manage-qa.juicyads.com
 127.0.0.1 manage.juicyads.com
-127.0.0.1 mm-api.juicyads.com
 127.0.0.1 mobile.juicyads.com
 127.0.0.1 px.juicyads.com
 127.0.0.1 redir.juicyads.com
@@ -13605,7 +13579,6 @@
 127.0.0.1 leadboltads.net
 
 # leadboltapps.net
-127.0.0.1 ad.leadboltapps.net
 
 # leadcrunch.com
 127.0.0.1 leadcrunch.com
@@ -13843,7 +13816,6 @@
 127.0.0.1 linkwithin.com
 
 # linkybank.com
-127.0.0.1 linkybank.com
 
 # linkz.com
 127.0.0.1 linkz.com
@@ -14522,13 +14494,7 @@
 127.0.0.1 hit.webcentre.lycos.co.uk
 
 # lycos.com
-127.0.0.1 adbuyer3.lycos.com
 127.0.0.1 advertising.lycos.com
-127.0.0.1 client.sidesearch.lycos.com
-127.0.0.1 cm8.lycos.com
-127.0.0.1 guestworld.tripod.lycos.com
-127.0.0.1 install.sidesearch.lycos.com
-127.0.0.1 ratings.lycos.com
 127.0.0.1 scripts.lycos.com
 
 # lycos.de
@@ -15408,7 +15374,6 @@
 127.0.0.1 moreover.com
 
 # moreto.net
-127.0.0.1 ad.moreto.net
 
 # mos.com
 127.0.0.1 mos.com
@@ -15714,7 +15679,6 @@
 127.0.0.1 fimserve.myspace.com
 127.0.0.1 nb.myspace.com
 127.0.0.1 uhpfp.myspace.com
-127.0.0.1 x.myspace.com
 
 # myspacecdn.com
 
@@ -15897,7 +15861,6 @@
 127.0.0.1 promos.naked.com
 
 # namedia.com
-127.0.0.1 namedia.com
 
 # namekuji.jp
 127.0.0.1 x5.namekuji.jp
@@ -16220,9 +16183,6 @@
 127.0.0.1 netremote.com
 
 # netscape.com
-127.0.0.1 cgi.netscape.com
-127.0.0.1 get.netscape.com
-127.0.0.1 keyword.netscape.com
 
 # netseer.com
 127.0.0.1 cmi.netseer.com
@@ -16941,7 +16901,6 @@
 127.0.0.1 orangesoda.com
 
 # orbengine.com
-127.0.0.1 cdn.orbengine.com
 
 # orbitcycle.com
 
@@ -17001,7 +16960,6 @@
 127.0.0.1 pcbutts1.ourtoolbar.com
 
 # outblaze.com
-127.0.0.1 img1.us4.outblaze.com
 
 # outboundlink.me
 
@@ -18066,7 +18024,6 @@
 127.0.0.1 pvk.jp
 
 # pwwysydh.com
-127.0.0.1 pwwysydh.com
 
 # qckjmp.com
 127.0.0.1 c.qckjmp.com
@@ -20947,7 +20904,6 @@
 # theglobeandmail.com
 127.0.0.1 adcounter.theglobeandmail.com
 127.0.0.1 adrates.theglobeandmail.com
-127.0.0.1 ecestats.theglobeandmail.com
 
 # thehour.com
 127.0.0.1 ads.thehour.com
@@ -21010,7 +20966,6 @@
 127.0.0.1 ngd.thesun.co.uk
 
 # thesurfshield.com
-127.0.0.1 thesurfshield.com
 
 # thetrainingofo.com
 127.0.0.1 ads.thetrainingofo.com
@@ -21160,7 +21115,6 @@
 127.0.0.1 x6.tonosama.jp
 
 # top-casting-termine.de
-127.0.0.1 top-casting-termine.de
 
 # top.ge
 127.0.0.1 counter.top.ge
@@ -21190,7 +21144,6 @@
 127.0.0.1 hit.topc.org
 
 # topflownews.com
-127.0.0.1 topflownews.com
 
 # toplist.cz
 127.0.0.1 toplist.cz
@@ -21634,11 +21587,6 @@
 127.0.0.1 ad.triplemind.com
 
 # tripod.com
-127.0.0.1 ads.tripod.com
-127.0.0.1 ads1.tripod.com
-127.0.0.1 counter.tripod.com
-127.0.0.1 nedstat.tripod.com
-127.0.0.1 tmarket.tripod.com
 
 # tripple.at
 127.0.0.1 banner.tripple.at
@@ -21828,7 +21776,6 @@
 127.0.0.1 s.ugo.com
 
 # ugroocuw.net
-127.0.0.1 ugroocuw.net
 
 # uijin.com
 127.0.0.1 ct2.uijin.com
@@ -22139,7 +22086,6 @@
 127.0.0.1 osc.venetian.com
 
 # ventivmedia.com
-127.0.0.1 ventivmedia.com
 
 # veoxa.com
 127.0.0.1 vu.veoxa.com
@@ -22593,7 +22539,6 @@
 
 # webads.co.uk
 127.0.0.1 adserver.webads.co.uk
-127.0.0.1 images.webads.co.uk
 
 # webads.it
 
@@ -22667,7 +22612,6 @@
 127.0.0.1 audit.webinform.hu
 
 # webiqonline.com
-127.0.0.1 webiq005.webiqonline.com
 
 # webleads-tracker.com
 127.0.0.1 stats.webleads-tracker.com
@@ -23559,15 +23503,12 @@
 127.0.0.1 ifa.youjizzlive.com
 
 # youku.com
-127.0.0.1 html.atm.youku.com
 127.0.0.1 lstat.youku.com
 127.0.0.1 static.atm.youku.com
 127.0.0.1 static.lstat.youku.com
 127.0.0.1 urchin.lstat.youku.com
 127.0.0.1 valb.atm.youku.com
-127.0.0.1 valc.atm.youku.com
 127.0.0.1 valf.atm.youku.com
-127.0.0.1 valo.atm.youku.com
 127.0.0.1 valp.atm.youku.com
 
 # youmi.net
