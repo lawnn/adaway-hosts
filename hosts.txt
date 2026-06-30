@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2026/06/01
-# block hosts: 12764 entry
+# last updated: 2026/07/01
+# block hosts: 12711 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -206,7 +206,6 @@
 127.0.0.1 ns1.247media.com
 
 # 247realmedia.co.kr
-127.0.0.1 n1.247realmedia.co.kr
 
 # 247search.com
 127.0.0.1 tracking.247search.com
@@ -1884,7 +1883,6 @@
 127.0.0.1 admin.abcsearch.com
 
 # abcstats.com
-127.0.0.1 abcstats.com
 
 # abctv.com
 
@@ -2479,8 +2477,6 @@
 127.0.0.1 addupp.com
 
 # addynamix.com
-127.0.0.1 ads.addynamix.com
-127.0.0.1 banners.addynamix.com
 
 # addynamo.com
 127.0.0.1 banners.delivery.addynamo.com
@@ -2585,11 +2581,6 @@
 # adhands.ru
 
 # adhese.com
-127.0.0.1 ads.adhsm.adhese.com
-127.0.0.1 ads.nrc.adhese.com
-127.0.0.1 pool.adhsm.adhese.com
-127.0.0.1 pool.nrc.adhese.com
-127.0.0.1 pool.sanoma.adhese.com
 
 # adhitzads.com
 127.0.0.1 adhitzads.com
@@ -3305,7 +3296,6 @@
 127.0.0.1 adlantic.nl
 
 # adlegend.com
-127.0.0.1 adlegend.com
 
 # adlink.de
 127.0.0.1 wap.adlink.de
@@ -4605,7 +4595,6 @@
 127.0.0.1 antispyware.com
 
 # antiviruspcsuite.com
-127.0.0.1 antiviruspcsuite.com
 
 # antventure.com
 127.0.0.1 antventure.com
@@ -5750,7 +5739,6 @@
 127.0.0.1 cm3.bnmq.com
 
 # bnr.bg
-127.0.0.1 bannermanager.bnr.bg
 
 # boards2go.com
 127.0.0.1 b1.boards2go.com
@@ -6077,7 +6065,6 @@
 # btstatic.com
 
 # buempliz-online.ch
-127.0.0.1 banner.buempliz-online.ch
 
 # builder.com
 127.0.0.1 builder.com
@@ -7062,11 +7049,6 @@
 127.0.0.1 counter.co.kz
 
 # cocoad.jp
-127.0.0.1 ads.cocoad.jp
-127.0.0.1 dsp.cocoad.jp
-127.0.0.1 js.cocoad.jp
-127.0.0.1 mail.cocoad.jp
-127.0.0.1 static.cocoad.jp
 
 # cocolog-nifty.com
 127.0.0.1 a.cocolog-nifty.com
@@ -7325,10 +7307,8 @@
 # counter4all.dk
 
 # counterattack.com
-127.0.0.1 counterattack.com
 
 # counterbot.com
-127.0.0.1 cb1.counterbot.com
 127.0.0.1 counterbot.com
 
 # countit.ch
@@ -8300,7 +8280,6 @@
 127.0.0.1 domainhop.com
 
 # domaining.in
-127.0.0.1 domaining.in
 
 # domainoptions.net
 
@@ -8464,13 +8443,7 @@
 127.0.0.1 www3.doubleclick.net
 
 # doublepimp.com
-127.0.0.1 ad1.doublepimp.com
-127.0.0.1 ad2.doublepimp.com
-127.0.0.1 cdn.engine.phn.doublepimp.com
-127.0.0.1 dev.doublepimp.com
 127.0.0.1 doublepimp.com
-127.0.0.1 rts.doublepimp.com
-127.0.0.1 rts.phn.doublepimp.com
 
 # doubleverify.com
 127.0.0.1 cdn.doubleverify.com
@@ -10844,7 +10817,6 @@
 127.0.0.1 globaltrack.com
 
 # globat.com
-127.0.0.1 affiliates.globat.com
 
 # globe7.com
 127.0.0.1 globe7.com
@@ -10967,7 +10939,6 @@
 127.0.0.1 ashiato.goo.ne.jp
 127.0.0.1 jira.ad.goo.ne.jp
 127.0.0.1 jupyter.ad.goo.ne.jp
-127.0.0.1 log000.goo.ne.jp
 127.0.0.1 stash.ad.goo.ne.jp
 127.0.0.1 xad200.goo.ne.jp
 
@@ -11040,7 +11011,6 @@
 127.0.0.1 goserv.com
 
 # gossipkings.com
-127.0.0.1 adtools.gossipkings.com
 
 # gostats.com
 127.0.0.1 c2.gostats.com
@@ -12469,7 +12439,6 @@
 127.0.0.1 as.yl.impact-ad.jp
 127.0.0.1 as.yp.impact-ad.jp
 127.0.0.1 aw.dw.impact-ad.jp
-127.0.0.1 bot.impact-ad.jp
 127.0.0.1 c.one.impact-ad.jp
 127.0.0.1 crrc.impact-ad.jp
 127.0.0.1 dev.x1.impact-ad.jp
@@ -12722,7 +12691,6 @@
 127.0.0.1 innity.com
 
 # ino.com
-127.0.0.1 ads.ino.com
 
 # inq7.net
 127.0.0.1 insightxe.inq7.net
@@ -12753,7 +12721,6 @@
 127.0.0.1 instafinder.com
 
 # instal.com
-127.0.0.1 ads.instal.com
 
 # instantbuzz.com
 127.0.0.1 instantbuzz.com
@@ -13444,7 +13411,6 @@
 127.0.0.1 kontaktanzeigen-fotos.de
 
 # kontera.com
-127.0.0.1 dc.kontera.com
 127.0.0.1 kontera.com
 
 # koukoku.red
@@ -14622,7 +14588,6 @@
 127.0.0.1 marchex.com
 
 # mariuana.it
-127.0.0.1 ads.mariuana.it
 
 # marketbrowser.com
 127.0.0.1 marketbrowser.com
@@ -14634,7 +14599,6 @@
 127.0.0.1 marketing-issue.com
 
 # marketing.com
-127.0.0.1 marketing.com
 
 # marketingtips.com
 127.0.0.1 marketingtips.com
@@ -16984,7 +16948,6 @@
 # owldata.com
 
 # owneriq.net
-127.0.0.1 px.owneriq.net
 
 # oxado.com
 127.0.0.1 oxado.com
@@ -17555,8 +17518,6 @@
 127.0.0.1 ads.poconorecord.com
 
 # pof.com
-127.0.0.1 d6y5.ads.pof.com
-127.0.0.1 t.ads.pof.com
 
 # pointdream.jp
 127.0.0.1 pointdream.jp
@@ -17687,7 +17648,6 @@
 127.0.0.1 porno-tv.com
 
 # pornscooter.com
-127.0.0.1 banners.pornscooter.com
 
 # porntrack.com
 127.0.0.1 aphrodite.porntrack.com
@@ -17709,7 +17669,6 @@
 127.0.0.1 prstats.postrelease.com
 
 # powweb.com
-127.0.0.1 ads.powweb.com
 127.0.0.1 affiliates.powweb.com
 
 # ppx.com
@@ -18372,7 +18331,6 @@
 # reimageplus.com
 
 # reklamanet.net
-127.0.0.1 reklamanet.net
 
 # reklamcsere.hu
 127.0.0.1 reklamcsere.hu
@@ -18851,7 +18809,6 @@
 127.0.0.1 searchdiscovered.com
 
 # searchforce.net
-127.0.0.1 sftrack.searchforce.net
 
 # searchforit.com
 127.0.0.1 searchforit.com
@@ -19640,7 +19597,6 @@
 127.0.0.1 static.ifa.slutloadlive.com
 
 # sm-ac.jp
-127.0.0.1 sm-ac.jp
 
 # smaad.jp
 127.0.0.1 ad.smaad.jp
@@ -20869,7 +20825,6 @@
 127.0.0.1 x.theledger.com
 
 # themarker.com
-127.0.0.1 dclk.themarker.com
 
 # themes.org
 127.0.0.1 ads.themes.org
@@ -21119,13 +21074,11 @@
 127.0.0.1 toprebate.com
 
 # topsajt.com
-127.0.0.1 topsajt.com
 
 # topsir.com
 127.0.0.1 topsir.com
 
 # topsite.lv
-127.0.0.1 topsite.lv
 
 # topsites.com.br
 127.0.0.1 topsites.com.br
@@ -21378,7 +21331,6 @@
 # traffichome.com
 
 # traffichome.de
-127.0.0.1 traffichome.de
 
 # trafficjuicer.com
 127.0.0.1 trafficjuicer.com
@@ -21816,7 +21768,6 @@
 127.0.0.1 untd.com
 
 # unthem.com
-127.0.0.1 api.unthem.com
 
 # uol.com.br
 127.0.0.1 adclient-af.lp.uol.com.br
@@ -22020,7 +21971,6 @@
 127.0.0.1 velocecdn.com
 
 # veloxia.com
-127.0.0.1 ads.veloxia.com
 
 # velvet.hu
 127.0.0.1 traffic.velvet.hu
@@ -22498,7 +22448,6 @@
 127.0.0.1 webalize.net
 
 # webcafe.bg
-127.0.0.1 ads.webcafe.bg
 
 # webcamclub.com
 127.0.0.1 ads.webcamclub.com
@@ -22562,7 +22511,6 @@
 127.0.0.1 stats.webleads-tracker.com
 
 # weblio.jp
-127.0.0.1 rws.weblio.jp
 
 # weblogssl.com
 127.0.0.1 ads2.weblogssl.com
@@ -22657,7 +22605,6 @@
 # webtracker.jp
 
 # webtrackerplus.com
-127.0.0.1 webtrackerplus.com
 
 # webtraxs.com
 127.0.0.1 alt.webtraxs.com
