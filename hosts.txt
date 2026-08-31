@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2026/08/01
-# block hosts: 12638 entry
+# last updated: 2026/09/01
+# block hosts: 12587 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -224,7 +224,6 @@
 127.0.0.1 28277160.com
 
 # 29g.net
-127.0.0.1 co.29g.net
 
 # 2bee.jp
 127.0.0.1 2bee.jp
@@ -1772,17 +1771,14 @@
 127.0.0.1 apptrk.a4.tl
 
 # a411.com
-127.0.0.1 banner3.a411.com
 
 # a8.net
 127.0.0.1 8pon.a8.net
 127.0.0.1 ad-api.a8.net
 127.0.0.1 ad-verification.a8.net
 127.0.0.1 ad.a8.net
-127.0.0.1 adtest.a8.net
 127.0.0.1 advertiser.a8.net
 127.0.0.1 api.a8.net
-127.0.0.1 api2.a8.net
 127.0.0.1 datafeed.a8.net
 127.0.0.1 document.a8.net
 127.0.0.1 ecsales-api.a8.net
@@ -1794,11 +1790,6 @@
 127.0.0.1 lm.a8.net
 127.0.0.1 localhost.a8.net
 127.0.0.1 ml.a8.net
-127.0.0.1 nat.a8.net
-127.0.0.1 nat2.a8.net
-127.0.0.1 nat3.a8.net
-127.0.0.1 ns6.a8.net
-127.0.0.1 ns7.a8.net
 127.0.0.1 ow.a8.net
 127.0.0.1 pub.a8.net
 127.0.0.1 px.a8.net
@@ -1814,15 +1805,12 @@
 127.0.0.1 rot9.a8.net
 127.0.0.1 rpx.a8.net
 127.0.0.1 sftp.a8.net
-127.0.0.1 sis.a8.net
 127.0.0.1 sp-api.a8.net
 127.0.0.1 statics.a8.net
 127.0.0.1 stg-sp-api.a8.net
 127.0.0.1 support.a8.net
 127.0.0.1 techdev-portal.a8.net
 127.0.0.1 trck.a8.net
-127.0.0.1 watch.a8.net
-127.0.0.1 ws.a8.net
 127.0.0.1 www.a8.net
 127.0.0.1 www10.a8.net
 127.0.0.1 www11.a8.net
@@ -2293,9 +2281,6 @@
 127.0.0.1 web.adblade.com
 
 # adbn.ru
-127.0.0.1 ad.pop1.adbn.ru
-127.0.0.1 ad.rich1.adbn.ru
-127.0.0.1 ad.top1.adbn.ru
 
 # adbonus.com
 127.0.0.1 adbonus.com
@@ -3712,7 +3697,6 @@
 127.0.0.1 adserve.adster.com
 
 # adstoclick.com
-127.0.0.1 adstoclick.com
 
 # adstore.jp
 
@@ -4553,7 +4537,6 @@
 127.0.0.1 topsites.andr.net
 
 # androidcleaner.club
-127.0.0.1 androidcleaner.club
 
 # angel-live.com
 127.0.0.1 ad.angel-live.com
@@ -5237,8 +5220,6 @@
 127.0.0.1 advert.bayarea.com
 
 # bbc.co.uk
-127.0.0.1 sa.bbc.co.uk
-127.0.0.1 stats.bbc.co.uk
 127.0.0.1 visualscience.external.bbc.co.uk
 
 # bbchat.tv
@@ -5536,7 +5517,6 @@
 127.0.0.1 ads.biznews.bg
 
 # bizographics.com
-127.0.0.1 js.bizographics.com
 127.0.0.1 sjs.bizographics.com
 
 # bizrate.com
@@ -6566,8 +6546,6 @@
 127.0.0.1 api.choicestream.com
 
 # chokertraffic.com
-127.0.0.1 chokertraffic.com
-127.0.0.1 new.chokertraffic.com
 
 # chosun.com
 127.0.0.1 adimg1.chosun.com
@@ -7089,9 +7067,6 @@
 127.0.0.1 rok.com.com
 
 # com.org
-127.0.0.1 gmail.com.org
-127.0.0.1 lycos.com.org
-127.0.0.1 microsoft.com.org
 
 # com.ru
 
@@ -7687,7 +7662,6 @@
 # datingyes.com
 
 # daum-img.net
-127.0.0.1 amsimg.daum-img.net
 
 # daz.com
 127.0.0.1 daz.com
@@ -7937,7 +7911,6 @@
 127.0.0.1 directorym.com
 
 # directstuff.com
-127.0.0.1 directstuff.com
 
 # directtrack.com
 
@@ -8283,7 +8256,6 @@
 127.0.0.1 s.domob.cn
 
 # domplayer.com
-127.0.0.1 download.domplayer.com
 
 # donorschoose.org
 127.0.0.1 donorschoose.org
@@ -9323,7 +9295,6 @@
 127.0.0.1 tracking.euroads.dk
 
 # eurodialer.com
-127.0.0.1 dialer.eurodialer.com
 
 # eurolive.com
 127.0.0.1 media.eurolive.com
@@ -9467,7 +9438,6 @@
 127.0.0.1 ads.exosrv.com
 
 # expandsearchanswers.com
-127.0.0.1 click.expandsearchanswers.com
 
 # expat-blog.biz
 
@@ -9612,7 +9582,6 @@
 127.0.0.1 sv98.fancs.com
 127.0.0.1 sv99.fancs.com
 127.0.0.1 tech-blog.fancs.com
-127.0.0.1 techlabo.fancs.com
 127.0.0.1 www.fancs.com
 
 # fandango.com
@@ -11121,7 +11090,6 @@
 127.0.0.1 csi.gstatic.com
 
 # gtop.ro
-127.0.0.1 fx.gtop.ro
 127.0.0.1 gtop.ro
 127.0.0.1 static.gtop.ro
 
@@ -11293,7 +11261,6 @@
 127.0.0.1 minerva.healthcentral.com
 
 # hearstmags.com
-127.0.0.1 ads.hearstmags.com
 127.0.0.1 services.hearstmags.com
 127.0.0.1 subscribe.hearstmags.com
 
@@ -11310,7 +11277,6 @@
 127.0.0.1 ads2.helpos.com
 
 # hentaicounter.com
-127.0.0.1 hentaicounter.com
 
 # heraldextra.com
 127.0.0.1 adserver.heraldextra.com
@@ -12756,7 +12722,6 @@
 127.0.0.1 banners.intergal.com
 
 # intermediads.com
-127.0.0.1 intermediads.com
 
 # internet.cz
 127.0.0.1 internet.cz
@@ -13617,7 +13582,6 @@
 127.0.0.1 link-ag.net
 
 # link-booster.de
-127.0.0.1 link-booster.de
 
 # link-trade.net
 127.0.0.1 ayapon.link-trade.net
@@ -15271,7 +15235,6 @@
 # moreniche.com
 
 # moreover.com
-127.0.0.1 d.moreover.com
 127.0.0.1 moreover.com
 
 # moreto.net
@@ -15316,7 +15279,6 @@
 127.0.0.1 mreco0.jp
 
 # mrskin.com
-127.0.0.1 ads.mrskin.com
 
 # ms-mvp.org
 
@@ -17051,7 +17013,6 @@
 127.0.0.1 static.parkingpanel.com
 
 # parkingspa.com
-127.0.0.1 hus.parkingspa.com
 
 # parom.hu
 127.0.0.1 ad.parom.hu
@@ -17404,7 +17365,6 @@
 127.0.0.1 d.pixiv.org
 
 # planet-multiplayer.de
-127.0.0.1 adserver.planet-multiplayer.de
 
 # planet.nl
 127.0.0.1 ads.planet.nl
@@ -17533,7 +17493,6 @@
 127.0.0.1 pongoresume.com
 
 # pop-under.ru
-127.0.0.1 pop-under.ru
 
 # popads.net
 127.0.0.1 c1.popads.net
@@ -17784,7 +17743,6 @@
 127.0.0.1 protect-x.com
 
 # protizer.ru
-127.0.0.1 protizer.ru
 
 # proton-tm.com
 127.0.0.1 proton-tm.com
@@ -19301,8 +19259,6 @@
 127.0.0.1 a.shopserve.jp
 
 # shopstyle.com
-127.0.0.1 ads.shopstyle.com
-127.0.0.1 omniture.shopstyle.com
 
 # shopzilla.com
 127.0.0.1 adserve.shopzilla.com
@@ -20071,7 +20027,6 @@
 127.0.0.1 ads.statesmanjournal.com
 
 # statgep.hu
-127.0.0.1 statgep.hu
 
 # static-files.com
 127.0.0.1 adn.static-files.com
@@ -20108,7 +20063,6 @@
 127.0.0.1 ads.stileproject.com
 
 # storm8.com
-127.0.0.1 ads.storm8.com
 
 # strakka.com
 127.0.0.1 strakka.com
@@ -20224,7 +20178,6 @@
 127.0.0.1 superfastcdn.com
 
 # superpages.com
-127.0.0.1 metric.superpages.com
 
 # superstats.com
 127.0.0.1 123counter.superstats.com
@@ -21602,7 +21555,6 @@
 127.0.0.1 hit-counter.udub.com
 
 # uea.edu.br
-127.0.0.1 proadm.uea.edu.br
 
 # ugo.com
 127.0.0.1 mediamgr.ugo.com
@@ -22556,7 +22508,6 @@
 127.0.0.1 webtrends.org
 
 # webtrendslive.com
-127.0.0.1 webtrendslive.com
 
 # webuytraffic.com
 127.0.0.1 webuytraffic.com
@@ -22568,7 +22519,6 @@
 127.0.0.1 wec.co.kr
 
 # welmotch.jp
-127.0.0.1 welmotch.jp
 
 # wesh.com
 127.0.0.1 scrooge.wesh.com
@@ -22817,7 +22767,6 @@
 127.0.0.1 rek.www.wp.pl
 
 # wretch.cc
-127.0.0.1 ad.wretch.cc
 
 # wsod.com
 
