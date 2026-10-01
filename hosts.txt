@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2026/09/01
-# block hosts: 12587 entry
+# last updated: 2026/10/01
+# block hosts: 12540 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -1550,7 +1550,6 @@
 127.0.0.1 pixel.33across.com
 
 # 360doo.com
-127.0.0.1 cx.360doo.com
 
 # 360yield.com
 127.0.0.1 360yield.com
@@ -1805,9 +1804,7 @@
 127.0.0.1 rot9.a8.net
 127.0.0.1 rpx.a8.net
 127.0.0.1 sftp.a8.net
-127.0.0.1 sp-api.a8.net
 127.0.0.1 statics.a8.net
-127.0.0.1 stg-sp-api.a8.net
 127.0.0.1 support.a8.net
 127.0.0.1 techdev-portal.a8.net
 127.0.0.1 trck.a8.net
@@ -3602,7 +3599,6 @@
 127.0.0.1 adserver01.de
 
 # adserversolutions.com
-127.0.0.1 adserversolutions.com
 
 # adserverus.info
 127.0.0.1 adserverus.info
@@ -3694,7 +3690,6 @@
 127.0.0.1 match.adsrvr.org
 
 # adster.com
-127.0.0.1 adserve.adster.com
 
 # adstoclick.com
 
@@ -3851,7 +3846,6 @@
 127.0.0.1 adulttraffic.ru
 
 # adultworld.com
-127.0.0.1 newt1.adultworld.com
 
 # adv-adserver.com
 127.0.0.1 adv-adserver.com
@@ -4159,7 +4153,6 @@
 127.0.0.1 www.afi-b.com
 
 # afixi.com
-127.0.0.1 ads.afixi.com
 
 # afreehome.com
 
@@ -4868,7 +4861,6 @@
 # auditude.com
 
 # aureate.com
-127.0.0.1 aureate.com
 
 # auto-bannertausch.de
 127.0.0.1 auto-bannertausch.de
@@ -5165,7 +5157,6 @@
 # bannermarkt.nl
 
 # bannermat.com
-127.0.0.1 bannermat.com
 
 # bannernetwork.it
 
@@ -5186,7 +5177,6 @@
 127.0.0.1 bannerswap.com
 
 # bannertrack.net
-127.0.0.1 ox-d.bannertrack.net
 
 # bannerware.com
 127.0.0.1 bannerware.com
@@ -5484,8 +5474,6 @@
 127.0.0.1 play.bitcasino.io
 
 # bitgravity.com
-127.0.0.1 bitcast-a.bitgravity.com
-127.0.0.1 bitcast-a.v1.iad1.bitgravity.com
 
 # bitsonthewire.com
 127.0.0.1 bitsonthewire.com
@@ -5555,7 +5543,6 @@
 127.0.0.1 trk.blamads.com
 
 # blast4traffic.com
-127.0.0.1 blast4traffic.com
 
 # blastro.com
 127.0.0.1 ads2.blastro.com
@@ -6082,7 +6069,6 @@
 127.0.0.1 buylicensekey.com
 
 # buysell.com
-127.0.0.1 ads.buysell.com
 
 # buysellads.com
 127.0.0.1 s3.buysellads.com
@@ -6693,7 +6679,6 @@
 127.0.0.1 clickbrokers.com
 
 # clickbux.ru
-127.0.0.1 clickbux.ru
 
 # clickcash.com
 127.0.0.1 apps.clickcash.com
@@ -7091,7 +7076,6 @@
 
 # compete.com
 127.0.0.1 compete.com
-127.0.0.1 siteanalytics.compete.com
 
 # competeinc.com
 127.0.0.1 competeinc.com
@@ -7274,7 +7258,6 @@
 127.0.0.1 counterbot.com
 
 # countit.ch
-127.0.0.1 countit.ch
 
 # countmaster.com
 127.0.0.1 countmaster.com
@@ -7553,7 +7536,6 @@
 # cygo.net
 
 # czech-sex.cz
-127.0.0.1 banner.czech-sex.cz
 
 # czi.cz
 127.0.0.1 banners.czi.cz
@@ -7589,7 +7571,6 @@
 127.0.0.1 realmedia-a800.d4p.net
 
 # d87.eu
-127.0.0.1 d87.eu
 
 # dac.co.jp
 127.0.0.1 dac.co.jp
@@ -7973,7 +7954,6 @@
 
 # dmm.com
 127.0.0.1 al.dmm.com
-127.0.0.1 blogparts.dmm.com
 127.0.0.1 widget-view.dmm.com
 
 # dmpi.net
@@ -8929,7 +8909,6 @@
 127.0.0.1 eosesd.org
 
 # epltalk.com
-127.0.0.1 ads.epltalk.com
 
 # epochtimes.com
 127.0.0.1 ad.epochtimes.com
@@ -9888,7 +9867,6 @@
 127.0.0.1 img.fluct.jp
 
 # fluent.ltd.uk
-127.0.0.1 adserver4.fluent.ltd.uk
 127.0.0.1 hexusads.fluent.ltd.uk
 
 # flurry.com
@@ -9987,7 +9965,6 @@
 127.0.0.1 click.fool.com
 
 # footballmedia.com
-127.0.0.1 ads.footballmedia.com
 
 # footymad.net
 127.0.0.1 adcycle.footymad.net
@@ -10437,7 +10414,6 @@
 # gban.jp
 
 # gbscript.com
-127.0.0.1 gbscript.com
 
 # gccx.com
 127.0.0.1 ads1.gccx.com
@@ -11025,7 +11001,6 @@
 127.0.0.1 ads.gravytrainproductions.com
 
 # greatoutdoors.com
-127.0.0.1 ads.greatoutdoors.com
 
 # gree.jp
 127.0.0.1 gree.jp
@@ -11091,7 +11066,6 @@
 
 # gtop.ro
 127.0.0.1 gtop.ro
-127.0.0.1 static.gtop.ro
 
 # guardian.co.uk
 127.0.0.1 adimage.guardian.co.uk
@@ -12984,7 +12958,6 @@
 127.0.0.1 xapi.jads.co
 
 # janes.com
-127.0.0.1 adserver.janes.com
 
 # janes.org
 127.0.0.1 adserver.janes.org
@@ -13007,7 +12980,6 @@
 127.0.0.1 jdoingtrkac.com
 
 # jerk2it.com
-127.0.0.1 ads.jerk2it.com
 
 # jetblue.com
 127.0.0.1 omnistats.jetblue.com
@@ -13076,7 +13048,6 @@
 127.0.0.1 aff.jskyservices.com
 
 # jspy.ru
-127.0.0.1 jspy.ru
 
 # juandou.com
 127.0.0.1 juandou.com
@@ -13613,7 +13584,6 @@
 127.0.0.1 linkconnector.com
 
 # linkcounter.com
-127.0.0.1 linkcounter.com
 
 # linkedin.com
 127.0.0.1 platform.linkedin.com
@@ -15147,7 +15117,6 @@
 # mobvault.com
 
 # mocean.mobi
-127.0.0.1 mocean.mobi
 
 # mochiads.com
 127.0.0.1 xs.mochiads.com
@@ -15437,7 +15406,6 @@
 127.0.0.1 images.myareaguide.com
 
 # mybrighthouse.com
-127.0.0.1 partners.cfl.mybrighthouse.com
 
 # mybuys.com
 127.0.0.1 t.p.mybuys.com
@@ -15973,7 +15941,6 @@
 127.0.0.1 netcounter.de
 
 # netdialogs.de
-127.0.0.1 ad.netdialogs.de
 
 # netdirect.nl
 127.0.0.1 netdirect.nl
@@ -16641,7 +16608,6 @@
 127.0.0.1 onlinecount.com
 
 # onlineshoes.com
-127.0.0.1 om.onlineshoes.com
 
 # onlinewelten.com
 127.0.0.1 lifemediahouse1.onlinewelten.com
@@ -17396,7 +17362,6 @@
 127.0.0.1 playhaven.com
 
 # playlistmag.com
-127.0.0.1 a.playlistmag.com
 
 # playminigolf.com
 127.0.0.1 playminigolf.com
@@ -18210,7 +18175,6 @@
 # referer.org
 
 # regiedepub.com
-127.0.0.1 ads.regiedepub.com
 
 # regifast.com
 127.0.0.1 regifast.com
@@ -18336,7 +18300,6 @@
 127.0.0.1 rewardsengine.com
 
 # rewardster.com
-127.0.0.1 rewardster.com
 
 # rexmag.com
 127.0.0.1 banners.rexmag.com
@@ -19245,7 +19208,6 @@
 127.0.0.1 log002.acc.shop-pro.jp
 
 # shop.com
-127.0.0.1 a.shop.com
 
 # shopnav.com
 127.0.0.1 shopnav.com
@@ -19291,7 +19253,6 @@
 127.0.0.1 cache.sidefind.com
 
 # sify.com
-127.0.0.1 dc.sify.com
 
 # signonsandiego.com
 127.0.0.1 ads.signonsandiego.com
@@ -19897,7 +19858,6 @@
 127.0.0.1 spywarecrusher.com
 
 # spywarevanisher.com
-127.0.0.1 spywarevanisher.com
 
 # squidanalytics.com
 127.0.0.1 aws.tracker.squidanalytics.com
@@ -20643,7 +20603,6 @@
 127.0.0.1 textlinks.com
 
 # tfag.de
-127.0.0.1 ak.tfag.de
 127.0.0.1 tfag.de
 
 # tgptraffic.biz
@@ -21304,7 +21263,6 @@
 127.0.0.1 ads.travellogger.com
 
 # travelnow.com
-127.0.0.1 affiliate.travelnow.com
 127.0.0.1 openad.travelnow.com
 
 # travelocity.com
@@ -21551,8 +21509,6 @@
 127.0.0.1 blog.udn.com
 
 # udub.com
-127.0.0.1 bar.hit-counter.udub.com
-127.0.0.1 hit-counter.udub.com
 
 # uea.edu.br
 
@@ -22398,7 +22354,6 @@
 # weblio.jp
 
 # weblogssl.com
-127.0.0.1 ads2.weblogssl.com
 
 # webmasterplan.com
 
@@ -22650,8 +22605,6 @@
 127.0.0.1 ads.wiredpussy.com
 
 # wisdom.bg
-127.0.0.1 adv.wisdom.bg
-127.0.0.1 reklama.wisdom.bg
 
 # wisewire.com
 127.0.0.1 wisewire.com
